@@ -1,0 +1,66 @@
+.footer {
+  background-color: #132946;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  font-weight: 200;
+  margin-top: auto;
+}
+
+.footerText {
+  color: white;
+  margin: 0;
+}
+
+.socialLinks {
+  margin-top: 10px;
+}
+
+.socialLink {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  display: inline-block;
+}
+
+.socialLink:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .footerText span {
+    display: block;
+    margin-bottom: 5px; /* Відступ між рядками на малих екранах */
+  }
+}
+
+@media (min-width: 769px) {
+  .footerText span:first-child {
+    display: inline; /* Відображення тексту в одному рядку на великих екранах */
+  }
+  .footerText span:last-child {
+    display: inline-block;
+    margin-left: 5px; /* Невеликий відступ між частинами тексту */
+  }
+}
+
+.socialLinks {
+  margin-top: 10px;
+}
+
+.socialLink {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  display: inline-block;
+}
+
+.socialLink:hover {
+  text-decoration: underline;
+}
+
+@media (min-width: 768px) {
+  .socialLink {
+    margin: 0 20px;
+  }
+}

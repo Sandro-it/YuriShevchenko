@@ -1,0 +1,167 @@
+.contactPage {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  padding-top: 40px;
+  overflow-x: hidden;
+}
+
+.leftColumn,
+.rightColumn {
+  flex: 1;
+  width: 100%;
+  max-width: 100%;
+  /* padding: 20px 20px 20px 0; */
+}
+
+/* .leftColumn {
+    border-right: 1px solid #ccc;
+  } */
+
+h1 {
+  margin-top: 0;
+}
+
+.rightColumn {
+  padding-left: 60px;
+  padding-top: 10px;
+}
+
+.contactForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.formGroup {
+  margin-bottom: 15px;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: block;
+  color: #132946;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-family: "Exo 2", sans-serif;
+  box-sizing: border-box;
+}
+
+textarea {
+  resize: none;
+}
+
+inputError {
+  border-color: red;
+}
+
+.errorText {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #132946;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+button:hover,
+button:focus {
+  background-color: #244e86; /* Змінює фон на ваш колір при наведенні та фокусі */
+  color: #ffffff; /* Колір тексту залишається білим */
+}
+
+button:disabled {
+  background-color: #777;
+}
+
+/* Responsive styles for mobile devices */
+@media (max-width: 768px) {
+  .contactPage {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    padding-top: 40px;
+  }
+
+  .leftColumn,
+  .rightColumn {
+    width: 100%;
+  }
+
+  .leftColumn {
+    border-right: none;
+    margin-bottom: 20px;
+    padding-right: 0;
+    text-align: left;
+  }
+
+  .rightColumn {
+    padding-left: 0;
+  }
+}
+
+[data-theme="dark"] input,
+[data-theme="dark"] textarea {
+  background-color: #333; /* Темний фон для інпутів */
+  color: #fff; /* Білий колір тексту */
+  border: 1px solid #555; /* Темний колір обведення */
+}
+
+[data-theme="dark"] input:focus,
+[data-theme="dark"] input:hover,
+[data-theme="dark"] textarea:focus,
+[data-theme="dark"] textarea:hover {
+  border-color: #777; /* Світліша обведення під час фокусу */
+}
+
+[data-theme="dark"] label {
+  color: #ccc; /* Світлий колір тексту лейблів */
+}
+
+[data-theme="dark"] .inputError {
+  border-color: #ff6b6b; /* Червоне обведення для інпутів з помилками */
+}
+
+[data-theme="dark"] .errorText {
+  color: #ff6b6b; /* Червоний колір для тексту помилок */
+}
+
+[data-theme="dark"] input:-webkit-autofill,
+[data-theme="dark"] input:-webkit-autofill:hover,
+[data-theme="dark"] input:-webkit-autofill:focus,
+[data-theme="dark"] textarea:-webkit-autofill,
+[data-theme="dark"] textarea:-webkit-autofill:hover,
+[data-theme="dark"] textarea:-webkit-autofill:focus {
+  background-color: #333 !important;
+  color: #fff !important;
+  border: 1px solid #555 !important;
+  -webkit-box-shadow: 0 0 0px 1000px #333 inset !important;
+  box-shadow: 0 0 0px 1000px #333 inset !important;
+  -webkit-text-fill-color: #fff !important; /* Змінює колір тексту в автозаповнених полях */
+}
+
+[data-theme="dark"] ::placeholder {
+  color: #ccc; /* Світлий колір підказок для темної теми */
+  opacity: 1; /* Забезпечує, що підказка має встановлений колір */
+}
+
+[data-theme="dark"] :-ms-input-placeholder {
+  color: #ccc; /* Для підтримки в Internet Explorer 10-11 */
+}
+
+[data-theme="dark"] ::-ms-input-placeholder {
+  color: #ccc; /* Для підтримки в Microsoft Edge */
+}

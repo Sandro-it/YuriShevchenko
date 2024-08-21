@@ -1,0 +1,871 @@
+{
+    "works": [
+      {
+        "id": "work1",
+        "category": "Musical-Theatrical Works",
+        "title": "Ballet 'Pinocchio and the Magic Violin' ('Adventures of Pinocchio')",
+        "year": "NOA. 2007",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Буратіно.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work2",
+        "category": "Musical-Theatrical Works",
+        "title": "Ballet 'Chasing Two Hares'",
+        "year": "NOA. 2017",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Зайці.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work3",
+        "category": "Musical-Theatrical Works",
+        "title": "Ballet 'Barmaley and Aibolit'",
+        "year": "Kyiv Opera. 2009",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Бармалей.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work4",
+        "category": "Musical-Theatrical Works",
+        "title": "Ballet 'Katrusya'",
+        "year": "1995",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Катруся.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work5",
+        "category": "Musical-Theatrical Works",
+        "title": "Ballet 'Perun'",
+        "year": "1993",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Перун.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work6",
+        "category": "Musical-Theatrical Works",
+        "title": "Ballet 'Cinderella'",
+        "year": "2000",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Сіндерела.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work7",
+        "category": "Musical-Theatrical Works",
+        "title": "Ballet 'What the Wind Brought...'",
+        "year": "2005",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Те_що_приніс_вітер.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work8",
+        "category": "Musical-Theatrical Works",
+        "title": "Ballet 'The Zaporozhets Beyond the Danube'",
+        "year": "Year???",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Запорожець.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work9",
+        "category": "Musical-Theatrical Works",
+        "title": "Children's Opera 'King Thrushbeard'",
+        "year": "Kyiv Opera. 2018",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Король_Дроздобород.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work10",
+        "category": "Musical-Theatrical Works",
+        "title": "Opera 'Puss in Boots'",
+        "year": "NOA. 2023",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Кіт_у_Чоботях.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work11",
+        "category": "Musical-Theatrical Works",
+        "title": "Ballet 'Thumbelina'",
+        "year": "Odesa Opera. 2022",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Дюймовонька.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work12",
+        "category": "Musical-Theatrical Works",
+        "title": "Folklore Symphonic-Choreographic Suite 'Seasons'",
+        "year": "",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Пори_року.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work13",
+        "category": "Vocal-Symphonic Works",
+        "title": "Cantata-Ballet 'Kobzar'",
+        "year": "NOA. 2016",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Кобзар.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work14",
+        "category": "Symphony Orchestra",
+        "title": "Music for the Ballet 'Chasing Two Hares'",
+        "year": "Year???",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Зайці_музика.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work15",
+        "category": "Symphony Orchestra",
+        "title": "'The Zaporozhets Beyond the Danube' Suite from the Ballet Based on the Opera by S. Hulak-Artemovsky",
+        "year": "Year???",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Запорожець_сцена.jpg",
+        "videoUrl": "https://youtu.be/HsKI5R3Ip3c"
+      },
+      {
+        "id": "work16",
+        "category": "Symphony Orchestra",
+        "title": "Shumka - Hopak",
+        "year": "Year???",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Шумка_Гопак.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work17",
+        "category": "Symphony Orchestra",
+        "title": "Shchedryk",
+        "year": "Year???",
+        "description": "Description of the work...",
+        "imageUrl": "/images/Щедрик.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work18",
+        "category": "Chamber Orchestra",
+        "title": "Crossed Paths",
+        "year": "Year???",
+        "description": "Suite from the music for the play based on the story by I. Franko.",
+        "imageUrl": "/images/Перехресні_стежки.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work19",
+        "category": "Chamber Orchestra",
+        "title": "Batyarska Song",
+        "year": "Year???",
+        "description": "Work for chamber orchestra.",
+        "imageUrl": "/images/Батярська_Пісня.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work20",
+        "category": "Chamber Orchestra",
+        "title": "Consodance",
+        "year": "Year???",
+        "description": "Work for orchestra.",
+        "imageUrl": "/images/Консоданс.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work21",
+        "category": "Chamber Orchestra",
+        "title": "The Starry Boy",
+        "year": "2022",
+        "description": "Work for chamber orchestra.",
+        "imageUrl": "/images/Зоряний_хлопчик.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work22",
+        "category": "Chamber Orchestra",
+        "title": "Pastoral Suite",
+        "year": "Year???",
+        "description": "Suite for woodwinds, percussion, and harp.",
+        "imageUrl": "/images/Пасторальна_сюїта.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work23",
+        "category": "Works for Solo Instruments with Chamber Orchestra",
+        "title": "Hamlet Suite",
+        "year": "Year???",
+        "description": "9 theatrical sketches for violin and chamber orchestra.",
+        "imageUrl": "/images/Гамлет.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work24",
+        "category": "Works for Solo Instruments with Chamber Orchestra",
+        "title": "You Walk Day and Night",
+        "year": "Year???",
+        "description": "For viola and orchestra. Paraphrase on a theme from Hulak-Artemovsky's opera 'The Zaporozhets Beyond the Danube'.",
+        "imageUrl": "/images/Ти_гуляєш.jpg",
+        "videoUrl": ""
+      },
+      {
+        "id": "work25",
+        "category": "Works for Solo Instruments with Chamber Orchestra",
+        "title": "Old World Elegy",
+        "year": "Year???",
+        "description": "For viola and strings.",
+        "imageUrl": "/images/Старосвітська_елегія.jpg",
+        "videoUrl": ""
+      },
+      {
+            "id": "work26",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Cadence",
+            "year": "year???",
+            "description": "For piano, chamber orchestra, and percussion.",
+            "imageUrl": "/images/Cadence.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work27",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Soundtrack",
+            "year": "year???",
+            "description": "For violin, chamber orchestra, and percussion.",
+            "imageUrl": "/images/Soundtrack.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work28",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Three Portraits from the Ballet 'Chasing Two Hares'",
+            "year": "year???",
+            "description": "For violin and chamber orchestra.",
+            "imageUrl": "/images/Three_Portraits.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work29",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Vocalise",
+            "year": "year???",
+            "description": "In memory of a friend – conductor Sergey Malovanny for violin and strings.",
+            "imageUrl": "/images/Vocalise.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work30",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Vocalise for Trumpet and Strings",
+            "year": "year???",
+            "description": "Version for trumpet and strings.",
+            "imageUrl": "/images/Vocalise_Trumpet.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=9xlquJzAcQ8"
+          },
+          {
+            "id": "work31",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "We Exist",
+            "year": "2014",
+            "description": "For solo violin and chamber orchestra. Paraphrase on Mykola Lysenko’s theme - State Anthem of Ukraine.",
+            "imageUrl": "/images/We_Exist.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=GEu86XXO6Dw"
+          },
+          {
+            "id": "work32",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Batyar Songs",
+            "year": "year???",
+            "description": "For violin and strings.",
+            "imageUrl": "/images/Batyar_Songs.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=v02sFhmBn1U"
+          },
+          {
+            "id": "work33",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Concertino 'Teacher and Student'",
+            "year": "year???",
+            "description": "For 2 violins and orchestra / 2 violins, organ, and orchestra.",
+            "imageUrl": "/images/Concertino.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=hjwo0hFn2cc"
+          },
+          {
+            "id": "work34",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Viennese Salad",
+            "year": "year???",
+            "description": "For three violins with chamber orchestra.",
+            "imageUrl": "/images/Viennese_Salad.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=DeRtC8XdHGI"
+          },
+          {
+            "id": "work35",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Love Madness",
+            "year": "year???",
+            "description": "Theatrical suite for violin and string orchestra.",
+            "imageUrl": "/images/Love_Madness.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work36",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Humoresque",
+            "year": "year???",
+            "description": "For flute and chamber orchestra.",
+            "imageUrl": "/images/Humoresque.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=ss9bgln6Px4"
+          },
+          {
+            "id": "work37",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Concert Fantasy",
+            "year": "year???",
+            "description": "Paraphrase-buff on the theme of two Ukrainian folk songs 'What a Night...' for violin and strings.",
+            "imageUrl": "/images/Concert_Fantasy.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=S2oaltEW2No"
+          },
+          {
+            "id": "work38",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Thumbelina Suite",
+            "year": "year???",
+            "description": "Dedicated to Bohdana Pivnenko and her students for violin and piano.",
+            "imageUrl": "/images/Thumbelina_Suite.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=6amij0IsLsw"
+          },
+          {
+            "id": "work39",
+            "category": "Works for Solo Instruments with Chamber Orchestra",
+            "title": "Warm Rain",
+            "year": "year???",
+            "description": "For cello, piano, and strings.",
+            "imageUrl": "/images/Warm_Rain.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work40",
+            "category": "Chamber Instrumental Works",
+            "title": "Work 1",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Work1.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work41",
+            "category": "Piano Works",
+            "title": "Work 2",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Work2.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work42",
+            "category": "Vocal Works",
+            "title": "5 parts from the play 'Love Madness'",
+            "year": "year???",
+            "description": "For baritone and chamber orchestra.",
+            "imageUrl": "/images/Love_Madness_Vocal.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=rZb4q1HrVg&t=2360s"
+          },
+          {
+            "id": "work43",
+            "category": "Vocal Works",
+            "title": "We are chaste and innocent",
+            "year": "year???",
+            "description": "For voice and ensemble (from the play).",
+            "imageUrl": "/images/Chaste_and_Innocent.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=_wDNwv4Aw-w"
+          },
+          {
+            "id": "work44",
+            "category": "Vocal Works",
+            "title": "Golden Moon",
+            "year": "year???",
+            "description": "For voice and ensemble.",
+            "imageUrl": "/images/Golden_Moon.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=c-h78JpbgTA"
+          },
+          {
+            "id": "work45",
+            "category": "Vocal Works",
+            "title": "Charming Katrin",
+            "year": "year???",
+            "description": "For voice and ensemble.",
+            "imageUrl": "/images/Charming_Katrin.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=zsfg2p5nWWU"
+          },
+          {
+            "id": "work46",
+            "category": "Vocal Works",
+            "title": "Three Songs to the poems of G. Alekseeva",
+            "year": "year???",
+            "description": "For voice and ensemble.",
+            "imageUrl": "/images/Three_Songs.jpg",
+            "videoUrl": "https://www.youtube.com/watch?v=S0KslDvE1SY"
+          },
+          {
+            "id": "work47",
+            "category": "Sacred Music",
+            "title": "Work 1",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Sacred_Music1.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work48",
+            "category": "Pop Songs",
+            "title": "Work 2",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Pop_Songs1.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work49",
+            "category": "Transcriptions / Arrangements for Chamber Orchestra",
+            "title": "Music of Louise",
+            "year": "year???",
+            "description": "Arrangement for solo violin and string orchestra.",
+            "imageUrl": "/images/Music_of_Louise.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work50",
+            "category": "Music for Drama Performances",
+            "title": "Snail and Her House",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Snail.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work51",
+            "category": "Music for Drama Performances",
+            "title": "Love Madness",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Love_Madness_Drama.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work52",
+            "category": "Music for Drama Performances",
+            "title": "Boyarynya",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Boyarynya.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work53",
+            "category": "Music for Drama Performances",
+            "title": "School for Scandal by R. Sheridan",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/School_for_Scandal.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work54",
+            "category": "Music for Drama Performances",
+            "title": "Madame Minister by B. Nushich",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Madame_Minister.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work55",
+            "category": "Music for Drama Performances",
+            "title": "It Is Dangerous to Deal with You by O. Arbuzov",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Dangerous_to_Deal.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work56",
+            "category": "Music for Drama Performances",
+            "title": "My Mocking Happiness by L. Malyugin",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/My_Mocking_Happiness.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work57",
+            "category": "Music for Drama Performances",
+            "title": "Napoleon and the Corsican Woman by I. Gubich",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Napoleon.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work58",
+            "category": "Music for Drama Performances",
+            "title": "Don Quixote. 1938 by M. Bulgakov (based on M. Cervantes)",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Don_Quixote.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work59",
+            "category": "Music for Drama Performances",
+            "title": "Winter Evening by M. Starytsky",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Winter_Evening.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work60",
+            "category": "Music for Drama Performances",
+            "title": "Pathetic Sonata by M. Kulish",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Pathetic_Sonata.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work61",
+            "category": "Music for Drama Performances",
+            "title": "The Forest Song by Lesya Ukrainka",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/The_Forest_Song.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work62",
+            "category": "Music for Drama Performances",
+            "title": "Don Juan by J.-B. Molière",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Don_Juan.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work63",
+            "category": "Music for Drama Performances",
+            "title": "Hamlet by W. Shakespeare",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Hamlet.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work64",
+            "category": "Music for Drama Performances",
+            "title": "Love’s Round Dance by A. Schnitzler – at the Kyiv Academic Youth Theatre",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Love_Round_Dance.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work65",
+            "category": "Music for Drama Performances",
+            "title": "Rosmersholm by H. Ibsen",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Rosmersholm.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work66",
+            "category": "Music for Cartoons",
+            "title": "Frosts and Cold",
+            "year": "1986",
+            "description": "Work description...",
+            "imageUrl": "/images/Frosts_and_Cold.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work67",
+            "category": "Music for Cartoons",
+            "title": "Hedgehog and Girl",
+            "year": "1988",
+            "description": "Work description...",
+            "imageUrl": "/images/Hedgehog_and_Girl.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work68",
+            "category": "Music for Cartoons",
+            "title": "The Story of the Girl Who Stepped on Bread",
+            "year": "1986",
+            "description": "Work description...",
+            "imageUrl": "/images/Story_of_the_Girl.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work69",
+            "category": "Music for Cartoons",
+            "title": "Jump to the Cloud",
+            "year": "1988",
+            "description": "Work description...",
+            "imageUrl": "/images/Jump_to_the_Cloud.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work70",
+            "category": "Music for Cartoons",
+            "title": "Ivasyk-Telesyk",
+            "year": "1989",
+            "description": "Work description...",
+            "imageUrl": "/images/Ivasyk-Telesyk.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work71",
+            "category": "Music for Cartoons",
+            "title": "Laughing Pot",
+            "year": "1990",
+            "description": "Work description...",
+            "imageUrl": "/images/Laughing_Pot.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work72",
+            "category": "Music for Cartoons",
+            "title": "Cat and Rooster",
+            "year": "1991",
+            "description": "Work description...",
+            "imageUrl": "/images/Cat_and_Rooster.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work73",
+            "category": "Music for Cartoons",
+            "title": "The Lame Duck",
+            "year": "1992",
+            "description": "Work description...",
+            "imageUrl": "/images/Lame_Duck.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work74",
+            "category": "Music for Cartoons",
+            "title": "Hunting",
+            "year": "1992",
+            "description": "Work description...",
+            "imageUrl": "/images/Hunting.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work75",
+            "category": "Music for Cartoons",
+            "title": "Cat Basilio and Mouse Pic",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Cat_Basilio.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work76",
+            "category": "Music for Films",
+            "title": "Dandelion Bloom (at the Kyiv Dovzhenko Film Studio)",
+            "year": "1992",
+            "description": "Work description...",
+            "imageUrl": "/images/Dandelion_Bloom.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work77",
+            "category": "Music for Films",
+            "title": "The Last Autumn Leaf (short film)",
+            "year": "2005",
+            "description": "Work description...",
+            "imageUrl": "/images/Last_Autumn_Leaf.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work78",
+            "category": "Music for Films",
+            "title": "Weekend Romance",
+            "year": "2008",
+            "description": "Work description...",
+            "imageUrl": "/images/Weekend_Romance.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work79",
+            "category": "Other",
+            "title": "The Enamored Bandurist for bandura and folk instruments orchestra",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Enamored_Bandurist.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work80",
+            "category": "Other",
+            "title": "Cantata for children's choir 'Sun-Yarylo'",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Sun-Yarylo.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work81",
+            "category": "Additional",
+            "title": "The Road (E minor) for folk instruments orchestra",
+            "conductor": "Conductor V. Hutsal",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/The_Road.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work82",
+            "category": "Additional",
+            "title": "Elegy (E minor) for folk instruments orchestra",
+            "conductor": "Conductor V. Hutsal",
+            "soloist": "Soloist Yuri Yatsenko (kobza)",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Elegy.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work83",
+            "category": "Additional",
+            "title": "Vesnyanka for folk instruments orchestra",
+            "conductor": "Conductor V. Varakuta",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Vesnyanka.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work84",
+            "category": "Additional",
+            "title": "Instrumental piece conducted by Y. Shevchenko (+ solo saxophone)",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Instrumental_Piece.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work85",
+            "category": "Additional",
+            "title": "'We Exist' for violin and strings",
+            "ensemble": "Ensemble 'Artekhatta'",
+            "soloist": "Solo – Myroslava Kotorovich",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/We_Exist.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work86",
+            "category": "Additional",
+            "title": "Paraphrase on Ukrainian Theme for folk instruments orchestra",
+            "conductor": "Conductor V. Hutsal",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Paraphrase_Ukrainian_Theme.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work87",
+            "category": "Additional",
+            "title": "Piece for bayan and folk instruments orchestra",
+            "conductor": "Conductor V. Hutsal",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Piece_for_Bayan.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work88",
+            "category": "Additional",
+            "title": "Dance for bayan and folk instruments orchestra",
+            "conductor": "AON and PM, Conductor – Ponomarchuk",
+            "year": "year???",
+            "description": "Work description...",
+            "imageUrl": "/images/Dance.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work89",
+            "category": "Radio Plays",
+            "title": "Music for Radio Play 'Giordano Bruno'",
+            "year": "1987",
+            "description": "Ensemble conducted by Y. Shevchenko",
+            "imageUrl": "/images/Giordano_Bruno.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work90",
+            "category": "Radio Plays",
+            "title": "Music for Radio Play 'The Defense of Busha'",
+            "year": "1991",
+            "description": "Ensemble conducted by Y. Shevchenko",
+            "imageUrl": "/images/Defense_of_Busha.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work91",
+            "category": "Plays",
+            "title": "Music for the play 'Trap'",
+            "year": "1988",
+            "description": "Ensemble conducted by Y. Shevchenko",
+            "imageUrl": "/images/Trap.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work92",
+            "category": "Radio Plays",
+            "title": "Music for Radio Play 'On the Way to Fairy Tale'",
+            "year": "1989",
+            "description": "Ensemble conducted by Y. Shevchenko",
+            "imageUrl": "/images/Way_to_Fairy_Tale.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work93",
+            "category": "Radio Plays",
+            "title": "Music for Radio Play 'Solo on the Flute'",
+            "year": "1987",
+            "description": "Ensemble conducted by Y. Shevchenko",
+            "imageUrl": "/images/Solo_on_the_Flute.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work94",
+            "category": "Radio Plays",
+            "title": "Music for Radio Play 'Snow in Florence'",
+            "year": "1987",
+            "description": "Ensemble conducted by Y. Shevchenko",
+            "imageUrl": "/images/Snow_in_Florence.jpg",
+            "videoUrl": ""
+          },
+          {
+            "id": "work95",
+            "category": "Radio Plays",
+            "title": "Music for Radio Play 'The Wall'",
+            "year": "1989",
+            "description": "Ensemble conducted by Y. Shevchenko (synthesizers)",
+            "imageUrl": "/images/The_Wall.jpg",
+            "videoUrl": ""
+          }
+        ]
+    }
+          
+          
+  

@@ -1,0 +1,114 @@
+.biographyPage {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 20px;
+  padding-top: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: calc(
+    100vh - 100px
+  ); /* Забезпечує, що контент займає весь екран */
+  box-sizing: border-box; /* Включає падінги в розміри */
+}
+
+.textSection {
+  flex: 0 1 55%; /* Зменшуємо ширину текстового блоку */
+  margin-right: 20px;
+}
+
+.imageSection {
+  flex: 0 1 45%; /* Збільшуємо ширину блоку з фото */
+  display: flex;
+  justify-content: center; /* Вирівнює зображення по центру */
+  align-items: center; /* Вирівнює зображення по вертикалі */
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.biographyPage h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.biographyPage h2 {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.biographyPage p {
+  /* font-size: 16px; */
+  /* line-height: 1.6; */
+  /* color: #555; */
+  margin-bottom: 15px;
+}
+
+.biographyPage .importantDates {
+  font-style: italic;
+  /* color: #777; */
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.biographyPage .photo {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  margin-bottom: 0; /* Забирає зайві відступи */
+  margin-left: 20px;
+}
+
+/* Responsive styles for mobile devices */
+@media (max-width: 768px) {
+  .biographyPage {
+    flex-direction: column;
+    align-items: center;
+    min-height: auto;
+    padding-bottom: 0;
+  }
+
+  .textSection {
+    margin-right: 0;
+    margin-bottom: 20px;
+    width: 100%; /* Робимо текстовий блок ширшим на мобільних пристроях */
+  }
+
+  .imageSection {
+    width: 100%;
+    align-items: last baseline;
+    margin-left: 0;
+  }
+
+  .biographyPage .photo {
+    margin-bottom: 0; /* Remove margin-bottom on smaller screens */
+    margin-left: 0;
+  }
+
+  .biographyPage h1 {
+    font-size: 28px;
+  }
+
+  .biographyPage h2 {
+    font-size: 20px;
+  }
+
+  .biographyPage p {
+    font-size: 14px;
+  }
+}
+
+/* [data-theme="dark"] .biographyPage p {
+    color: #e0e0e0; /* Світліший колір для темної теми */
+/*} */
+
+[data-theme="dark"] .biographyPage .importantDates {
+  color: #999; /* Змінює колір дати для темної теми */
+}
+
+/* [data-theme="dark"] .biographyPage h1,
+  [data-theme="dark"] .biographyPage h2 {
+    color: #928c8c; /* Змінює колір заголовків для темної теми */
+/*} */

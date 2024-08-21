@@ -1,0 +1,118 @@
+.workPage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.topSection {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.contentSection {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.textSection {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.imageSection {
+  flex: 0 1 400px;
+}
+
+.backButton {
+  padding: 10px 20px;
+  background-color: #132946;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  align-self: flex-start;
+  font-size: 14px; /* Використовуємо базовий розмір шрифту для кнопки */
+}
+
+.backButton:hover {
+  background-color: #244e86;
+}
+
+.workPage h1 {
+  /* font-size: 28px; */
+  margin-bottom: 20px;
+  /* text-align: left; */
+}
+
+.workPage .description {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  /* text-align: left; */
+}
+
+.workPage .photo {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.workPage .link {
+  font-weight: 400;
+  font-size: 16px;
+  color: #0f81eb;
+  text-decoration: none;
+}
+
+.workPage .link:hover {
+  text-decoration: none;
+  font-weight: 500;
+  color: #4a9ae6;
+}
+
+@media (max-width: 768px) {
+  .contentSection {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .textSection {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .imageSection {
+    width: 100%;
+  }
+
+  .backButton {
+    font-size: 12px; /* Зменшуємо шрифт на мобільних пристроях */
+    padding: 8px 16px;
+  }
+
+  h1 {
+    font-size: 28px !important;
+  }
+
+  h2 {
+    font-size: 20px !important;
+  }
+
+  p {
+    font-size: 14px !important;
+  }
+}
+
+/* Стиль для темної теми */
+[data-theme="dark"] .workPage .link {
+  color: #0f81eb;
+}
+
+[data-theme="dark"] .workPage .link:hover {
+  color: #4a9ae6;
+}

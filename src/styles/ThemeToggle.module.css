@@ -1,0 +1,21 @@
+.themeToggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: "Exo 2", sans-serif;
+  font-size: 1rem;
+  padding: 5px 10px;
+  color: inherit;
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.themeToggle:hover {
+  background-color: #244e86; /* Змінює фон на ваш колір при наведенні */
+  color: #ffffff; /* Змінює колір тексту на білий при наведенні */
+}
+
+@media (max-width: 768px) {
+  .themeToggle {
+    font-size: 14px; /* Зменшення шрифту для мобільних пристроїв */
+  }
+}

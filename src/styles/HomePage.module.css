@@ -1,0 +1,78 @@
+.homePage {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  padding-top: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 80vh;
+}
+
+.leftSection {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  transform: translateY(-20%);
+  max-width: 500px;
+}
+
+.newPhoto {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+[data-theme="dark"] .newPhoto {
+  content: url("/public/images/Sheva-white-min.png");
+}
+
+.description {
+  max-width: 500px;
+}
+
+.rightSection {
+  flex: 0 1 400px;
+  max-width: 100%;
+}
+
+.photo {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  max-width: 400px;
+}
+
+@media (max-width: 768px) {
+  .homePage {
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 10px;
+    padding-top: 40px;
+    min-height: auto;
+    padding-bottom: 0;
+  }
+
+  .leftSection {
+    transform: none;
+    margin-bottom: 20px;
+  }
+
+  .rightSection {
+    flex: 0 1 100%;
+  }
+
+  .photo {
+    width: 100%;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  .newPhoto,
+  .description {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+}

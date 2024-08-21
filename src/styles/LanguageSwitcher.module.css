@@ -1,0 +1,47 @@
+.languageSwitcher {
+  position: relative;
+  display: inline-block;
+}
+
+.languageButton {
+  background-color: #132946;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-family: "Exo 2", sans-serif;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+.languageButton:hover {
+  background-color: #244e86;
+}
+
+.languageList {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #132946;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-top: 5px;
+  list-style: none;
+  padding: 0;
+  z-index: 1000;
+}
+
+.languageList li {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.languageList li:hover {
+  background-color: #244e86;
+}
+
+@media (max-width: 768px) {
+  .languageButton {
+    font-size: 14px; /* Зменшення шрифту для мобільних пристроїв */
+  }
+}

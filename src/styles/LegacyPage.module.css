@@ -1,0 +1,45 @@
+.legacyPage {
+  padding: 20px;
+  padding-top: 40px;
+  text-align: left;
+}
+
+.worksList {
+  list-style: none;
+  padding: 0;
+}
+
+.workLink {
+  font-size: 16px;
+  color: #132946;
+  text-decoration: none;
+  display: inline;
+  margin-bottom: 10px;
+}
+
+.legacyPage .workLink:hover {
+  font-weight: 500;
+  color: #244e86;
+}
+
+/* Стиль для темної теми */
+[data-theme="dark"] .workLink {
+  color: #e0e0e0;
+  font-weight: 300; /* Тонкий шрифт */
+}
+
+[data-theme="dark"] .legacyPage .workLink:hover {
+  color: #928c8c;
+}
+
+/* Адаптація для мобільних пристроїв */
+@media (max-width: 768px) {
+  .legacyPage {
+    padding: 10px;
+    padding-top: 40px;
+  }
+
+  .worksList {
+    padding-left: 15px; /* Забезпечення відступу для мобільних пристроїв */
+  }
+}

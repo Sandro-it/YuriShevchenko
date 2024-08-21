@@ -1,0 +1,34 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* мінімальна висота 100% в'юпорту */
+}
+
+main {
+  flex: 1; /* розтягує контент на всю доступну висоту */
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 768px) {
+  main {
+    padding: 0 10px;
+  }
+}
+
+/* Стиль для футера */
+.footer {
+  background-color: #132946;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: auto; /* Додає футер до низу сторінки, якщо контент короткий */
+}
+
+/* Додаткові стилі для хедера */
+.header {
+  background-color: #132946;
+  color: white;
+  padding: 10px 0;
+  width: 100%;
+}
