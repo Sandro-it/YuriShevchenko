@@ -20,8 +20,8 @@ const WorkPage = () => {
         <title>{`Твір: ${work.title} | Work: ${work.title} - Yuri Shevchenko`}</title>
         <meta
           name="description"
-          content={`Опис твору ${work.title}, створеного Юрієм Шевченком. 
-        Description of the work ${work.title} by Yuri Shevchenko.`}
+          content={`Опис твору ${work.title}, створеного Юрієм Шевченком.
+          Description of the work ${work.title} by Yuri Shevchenko.`}
         />
       </Helmet>
       <div className="container">

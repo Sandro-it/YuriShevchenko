@@ -42,7 +42,11 @@ const LanguageSwitcher = () => {
       onMouseLeave={handleMouseLeave}
     >
       <button className={styles.languageButton} onClick={toggleLanguages}>
-        {language === "uk" ? "Українська" : "English"}
+        {language === "uk"
+          ? "Українська"
+          : language === "en"
+          ? "English"
+          : "Deutsch"}
       </button>
       {showLanguages && (
         <ul
@@ -52,6 +56,7 @@ const LanguageSwitcher = () => {
         >
           <li onClick={() => changeLanguage("uk")}>Українська</li>
           <li onClick={() => changeLanguage("en")}>English</li>
+          <li onClick={() => changeLanguage("de")}>Deutsch</li>
         </ul>
       )}
     </div>
