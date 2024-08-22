@@ -1,4 +1,4 @@
-.homePage {
+/* .homePage {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -57,6 +57,282 @@
 
   .leftSection {
     transform: none;
+    margin-bottom: 20px;
+  }
+
+  .rightSection {
+    flex: 0 1 100%;
+  }
+
+  .photo {
+    width: 100%;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  .newPhoto,
+  .description {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+} */
+
+/*==================слайд шоу 1=========================*/
+
+/* .homePage {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  padding-top: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 80vh;
+}
+
+.leftSection {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 500px;
+}
+
+.newPhoto {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+[data-theme="dark"] .newPhoto {
+  content: url("/public/images/Sheva-white-min.png");
+}
+
+.description {
+  max-width: 500px;
+}
+
+.rightSection {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo {
+  width: 100%;
+  max-width: 600px; /* Збільшуємо максимальну ширину */
+/* height: auto;
+  object-fit: cover;
+  transition: opacity 0.5s ease-in-out;
+  margin-left: 40px; Додаємо відступ з лівої сторони */
+/* }
+
+@media (max-width: 768px) {
+  .homePage {
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 10px;
+    padding-top: 40px;
+    min-height: auto;
+    padding-bottom: 0;
+  }
+
+  .leftSection {
+    margin-bottom: 20px;
+  }
+
+  .rightSection {
+    flex: 0 1 100%;
+  }
+
+  .photo {
+    width: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    margin-left: 0; /* Забираємо відступ у мобільній версії */
+/* }
+
+  .newPhoto,
+  .description {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+} */
+
+/*====================слайд шоу 1 плавна зміна===========================*/
+
+/* .homePage {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  padding-top: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 80vh;
+}
+
+.leftSection {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 500px;
+}
+
+.newPhoto {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+[data-theme="dark"] .newPhoto {
+  content: url("/images/Sheva-white-min.png");
+}
+
+.description {
+  max-width: 500px;
+}
+
+.rightSection {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.photo {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  object-fit: cover;
+  position: absolute;
+  transition: opacity 1s ease-in-out;
+  tran
+}
+
+.fadeOut {
+  opacity: 0;
+}
+
+.fadeIn {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .homePage {
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 10px;
+    padding-top: 40px;
+    min-height: auto;
+    padding-bottom: 0;
+  }
+
+  .leftSection {
+    margin-bottom: 20px;
+  }
+
+  .rightSection {
+    flex: 0 1 100%;
+  }
+
+  .photo {
+    width: 100%;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  .newPhoto,
+  .description {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+} */
+
+/*==========================transition-transform====================*/
+
+.homePage {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  padding-top: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 80vh;
+}
+
+.leftSection {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 500px;
+}
+
+.newPhoto {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+[data-theme="dark"] .newPhoto {
+  content: url("/images/Sheva-white-min.png");
+}
+
+.description {
+  max-width: 500px;
+}
+
+.rightSection {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.photo {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  object-fit: cover;
+  position: absolute;
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out, transform 0.2s ease-in-out;
+  transform: scale(1); /* Невелике збільшення для плавного ефекту */
+}
+
+.photo.active {
+  opacity: 1;
+  transform: scale(1); /* Повернення до нормального розміру при появі */
+}
+
+.fadeOut {
+  opacity: 0;
+}
+
+.fadeIn {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .homePage {
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 10px;
+    padding-top: 40px;
+    min-height: auto;
+    padding-bottom: 0;
+  }
+
+  .leftSection {
     margin-bottom: 20px;
   }
 
