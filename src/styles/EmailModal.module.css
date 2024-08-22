@@ -24,7 +24,7 @@
   position: absolute;
   top: 10px;
   right: 10px;
-  background: none;
+  background-color: #132946;
   border: none;
   font-size: 24px;
   cursor: pointer;
@@ -39,14 +39,36 @@
   margin-bottom: 15px;
 }
 
-.inputField,
-.textArea {
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: block;
+  color: #132946;
+  text-align: left;
+}
+
+input,
+textarea {
   width: 100%;
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
   font-family: "Exo 2", sans-serif;
   box-sizing: border-box;
+}
+
+textarea {
+  resize: none;
+}
+
+.inputError {
+  border-color: red;
+}
+
+.errorText {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
 }
 
 .submitButton {
@@ -68,4 +90,64 @@
   .modalContent {
     width: 90%;
   }
+}
+
+/* Dark theme styles for EmailModal */
+
+[data-theme="dark"] .modalContent {
+  background-color: #2c2c2c; /* Темний фон для модального вікна */
+  color: #ffffff; /* Білий колір тексту */
+}
+
+[data-theme="dark"] input,
+[data-theme="dark"] textarea {
+  background-color: #333; /* Темний фон для інпутів */
+  color: #fff; /* Білий колір тексту */
+  border: 1px solid #555; /* Темний колір обведення */
+}
+
+[data-theme="dark"] input:focus,
+[data-theme="dark"] input:hover,
+[data-theme="dark"] textarea:focus,
+[data-theme="dark"] textarea:hover {
+  border-color: #777; /* Світліша обведення під час фокусу */
+}
+
+[data-theme="dark"] label {
+  color: #ccc; /* Світлий колір тексту лейблів */
+}
+
+[data-theme="dark"] .inputError {
+  border-color: #ff6b6b; /* Червоне обведення для інпутів з помилками */
+}
+
+[data-theme="dark"] .errorText {
+  color: #ff6b6b; /* Червоний колір для тексту помилок */
+}
+
+[data-theme="dark"] input:-webkit-autofill,
+[data-theme="dark"] input:-webkit-autofill:hover,
+[data-theme="dark"] input:-webkit-autofill:focus,
+[data-theme="dark"] textarea:-webkit-autofill,
+[data-theme="dark"] textarea:-webkit-autofill:hover,
+[data-theme="dark"] textarea:-webkit-autofill:focus {
+  background-color: #333 !important;
+  color: #fff !important;
+  border: 1px solid #555 !important;
+  -webkit-box-shadow: 0 0 0px 1000px #333 inset !important;
+  box-shadow: 0 0 0px 1000px #333 inset !important;
+  -webkit-text-fill-color: #fff !important; /* Змінює колір тексту в автозаповнених полях */
+}
+
+[data-theme="dark"] ::placeholder {
+  color: #ccc; /* Світлий колір підказок для темної теми */
+  opacity: 1; /* Забезпечує, що підказка має встановлений колір */
+}
+
+[data-theme="dark"] :-ms-input-placeholder {
+  color: #ccc; /* Для підтримки в Internet Explorer 10-11 */
+}
+
+[data-theme="dark"] ::-ms-input-placeholder {
+  color: #ccc; /* Для підтримки в Microsoft Edge */
 }
