@@ -123,7 +123,7 @@ const LegacyPage = () => {
           {/* Перелік розділів */}
           <div className={styles.mainContent}>
             <div className={styles.categoriesList}>
-              <h2>{i18n.t("categories_title")}</h2>
+              {/* <h2>{i18n.t("categories_title")}</h2> */}
               <ul>
                 {Object.keys(groupedWorks).map((category) => (
                   <li key={category}>
