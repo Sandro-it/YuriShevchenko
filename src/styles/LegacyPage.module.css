@@ -1,4 +1,4 @@
-.legacyPage {
+/* .legacyPage {
   padding: 20px;
   padding-top: 40px;
   text-align: left;
@@ -20,16 +20,167 @@
 .legacyPage .workLink:hover {
   font-weight: 500;
   color: #244e86;
+} */
+
+/* Стиль для темної теми */
+/* [data-theme="dark"] .workLink {
+  color: #e0e0e0;
+  font-weight: 300; Тонкий шрифт
+}
+
+[data-theme="dark"] .legacyPage .workLink:hover {
+  color: #928c8c;
+} */
+
+/* Адаптація для мобільних пристроїв */
+/* @media (max-width: 768px) {
+  .legacyPage {
+    padding: 10px;
+    padding-top: 40px;
+  }
+
+  .worksList {
+    padding-left: 15px; /* Забезпечення відступу для мобільних пристроїв */
+/* }
+} */
+
+/*=============перелік категорій + слайдшоу + стрілка догори=========*/
+
+.legacyPage {
+  padding: 20px;
+  padding-top: 40px;
+  text-align: left;
+}
+
+.mainContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.categoriesList {
+  margin-bottom: 20px;
+}
+
+.categoriesList ul {
+  list-style: none;
+  padding: 0;
+}
+
+.categoryLink {
+  font-size: 18px;
+  color: #132946;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.categoryLink:hover {
+  color: #244e86;
+}
+
+.worksList {
+  list-style: none;
+  padding: 0;
+}
+
+.workLink {
+  font-size: 16px;
+  color: #132946;
+  text-decoration: none;
+  display: inline;
+  margin-bottom: 10px;
+}
+
+.legacyPage .workLink:hover {
+  font-weight: 500;
+  color: #244e86;
+}
+
+.slideShow {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 500px; /* Збільшуємо мінімальну висоту для слайд-шоу */
+  width: 300px; /* Встановлюємо ширину для слайд-шоу */
+  overflow: hidden;
+  margin-left: 40px;
+  position: relative;
+}
+
+.photo {
+  width: 100%;
+  height: 100%; /* Додаємо висоту 100% для фото, щоб воно займало всю висоту контейнера */
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  position: absolute; /* Всі фото накладаються одне на одне */
+}
+
+.photo.active {
+  opacity: 1; /* Активне фото буде видимим */
+}
+
+/* Стиль для кнопки "Повернутися на початок" */
+.scrollToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #132946;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: flex; /* Додаємо flex-контейнер */
+  justify-content: center; /* Вирівнюємо по горизонталі */
+  align-items: center; /* Вирівнюємо по вертикалі */
+  padding: 0; /* Відключаємо padding */
+  line-height: 20; /* Забезпечує, що лінія буде точно по центру */
+}
+
+.scrollToTop::before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 12px solid white; /* Колір і товщина стрілки */
+}
+
+.scrollToTop:hover {
+  background-color: #244e86;
 }
 
 /* Стиль для темної теми */
 [data-theme="dark"] .workLink {
   color: #e0e0e0;
-  font-weight: 300; /* Тонкий шрифт */
+  font-weight: 300;
 }
 
 [data-theme="dark"] .legacyPage .workLink:hover {
   color: #928c8c;
+}
+
+[data-theme="dark"] .categoryLink {
+  color: #e0e0e0;
+}
+
+[data-theme="dark"] .categoryLink:hover {
+  color: #928c8c;
+}
+
+[data-theme="dark"] .scrollToTop {
+  background-color: #132946; /* Темний фон для кнопки */
+}
+
+[data-theme="dark"] .scrollToTop:hover {
+  background-color: #244e86; /* Світліший фон при наведенні */
 }
 
 /* Адаптація для мобільних пристроїв */
@@ -39,7 +190,34 @@
     padding-top: 40px;
   }
 
+  .mainContent {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .categoriesList {
+    margin-bottom: 10px;
+    order: 1;
+  }
+
+  .slideShow {
+    flex: 0 1 100%;
+    min-height: 300px; /* Коригуємо висоту для мобільних пристроїв */
+    width: 100%; /* Ширина 100% для мобільної версії */
+    margin-bottom: 0;
+    margin-left: 0;
+    align-items: flex-end;
+    order: 2;
+  }
+
   .worksList {
-    padding-left: 15px; /* Забезпечення відступу для мобільних пристроїв */
+    padding-left: 15px;
+    margin-bottom: 0; /* Зменшено відступ знизу для мобільних */
+  }
+
+  .photo {
+    max-width: 100%;
+    height: 100%;
+    object-fit: contain;
   }
 }
