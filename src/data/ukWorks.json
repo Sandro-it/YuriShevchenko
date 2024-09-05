@@ -147,7 +147,7 @@
       "subcategory": "",
       "title": "'Запорожець за Дунаєм'. Cюїта з балету.",
       "year": "",
-      "description": "Запорожець за Дунаєм сюїта з балету за мотивами опери С. Гулака-Артемовського.",
+      "description": "За мотивами опери С. Гулака-Артемовського.",
       "list": [
         "Увертюра",
         "Хода",
@@ -186,7 +186,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work14",
+      "id": "work18",
       "category": "Камерний оркестр",
       "subcategory": "",
       "title": "'Батярські пісні'",
@@ -196,7 +196,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work15",
+      "id": "work19",
       "category": "Камерний оркестр",
       "subcategory": "",
       "title": "'Зоряний хлопчик'",
@@ -206,7 +206,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work16",
+      "id": "work20",
       "category": "Камерний оркестр",
       "subcategory": "",
       "title": "'Консоданс'",
@@ -216,7 +216,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work17",
+      "id": "work21",
       "category": "Камерний оркестр",
       "subcategory": "",
       "title": "'Музика Луїзи'",
@@ -226,7 +226,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work18",
+      "id": "work22",
       "category": "Камерний оркестр",
       "subcategory": "",
       "title": "'Пасторальна сюїта'",
@@ -236,7 +236,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work19",
+      "id": "work23",
       "category": "Камерний оркестр",
       "subcategory": "",
       "title": "'Перехресні стежки'",
@@ -246,17 +246,30 @@
       "videoUrl": ""
     },
     {
-      "id": "work20",
+      "id": "work24",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Батярські пісні'",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Батярські пісні",
+      "list": [
+        "Тільку ві Львові",
+        "Там на балю ветиранів",
+        "Панна Францішка",
+        "Файдулі, фай",
+        "Бувай ми здорова"
+      ],
       "imageUrl": "/images/Батярські_пісні.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=v02sFhmBn1U",
+        "https://www.youtube.com/watch?v=Lzr6XR4pTo4",
+        "https://www.youtube.com/watch?v=mgQYVA0CEWM",
+        "https://www.youtube.com/watch?v=nfL75Y62SvY",
+        "https://www.youtube.com/watch?v=b53V8yIOxg0"
+      ]
     },
     {
-      "id": "work21",
+      "id": "work25",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Віденський салат'",
@@ -266,7 +279,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work22",
+      "id": "work26",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Вокаліз'",
@@ -276,7 +289,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work23",
+      "id": "work27",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Вокаліз' для труби і струнних",
@@ -286,7 +299,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work24",
+      "id": "work28",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Гамлет-сюїта'",
@@ -296,7 +309,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work25",
+      "id": "work29",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Гумореска'",
@@ -306,7 +319,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work26",
+      "id": "work30",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Дюймовонька'. Сюїта",
@@ -316,7 +329,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work27",
+      "id": "work31",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Каданс'",
@@ -326,7 +339,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work28",
+      "id": "work32",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Концертна фантазія'",
@@ -336,7 +349,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work29",
+      "id": "work33",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Любовне божевілля'",
@@ -346,7 +359,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work30",
+      "id": "work34",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Ми Є'",
@@ -356,7 +369,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work31",
+      "id": "work35",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Саундтрек'",
@@ -366,7 +379,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work32",
+      "id": "work36",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Старосвітська елегія'",
@@ -376,7 +389,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work33",
+      "id": "work37",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Теплий дощ'",
@@ -386,7 +399,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work34",
+      "id": "work38",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Ти гуляєш дні і ночі'",
@@ -396,7 +409,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work35",
+      "id": "work39",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Три Портрети' з балету “За двома зайцями”",
@@ -406,7 +419,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work36",
+      "id": "work40",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "'Учитель та учень'. Концертіно",
@@ -416,7 +429,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work37",
+      "id": "work41",
       "category": "Музика для оркестру народних інструментів",
       "subcategory": "",
       "title": "'Веснянка'",
@@ -426,7 +439,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work38",
+      "id": "work42",
       "category": "Музика для оркестру народних інструментів",
       "subcategory": "",
       "title": "'Дорога' (мі-мінор)",
@@ -436,7 +449,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work39",
+      "id": "work43",
       "category": "Музика для оркестру народних інструментів",
       "subcategory": "",
       "title": "'Елегія' (мі-мінор)",
@@ -446,7 +459,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work40",
+      "id": "work44",
       "category": "Музика для оркестру народних інструментів",
       "subcategory": "",
       "title": "'Закоханий бандурист' для бандури",
@@ -456,7 +469,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work41",
+      "id": "work45",
       "category": "Музика для оркестру народних інструментів",
       "subcategory": "",
       "title": "'Парафраз на укр. тему'",
@@ -466,7 +479,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work42",
+      "id": "work46",
       "category": "Музика для оркестру народних інструментів",
       "subcategory": "",
       "title": "'П'єса' для баяна",
@@ -476,7 +489,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work43",
+      "id": "work47",
       "category": "Музика для оркестру народних інструментів",
       "subcategory": "",
       "title": "'Танок' для баяна",
@@ -486,7 +499,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work44",
+      "id": "work48",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Бояриня'",
@@ -496,7 +509,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work45",
+      "id": "work49",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Гамлет'",
@@ -506,7 +519,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work46",
+      "id": "work50",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Дон Жуан'",
@@ -516,7 +529,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work47",
+      "id": "work51",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Дон Кіхот'",
@@ -526,7 +539,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work48",
+      "id": "work52",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'З вами небезпечно мати справу'",
@@ -536,7 +549,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work49",
+      "id": "work53",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Зимовий вечір'",
@@ -546,7 +559,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work50",
+      "id": "work54",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Лісова пісня'",
@@ -556,7 +569,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work51",
+      "id": "work55",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Наполеон та корсиканка'",
@@ -566,7 +579,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work52",
+      "id": "work56",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Насмішкувате моє щастя'",
@@ -576,7 +589,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work53",
+      "id": "work57",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Пані міністерша'",
@@ -586,7 +599,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work54",
+      "id": "work58",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Пастка'",
@@ -596,7 +609,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work55",
+      "id": "work59",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Патетична соната'",
@@ -606,7 +619,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work56",
+      "id": "work60",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Перехресні стежки'",
@@ -616,7 +629,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work57",
+      "id": "work61",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Равлинка та її хатинка'",
@@ -626,7 +639,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work58",
+      "id": "work62",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Росмерсгольм'",
@@ -636,7 +649,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work59",
+      "id": "work63",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Шаленство Кохання'",
@@ -646,7 +659,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work60",
+      "id": "work64",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Школа скандалу'",
@@ -656,7 +669,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work61",
+      "id": "work65",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "'Хоровод любові'",
@@ -666,7 +679,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work62",
+      "id": "work66",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "'5 частин' з вистави 'Шаленство Кохання'",
@@ -676,7 +689,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work63",
+      "id": "work67",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "'Ми – цнотливі і невинні'",
@@ -686,7 +699,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work64",
+      "id": "work68",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "'Місяць золотий'",
@@ -696,7 +709,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work65",
+      "id": "work69",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "'Принадна Катрин'",
@@ -706,7 +719,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work66",
+      "id": "work70",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "'Сонце-Ярило'. Кантата для дитячого хору",
@@ -716,7 +729,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work67",
+      "id": "work71",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "'Три пісні' на вірші Г. Алексеєвої",
@@ -726,7 +739,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work68",
+      "id": "work72",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Кіно",
       "title": "'Останній осінній листок' (к/м)",
@@ -736,7 +749,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work69",
+      "id": "work73",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Кіно",
       "title": "'Роман вихідного дня'",
@@ -746,7 +759,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work70",
+      "id": "work74",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Кіно",
       "title": "'Цвітіння кульбаби'",
@@ -756,7 +769,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work71",
+      "id": "work75",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "'Дострибни до хмаринки'",
@@ -766,7 +779,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work72",
+      "id": "work76",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "'Горщик-сміхотун'",
@@ -776,7 +789,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work73",
+      "id": "work77",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "'Їжачок і дівчинка'",
@@ -786,7 +799,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work74",
+      "id": "work78",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "'Історія про дівчинку, яка наступила на хліб'",
@@ -796,7 +809,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work75",
+      "id": "work79",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "'Івасик-Телесик'",
@@ -806,7 +819,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work76",
+      "id": "work80",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "'Кіт Базиліо і мишеня Пік'",
@@ -816,7 +829,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work77",
+      "id": "work81",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "'Котик та півник'",
@@ -826,7 +839,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work78",
+      "id": "work82",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "'Кривенька качечка'",
@@ -836,7 +849,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work79",
+      "id": "work83",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "'Морозики-морози'",
@@ -846,7 +859,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work80",
+      "id": "work84",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "'Полювання'",
@@ -856,7 +869,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work81",
+      "id": "work85",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "'Джордано Бруно'",
@@ -866,7 +879,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work82",
+      "id": "work86",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "'Оборона Буші'",
@@ -876,7 +889,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work83",
+      "id": "work87",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "'По дорозі у казку'",
@@ -886,7 +899,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work84",
+      "id": "work88",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "'Сніг у Флоренції'",
@@ -896,7 +909,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work85",
+      "id": "work89",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "'Соло на флейті'",
@@ -906,7 +919,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work86",
+      "id": "work90",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "'Стіна'",
