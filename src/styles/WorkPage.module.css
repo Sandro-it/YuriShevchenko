@@ -49,6 +49,16 @@
   /* text-align: left; */
 }
 
+.workPage ol {
+  padding-left: 20px;
+  list-style-type: decimal; /* Нумерований список */
+}
+
+.workPage ol li {
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
 .workPage .description {
   font-size: 16px;
   line-height: 1.6;
