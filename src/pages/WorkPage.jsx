@@ -186,6 +186,20 @@ const WorkPage = () => {
                 </ol>
               )}
 
+              {/* Відображення одного відео посилання, якщо доступне */}
+              {work.videoUrl && (
+                <p>
+                  <a
+                    className={styles.link}
+                    href={work.videoUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {t("view_on_youtube")}
+                  </a>
+                </p>
+              )}
+
               {/* Відображення кількох відео-посилань, якщо доступні */}
               {work.videoUrls && work.videoUrls.length > 0 && (
                 <div>
