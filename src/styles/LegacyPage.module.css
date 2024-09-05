@@ -271,19 +271,13 @@ html {
   text-align: start; /* Вирівнювання тексту по центру */
   padding: 10px; /* Відступи всередині елементу */
   padding-left: 20px;
-  background-color: white; /* Фоновий колір для кожної категорії */
+  background-color: #f0f0f0; /* Фоновий колір для кожної категорії */
   border-radius: 5px; /* Згладжені кути для елементів */
   transition: background-color 0.3s; /* Анімація при наведенні */
   min-height: 60px; /* Мінімальна висота для двох рядків тексту */
   display: flex; /* Використовуємо flex для вирівнювання елементів */
   align-items: center; /* Вирівнюємо по вертикалі */
   justify-content: start; /* Вирівнюємо по горизонталі */
-}
-
-.categoryLink::before {
-  content: "\1D11E"; /* Юнікод для скрипічного ключа */
-  margin-right: 8px; /* Відступ між скрипічним ключем та текстом */
-  font-size: 1.7em; /* Розмір символу скрипічного ключа */
 }
 
 .categoryLink:hover {
