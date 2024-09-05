@@ -280,6 +280,12 @@ html {
   justify-content: start; /* Вирівнюємо по горизонталі */
 }
 
+.categoryLink::before {
+  content: "\1D11E"; /* Юнікод для скрипічного ключа */
+  margin-right: 8px; /* Відступ між скрипічним ключем та текстом */
+  font-size: 1.7em; /* Розмір символу скрипічного ключа */
+}
+
 .categoryLink:hover {
   background-color: #244e86; /* Фоновий колір при наведенні */
   color: #fff; /* Колір тексту при наведенні */
@@ -378,6 +384,10 @@ html {
   .mainContent {
     flex-direction: column;
     align-items: center;
+  }
+
+  .categoryLink::before {
+    display: none;
   }
 
   .categoriesList {
