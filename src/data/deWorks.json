@@ -144,11 +144,25 @@
       "id": "work15",
       "category": "Symphonieorchester",
       "subcategory": "",
-      "title": "'Der Kosaken jenseits der Donau'. Suite aus dem Ballett basierend auf der Oper von S. Hulak-Artemovsky",
+      "title": "'Der Kosaken jenseits der Donau'. Suite aus dem Ballett",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Basierend auf der Oper von S. Hulak-Artemovsky.",
+      "list": [
+        "Ouvertüre",
+        "Marsch",
+        "Tanz",
+        "Oh heller Mond",
+        "Zwischenspiel 'Der Wesir'",
+        "Jetzt bin ich ein Türke, kein Kosake",
+        "Kozachok",
+        "Duett von Oksana und Andriy",
+        "Woher bist du gekommen",
+        "Du wanderst Tag und Nacht",
+        "Warte, mein Kosak",
+        "Gesegneter Tag, gesegnete Stunde"
+      ],
       "imageUrl": "/images/Запорожець_сюїта.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=HsKI5R3Ip3c"
     },
     {
       "id": "work16",
@@ -171,7 +185,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work14",
+      "id": "work18",
       "category": "Kammerorchester",
       "subcategory": "",
       "title": "'Batyars Lied'",
@@ -181,7 +195,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work15",
+      "id": "work19",
       "category": "Kammerorchester",
       "subcategory": "",
       "title": "'Der Sternenjunge'",
@@ -191,7 +205,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work16",
+      "id": "work20",
       "category": "Kammerorchester",
       "subcategory": "",
       "title": "'Consodance'",
@@ -201,7 +215,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work17",
+      "id": "work21",
       "category": "Kammerorchester",
       "subcategory": "",
       "title": "'Louises Musik'",
@@ -211,7 +225,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work18",
+      "id": "work22",
       "category": "Kammerorchester",
       "subcategory": "",
       "title": "'Pastorale Suite'",
@@ -221,7 +235,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work19",
+      "id": "work23",
       "category": "Kammerorchester",
       "subcategory": "",
       "title": "'Kreuzende Pfade'",
@@ -231,17 +245,30 @@
       "videoUrl": ""
     },
     {
-      "id": "work20",
+      "id": "work24",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Batyar-Lieder'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Batyar-Lieder",
+      "list": [
+        "Nur in Lwiw",
+        "Dort beim Ball der Veteranen",
+        "Fräulein Franziska",
+        "Fayduli, Fai",
+        "Lebe wohl, bleib gesund"
+      ],
       "imageUrl": "/images/Батярські_пісні.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=v02sFhmBn1U",
+        "https://www.youtube.com/watch?v=Lzr6XR4pTo4",
+        "https://www.youtube.com/watch?v=mgQYVA0CEWM",
+        "https://www.youtube.com/watch?v=nfL75Y62SvY",
+        "https://www.youtube.com/watch?v=b53V8yIOxg0"
+      ]
     },
     {
-      "id": "work21",
+      "id": "work25",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Wiener Salat'",
@@ -251,7 +278,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work22",
+      "id": "work26",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Vokalise'",
@@ -261,7 +288,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work23",
+      "id": "work27",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Vokalise' für Trompete und Streicher",
@@ -271,7 +298,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work24",
+      "id": "work28",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Hamlet-Suite'",
@@ -281,7 +308,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work25",
+      "id": "work29",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Humoreske'",
@@ -291,7 +318,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work26",
+      "id": "work30",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Däumelinchen'. Suite",
@@ -301,7 +328,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work27",
+      "id": "work31",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Kadenz'",
@@ -311,7 +338,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work28",
+      "id": "work32",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Konzertfantasie'",
@@ -321,7 +348,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work29",
+      "id": "work33",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Liebeswahnsinn'",
@@ -331,7 +358,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work30",
+      "id": "work34",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Wir sind'",
@@ -341,7 +368,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work31",
+      "id": "work35",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Soundtrack'",
@@ -351,7 +378,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work32",
+      "id": "work36",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Alte Welt Elegie'",
@@ -361,7 +388,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work33",
+      "id": "work37",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Warmer Regen'",
@@ -371,7 +398,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work34",
+      "id": "work38",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Du wanderst Tag und Nacht'",
@@ -381,7 +408,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work35",
+      "id": "work39",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Drei Porträts' aus dem Ballett “Zwei Hasen Jagen”",
@@ -391,7 +418,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work36",
+      "id": "work40",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Lehrer und Schüler'. Concertino",
@@ -401,7 +428,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work37",
+      "id": "work41",
       "category": "Musik für Orchester von Volksinstrumenten",
       "subcategory": "",
       "title": "'Vesnianka'",
@@ -411,7 +438,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work38",
+      "id": "work42",
       "category": "Musik für Orchester von Volksinstrumenten",
       "subcategory": "",
       "title": "'Weg' (e-Moll)",
@@ -421,7 +448,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work39",
+      "id": "work43",
       "category": "Musik für Orchester von Volksinstrumenten",
       "subcategory": "",
       "title": "'Elegie' (e-Moll)",
@@ -431,7 +458,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work40",
+      "id": "work44",
       "category": "Musik für Orchester von Volksinstrumenten",
       "subcategory": "",
       "title": "'Der verliebte Bandurist' für Bandura",
@@ -441,7 +468,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work41",
+      "id": "work45",
       "category": "Musik für Orchester von Volksinstrumenten",
       "subcategory": "",
       "title": "'Paraphrase über ein ukrainisches Thema'",
@@ -451,7 +478,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work42",
+      "id": "work46",
       "category": "Musik für Orchester von Volksinstrumenten",
       "subcategory": "",
       "title": "'Stück' für Akkordeon",
@@ -461,7 +488,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work43",
+      "id": "work47",
       "category": "Musik für Orchester von Volksinstrumenten",
       "subcategory": "",
       "title": "'Tanz' für Akkordeon",
@@ -471,7 +498,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work44",
+      "id": "work48",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Bojaryna'",
@@ -481,7 +508,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work45",
+      "id": "work49",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Hamlet'",
@@ -491,7 +518,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work46",
+      "id": "work50",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Don Juan'",
@@ -501,7 +528,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work47",
+      "id": "work51",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Don Quijote'",
@@ -511,7 +538,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work48",
+      "id": "work52",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Mit Ihnen ist es gefährlich zu tun haben'",
@@ -521,7 +548,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work49",
+      "id": "work53",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Winterabend'",
@@ -531,7 +558,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work50",
+      "id": "work54",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Der Waldgesang'",
@@ -541,7 +568,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work51",
+      "id": "work55",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Napoleon und die Korsin'",
@@ -551,7 +578,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work52",
+      "id": "work56",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Mein spöttisches Glück'",
@@ -561,7 +588,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work53",
+      "id": "work57",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Die Ministerin'",
@@ -571,7 +598,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work54",
+      "id": "work58",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Die Falle'",
@@ -581,7 +608,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work55",
+      "id": "work59",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Pathetische Sonate'",
@@ -591,7 +618,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work56",
+      "id": "work60",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Kreuzende Pfade'",
@@ -601,7 +628,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work57",
+      "id": "work61",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Schnecke und ihr Häuschen'",
@@ -611,7 +638,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work58",
+      "id": "work62",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Rosmersholm'",
@@ -621,7 +648,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work59",
+      "id": "work63",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Wahnsinn der Liebe'",
@@ -631,7 +658,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work60",
+      "id": "work64",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Die Schule des Skandals'",
@@ -641,7 +668,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work61",
+      "id": "work65",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Reigen der Liebe'",
@@ -651,7 +678,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work62",
+      "id": "work66",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'5 Teile' aus der Aufführung 'Wahnsinn der Liebe'",
@@ -661,7 +688,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work63",
+      "id": "work67",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'Wir sind keusch und unschuldig'",
@@ -671,7 +698,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work64",
+      "id": "work68",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'Goldener Mond'",
@@ -681,7 +708,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work65",
+      "id": "work69",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'Charmante Katrin'",
@@ -691,7 +718,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work66",
+      "id": "work70",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'Sonne-Jarylo'. Kantate für Kinderchor",
@@ -701,7 +728,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work67",
+      "id": "work71",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'Drei Lieder' auf Gedichte von H. Alekseeva",
@@ -711,7 +738,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work68",
+      "id": "work72",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Film",
       "title": "'Das letzte Herbstblatt' (Kurzfilm)",
@@ -721,7 +748,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work69",
+      "id": "work73",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Film",
       "title": "'Wochenendausflug'",
@@ -731,7 +758,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work70",
+      "id": "work74",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Film",
       "title": "'Löwenzahnblüte'",
@@ -741,7 +768,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work71",
+      "id": "work75",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Spring zur Wolke'",
@@ -751,7 +778,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work72",
+      "id": "work76",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Der Lachende Topf'",
@@ -761,7 +788,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work73",
+      "id": "work77",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Der Igel und das Mädchen'",
@@ -771,7 +798,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work74",
+      "id": "work78",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Die Geschichte vom Mädchen, das auf Brot trat'",
@@ -781,7 +808,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work75",
+      "id": "work79",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Ivasyk-Telesyk'",
@@ -791,7 +818,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work76",
+      "id": "work80",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Kater Basilio und die Maus Pic'",
@@ -801,7 +828,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work77",
+      "id": "work81",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Kätzchen und Hahn'",
@@ -811,7 +838,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work78",
+      "id": "work82",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Das kleine Entlein mit dem schiefen Bein'",
@@ -821,7 +848,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work79",
+      "id": "work83",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Die kleinen Winterstürme'",
@@ -831,7 +858,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work80",
+      "id": "work84",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Die Jagd'",
@@ -841,7 +868,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work81",
+      "id": "work85",
       "category": "Hörspiele",
       "subcategory": "",
       "title": "'Giordano Bruno'",
@@ -851,7 +878,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work82",
+      "id": "work86",
       "category": "Hörspiele",
       "subcategory": "",
       "title": "'Die Verteidigung von Busha'",
@@ -861,7 +888,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work83",
+      "id": "work87",
       "category": "Hörspiele",
       "subcategory": "",
       "title": "'Auf dem Weg ins Märchen'",
@@ -871,7 +898,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work84",
+      "id": "work88",
       "category": "Hörspiele",
       "subcategory": "",
       "title": "'Schnee in Florenz'",
@@ -881,7 +908,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work85",
+      "id": "work89",
       "category": "Hörspiele",
       "subcategory": "",
       "title": "'Solo für Flöte'",
@@ -891,7 +918,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work86",
+      "id": "work90",
       "category": "Hörspiele",
       "subcategory": "",
       "title": "'Die Wand'",

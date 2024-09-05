@@ -144,11 +144,25 @@
       "id": "work15",
       "category": "Symphony Orchestra",
       "subcategory": "",
-      "title": "'The Zaporozhets Beyond the Danube'. Suite from the ballet based on the opera by S. Hulak-Artemovsky",
+      "title": "'The Zaporozhets Beyond the Danube'. Suite from the ballet",
       "year": "",
-      "description": "Description of the work...",
+      "description": "Based on the opera by S. Hulak-Artemovsky.",
+      "list": [
+        "Overture",
+        "March",
+        "Dance",
+        "Oh Bright Moon",
+        "Interlude 'Vizier'",
+        "Now I Am a Turk, Not a Cossack",
+        "Kozachok",
+        "Duet of Oksana and Andriy",
+        "Where Did You Come From",
+        "You Wander Day and Night",
+        "Wait, My Cossack",
+        "Blessed Day, Blessed Hour"
+      ],
       "imageUrl": "/images/Запорожець_сюїта.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=HsKI5R3Ip3c"
     },
     {
       "id": "work16",
@@ -171,7 +185,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work14",
+      "id": "work18",
       "category": "Chamber Orchestra",
       "subcategory": "",
       "title": "'Batiar Song'",
@@ -181,7 +195,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work15",
+      "id": "work19",
       "category": "Chamber Orchestra",
       "subcategory": "",
       "title": "'The Star-Child'",
@@ -191,7 +205,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work16",
+      "id": "work20",
       "category": "Chamber Orchestra",
       "subcategory": "",
       "title": "'Consodance'",
@@ -201,7 +215,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work17",
+      "id": "work21",
       "category": "Chamber Orchestra",
       "subcategory": "",
       "title": "'Music of Louisa'",
@@ -211,7 +225,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work18",
+      "id": "work22",
       "category": "Chamber Orchestra",
       "subcategory": "",
       "title": "'Pastoral Suite'",
@@ -221,7 +235,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work19",
+      "id": "work23",
       "category": "Chamber Orchestra",
       "subcategory": "",
       "title": "'Cross Paths'",
@@ -231,17 +245,30 @@
       "videoUrl": ""
     },
     {
-      "id": "work20",
+      "id": "work24",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Batiar Songs'",
       "year": "",
-      "description": "Description of the work...",
+      "description": "Batiar Songs",
+      "list": [
+        "Only in Lviv",
+        "There at the veterans' ball",
+        "Miss Franciska",
+        "Fayduli, Fai",
+        "Farewell, be healthy"
+      ],
       "imageUrl": "/images/Батярські_пісні.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=v02sFhmBn1U",
+        "https://www.youtube.com/watch?v=Lzr6XR4pTo4",
+        "https://www.youtube.com/watch?v=mgQYVA0CEWM",
+        "https://www.youtube.com/watch?v=nfL75Y62SvY",
+        "https://www.youtube.com/watch?v=b53V8yIOxg0"
+      ]
     },
     {
-      "id": "work21",
+      "id": "work25",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Viennese Salad'",
@@ -251,7 +278,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work22",
+      "id": "work26",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Vocalise'",
@@ -261,7 +288,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work23",
+      "id": "work27",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Vocalise' for Trumpet and Strings",
@@ -271,7 +298,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work24",
+      "id": "work28",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Hamlet Suite'",
@@ -281,7 +308,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work25",
+      "id": "work29",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Humoresque'",
@@ -291,7 +318,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work26",
+      "id": "work30",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Thumbelina'. Suite",
@@ -301,7 +328,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work27",
+      "id": "work31",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Cadence'",
@@ -311,7 +338,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work28",
+      "id": "work32",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Concert Fantasy'",
@@ -321,7 +348,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work29",
+      "id": "work33",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Love Madness'",
@@ -331,7 +358,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work30",
+      "id": "work34",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'We Are'",
@@ -341,7 +368,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work31",
+      "id": "work35",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Soundtrack'",
@@ -351,7 +378,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work32",
+      "id": "work36",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Old World Elegy'",
@@ -361,7 +388,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work33",
+      "id": "work37",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Warm Rain'",
@@ -371,7 +398,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work34",
+      "id": "work38",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'You Walk Day and Night'",
@@ -381,7 +408,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work35",
+      "id": "work39",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Three Portraits' from the Ballet 'Chasing Two Hares'",
@@ -391,7 +418,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work36",
+      "id": "work40",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Teacher and Pupil'. Concertino",
@@ -401,7 +428,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work37",
+      "id": "work41",
       "category": "Music for Folk Instruments Orchestra",
       "subcategory": "",
       "title": "'Vesnianka'",
@@ -411,7 +438,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work38",
+      "id": "work42",
       "category": "Music for Folk Instruments Orchestra",
       "subcategory": "",
       "title": "'The Road' (E minor)",
@@ -421,7 +448,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work39",
+      "id": "work43",
       "category": "Music for Folk Instruments Orchestra",
       "subcategory": "",
       "title": "'Elegy' (E minor)",
@@ -431,7 +458,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work40",
+      "id": "work44",
       "category": "Music for Folk Instruments Orchestra",
       "subcategory": "",
       "title": "'The Lovestruck Bandurist' for Bandura",
@@ -441,7 +468,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work41",
+      "id": "work45",
       "category": "Music for Folk Instruments Orchestra",
       "subcategory": "",
       "title": "'Paraphrase on a Ukrainian Theme'",
@@ -451,7 +478,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work42",
+      "id": "work46",
       "category": "Music for Folk Instruments Orchestra",
       "subcategory": "",
       "title": "'Piece' for Bayan",
@@ -461,7 +488,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work43",
+      "id": "work47",
       "category": "Music for Folk Instruments Orchestra",
       "subcategory": "",
       "title": "'Dance' for Bayan",
@@ -471,7 +498,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work44",
+      "id": "work48",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'Boyarynya'",
@@ -481,7 +508,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work45",
+      "id": "work49",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'Hamlet'",
@@ -491,7 +518,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work46",
+      "id": "work50",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'Don Juan'",
@@ -501,7 +528,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work47",
+      "id": "work51",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'Don Quixote'",
@@ -511,7 +538,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work48",
+      "id": "work52",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'It Is Dangerous to Have Dealings with You'",
@@ -521,7 +548,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work49",
+      "id": "work53",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'Winter Evening'",
@@ -531,7 +558,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work50",
+      "id": "work54",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'Forest Song'",
@@ -541,7 +568,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work51",
+      "id": "work55",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'Napoleon and the Corsican Woman'",
@@ -551,7 +578,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work52",
+      "id": "work56",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'My Mocking Happiness'",
@@ -561,7 +588,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work53",
+      "id": "work57",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'The Minister's Wife'",
@@ -571,7 +598,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work54",
+      "id": "work58",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'The Trap'",
@@ -581,7 +608,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work55",
+      "id": "work59",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'Pathetique Sonata'",
@@ -591,7 +618,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work56",
+      "id": "work60",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'Cross Paths'",
@@ -601,7 +628,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work57",
+      "id": "work61",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'The Little Snail and Her House'",
@@ -611,7 +638,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work58",
+      "id": "work62",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'Rosmersholm'",
@@ -621,7 +648,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work59",
+      "id": "work63",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'The Madness of Love'",
@@ -631,7 +658,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work60",
+      "id": "work64",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'School for Scandal'",
@@ -641,7 +668,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work61",
+      "id": "work65",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'The Round Dance of Love'",
@@ -651,7 +678,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work62",
+      "id": "work66",
       "category": "Vocal Works",
       "subcategory": "",
       "title": "'5 Parts' from the Play 'The Madness of Love'",
@@ -661,7 +688,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work63",
+      "id": "work67",
       "category": "Vocal Works",
       "subcategory": "",
       "title": "'We Are Chaste and Innocent'",
@@ -671,7 +698,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work64",
+      "id": "work68",
       "category": "Vocal Works",
       "subcategory": "",
       "title": "'Golden Moon'",
@@ -681,7 +708,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work65",
+      "id": "work69",
       "category": "Vocal Works",
       "subcategory": "",
       "title": "'Charming Katrin'",
@@ -691,7 +718,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work66",
+      "id": "work70",
       "category": "Vocal Works",
       "subcategory": "",
       "title": "'Sun Yarilo'. Cantata for Children's Choir",
@@ -701,7 +728,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work67",
+      "id": "work71",
       "category": "Vocal Works",
       "subcategory": "",
       "title": "'Three Songs' on Poems by G. Alekseeva",
@@ -711,7 +738,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work68",
+      "id": "work72",
       "category": "Music for Films and Cartoons",
       "subcategory": "Films",
       "title": "'The Last Autumn Leaf' (short film)",
@@ -721,7 +748,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work69",
+      "id": "work73",
       "category": "Music for Films and Cartoons",
       "subcategory": "Films",
       "title": "'Weekend Romance'",
@@ -731,7 +758,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work70",
+      "id": "work74",
       "category": "Music for Films and Cartoons",
       "subcategory": "Films",
       "title": "'Dandelion Blooming'",
@@ -741,7 +768,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work71",
+      "id": "work75",
       "category": "Music for Films and Cartoons",
       "subcategory": "Cartoons",
       "title": "'Jump to the Cloud'",
@@ -751,7 +778,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work72",
+      "id": "work76",
       "category": "Music for Films and Cartoons",
       "subcategory": "Cartoons",
       "title": "'The Laughing Pot'",
@@ -761,7 +788,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work73",
+      "id": "work77",
       "category": "Music for Films and Cartoons",
       "subcategory": "Cartoons",
       "title": "'The Hedgehog and the Girl'",
@@ -771,7 +798,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work74",
+      "id": "work78",
       "category": "Music for Films and Cartoons",
       "subcategory": "Cartoons",
       "title": "'The Story of a Girl Who Stepped on Bread'",
@@ -781,7 +808,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work75",
+      "id": "work79",
       "category": "Music for Films and Cartoons",
       "subcategory": "Cartoons",
       "title": "'Ivasyk-Telesyk'",
@@ -791,7 +818,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work76",
+      "id": "work80",
       "category": "Music for Films and Cartoons",
       "subcategory": "Cartoons",
       "title": "'Cat Basilio and Mouse Pik'",
@@ -801,7 +828,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work77",
+      "id": "work81",
       "category": "Music for Films and Cartoons",
       "subcategory": "Cartoons",
       "title": "'The Cat and the Rooster'",
@@ -811,7 +838,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work78",
+      "id": "work82",
       "category": "Music for Films and Cartoons",
       "subcategory": "Cartoons",
       "title": "'The Little Lame Duck'",
@@ -821,7 +848,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work79",
+      "id": "work83",
       "category": "Music for Films and Cartoons",
       "subcategory": "Cartoons",
       "title": "'Frosts-Frosts'",
@@ -831,7 +858,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work80",
+      "id": "work84",
       "category": "Music for Films and Cartoons",
       "subcategory": "Cartoons",
       "title": "'The Hunt'",
@@ -841,7 +868,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work81",
+      "id": "work85",
       "category": "Radio Plays",
       "subcategory": "",
       "title": "'Giordano Bruno'",
@@ -851,7 +878,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work82",
+      "id": "work86",
       "category": "Radio Plays",
       "subcategory": "",
       "title": "'The Defense of Bush'",
@@ -861,7 +888,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work83",
+      "id": "work87",
       "category": "Radio Plays",
       "subcategory": "",
       "title": "'On the Way to the Fairy Tale'",
@@ -871,7 +898,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work84",
+      "id": "work88",
       "category": "Radio Plays",
       "subcategory": "",
       "title": "'Snow in Florence'",
@@ -881,7 +908,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work85",
+      "id": "work89",
       "category": "Radio Plays",
       "subcategory": "",
       "title": "'Solo on the Flute'",
@@ -891,7 +918,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work86",
+      "id": "work90",
       "category": "Radio Plays",
       "subcategory": "",
       "title": "'The Wall'",
