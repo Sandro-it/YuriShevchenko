@@ -20,18 +20,9 @@
       "imageUrl": "/images/Король_Дроздобород.jpg",
       "videoUrl": ""
     },
+
     {
       "id": "work3",
-      "category": "Musical-Theatrical Works",
-      "subcategory": "Ballets",
-      "title": "'The Adventures of Pinocchio' (Buratino and the Magic Violin)",
-      "year": "NOE. 2007",
-      "description": "Description of the work...",
-      "imageUrl": "/images/Буратіно.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work4",
       "category": "Musical-Theatrical Works",
       "subcategory": "Ballets",
       "title": "'Barmaley and Aibolit'",
@@ -41,7 +32,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work5",
+      "id": "work4",
       "category": "Musical-Theatrical Works",
       "subcategory": "Ballets",
       "title": "'Thumbelina'",
@@ -49,6 +40,28 @@
       "description": "Description of the work...",
       "imageUrl": "/images/Дюймовонька.jpg",
       "videoUrl": ""
+    },
+    {
+      "id": "work5",
+      "category": "Musical-Theatrical Works",
+      "subcategory": "Ballets",
+      "title": "'Chasing Two Hares'",
+      "year": "NOU. 2017",
+      "description": [
+        "Yurii Shevchenko worked on the music for the ballet for almost a year. He used motifs from Vadym Homoliaka's music for the film 'Chasing Two Hares'. The leitmotif of the ballet, which features quadrille, tango, and folk melodies, became the lively couplets of Holokhvastov.",
+        "Yurii Shevchenko described the music for the ballet as follows: 'At first glance, my music seems simple. But there was a period when I didn't know how to recreate the right intonation... The music had to be light and ironic. Not silly and cheerful, but ironic. But how to achieve that? Or, for example, how to make the folk dances at the market? It could have been something like the Virsky Ensemble. But I needed it to be folk, but not quite... I saw irony in the fact that you're kind of laughing, the music seems cheerful, but it ends a little sadly. Or it's sad, sad, even tragic, and then it turns out to be a joke. Just when you believe in one thing, and then, bam, it turns in another direction. That was the move I found.'",
+        "The ballet premiered at the National Academic Opera and Ballet Theatre of Ukraine named after T. H. Shevchenko (National Opera of Ukraine) on June 29, 2017. The premiere of the ballet marked the conclusion of the 149th theatre season."
+      ],
+      "list": [],
+      "productionTeam": [
+        "Choreographer — People's Artist of Ukraine Viktor Lytvynov",
+        "Conductor — People's Artist of Ukraine Volodymyr Kozhukhar",
+        "Conductor — People's Artist of Ukraine Allin Vlasenko",
+        "Set Designer — Serhii Masloboiushchykov",
+        "Costume Designer — Hanna Ipatyeva"
+      ],
+      "imageUrl": "/images/за2зайцями-min.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=JQUng5SqQQE&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work6",
@@ -65,10 +78,14 @@
       "category": "Musical-Theatrical Works",
       "subcategory": "Ballets",
       "title": "'Kobzar'. Cantata-Ballet",
-      "year": "",
-      "description": "Description of the work...",
+      "year": "2016",
+      "description": [
+        "Yuri Shevchenko collaborated for many years with the famous dance company 'SHUMKA' from Edmonton, Canada.",
+        "In 2016, the next successful collaboration took place — the cantata-ballet 'Kobzar', dedicated to the anniversary of Taras Shevchenko, for symphony orchestra, choir, and soloists.",
+        "In Kyiv, the premiere of 'Kobzar' was planned for 2022 at the National Philharmonic of Ukraine, featuring the National Symphony Orchestra and the 'Kyiv Opera' choir, conducted by the renowned Volodymyr Kozhukhar."
+      ],
       "imageUrl": "/images/Кобзар.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=e34qfm6Q0Y4&ab_channel=ShumkaDancersProduction"
     },
     {
       "id": "work8",
@@ -104,10 +121,10 @@
       "id": "work11",
       "category": "Musical-Theatrical Works",
       "subcategory": "Ballets",
-      "title": "'Chasing Two Hares'",
-      "year": "NOE. 2017",
+      "title": "'The Adventures of Pinocchio' (Buratino and the Magic Violin)",
+      "year": "NOE. 2007",
       "description": "Description of the work...",
-      "imageUrl": "/images/за2зайцями-min.jpg",
+      "imageUrl": "/images/Буратіно.jpg",
       "videoUrl": ""
     },
     {
@@ -116,9 +133,12 @@
       "subcategory": "Ballets",
       "title": "'Cinderella'",
       "year": "2000",
-      "description": "Description of the work...",
+      "description": [
+        "Yuri Shevchenko collaborated for many years with the famous dance company 'SHUMKA' from Edmonton, Canada.",
+        "The premiere of Shumka's 'Cinderella' ballet took place in 2000 in Edmonton. The ballet 'Cinderella' is an original full-length production based on the classic folk tale. This performance includes traditional dances, comical stepsisters, a charming Prince, and his beloved Cinderella, brought to life in an incredible world of dance spectacle."
+      ],
       "imageUrl": "/images/Сіндерела.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=lLcCy8-qodE&ab_channel=ShumkaDancersProduction"
     },
     {
       "id": "work13",

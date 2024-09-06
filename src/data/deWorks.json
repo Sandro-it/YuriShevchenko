@@ -20,18 +20,9 @@
       "imageUrl": "/images/Король_Дроздобород.jpg",
       "videoUrl": ""
     },
+
     {
       "id": "work3",
-      "category": "Musiktheaterwerke",
-      "subcategory": "Ballette",
-      "title": "'Die Abenteuer von Pinocchio' (Buratino und die Zauberhafte Geige)",
-      "year": "NOE. 2007",
-      "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/Буратіно.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work4",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "'Barmalej und Aibolit'",
@@ -41,7 +32,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work5",
+      "id": "work4",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "'Däumelinchen'",
@@ -49,6 +40,28 @@
       "description": "Beschreibung des Werkes...",
       "imageUrl": "/images/Дюймовонька.jpg",
       "videoUrl": ""
+    },
+    {
+      "id": "work5",
+      "category": "Musikalisch-Theatralische Werke",
+      "subcategory": "Ballette",
+      "title": "'Zwei Hasen auf der Spur'",
+      "year": "NOU. 2017",
+      "description": [
+        "Jurii Schewtschenko arbeitete fast ein Jahr an der Musik für das Ballett. Er verwendete Motive aus Vadym Homoljakas Musik für den Film 'Zwei Hasen auf der Spur'. Das Leitmotiv des Balletts, in dem Quadrille, Tango und Volksmelodien erklingen, wurde die fröhlichen Couplets von Holokhvastov.",
+        "Jurii Schewtschenko beschrieb die Musik zum Ballett so: 'Auf den ersten Blick scheint meine Musik einfach. Aber es gab eine Zeit, in der ich nicht wusste, wie ich die richtige Intonation wiedergeben sollte... Die Musik musste leicht und ironisch sein. Nicht albern und fröhlich, sondern ironisch. Aber wie erreicht man das? Oder zum Beispiel, wie gestaltet man die Volkstänze auf dem Markt? Es hätte so etwas wie das Virsky Ensemble sein können. Aber ich brauchte es volkstümlich, aber nicht ganz... Ich sah Ironie darin, dass man irgendwie lacht, die Musik scheint fröhlich, aber sie endet ein wenig traurig. Oder sie ist traurig, traurig, sogar tragisch, und dann stellt sich heraus, dass es ein Scherz ist. Gerade wenn du an das eine glaubst, und dann, bam, dreht sich alles in eine andere Richtung. Das war der Trick, den ich gefunden habe.'",
+        "Die Premiere des Balletts fand am 29. Juni 2017 im Nationalen Akademischen Opern- und Balletttheater der Ukraine benannt nach T. H. Schewtschenko (Nationale Oper der Ukraine) statt. Die Premiere des Balletts markierte den Abschluss der 149. Theatersaison."
+      ],
+      "list": [],
+      "productionTeam": [
+        "Choreograf — Volkskünstler der Ukraine Viktor Lytwynow",
+        "Dirigent — Volkskünstler der Ukraine Wolodymyr Koschuchar",
+        "Dirigent — Volkskünstler der Ukraine Allin Wlasenko",
+        "Bühnenbildner — Serhii Masloboiuschtschykow",
+        "Kostümdesigner — Hanna Ipatjewa"
+      ],
+      "imageUrl": "/images/за2зайцями-min.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=JQUng5SqQQE&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work6",
@@ -65,10 +78,14 @@
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "'Kobzar'. Kantate-Ballett",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "2016",
+      "description": [
+        "Yuri Shevchenko arbeitete viele Jahre lang mit der berühmten Tanzgruppe 'SHUMKA' aus Edmonton, Kanada, zusammen.",
+        "Im Jahr 2016 fand die nächste erfolgreiche Zusammenarbeit statt — die Kantate-Ballett 'Kobzar', die dem Jubiläum von Taras Schewtschenko gewidmet ist, für Symphonieorchester, Chor und Solisten.",
+        "In Kiew war die Premiere des 'Kobzar' für 2022 in der Nationalen Philharmonie der Ukraine geplant, mit dem Nationalen Symphonieorchester und dem Chor der 'Kiewer Oper', dirigiert vom renommierten Wolodymyr Koschuchar."
+      ],
       "imageUrl": "/images/Кобзар.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=e34qfm6Q0Y4&ab_channel=ShumkaDancersProduction"
     },
     {
       "id": "work8",
@@ -104,21 +121,24 @@
       "id": "work11",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
-      "title": "'Chasing Two Hares'",
-      "year": "NOE. 2017",
+      "title": "'Die Abenteuer von Pinocchio' (Buratino und die Zauberhafte Geige)",
+      "year": "NOE. 2007",
       "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/за2зайцями-min.jpg",
+      "imageUrl": "/images/Буратіно.jpg",
       "videoUrl": ""
     },
     {
       "id": "work12",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
-      "title": "'Cinderella'",
+      "title": "'Aschenputtel'",
       "year": "2000",
-      "description": "Beschreibung des Werkes...",
+      "description": [
+        "Yuri Shevchenko arbeitete viele Jahre lang mit der berühmten Tanzgruppe 'SHUMKA' aus Edmonton, Kanada, zusammen.",
+        "Die Premiere des Balletts 'Aschenputtel' von Shumka fand im Jahr 2000 in Edmonton statt. Das Ballett 'Aschenputtel' ist eine originelle abendfüllende Produktion, die auf dem klassischen Volksmärchen basiert. Diese Aufführung beinhaltet traditionelle Tänze, komische Stiefschwestern, einen charmanten Prinzen und sein geliebtes Aschenputtel, die in einer unglaublichen Welt des Tanzspektakels zum Leben erweckt werden."
+      ],
       "imageUrl": "/images/Сіндерела.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=lLcCy8-qodE&ab_channel=ShumkaDancersProduction"
     },
     {
       "id": "work13",

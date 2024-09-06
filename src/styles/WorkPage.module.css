@@ -59,6 +59,16 @@
   font-size: 16px;
 }
 
+.productionTeam {
+  padding-left: 20px;
+  list-style-type: none;
+}
+
+.productionTeam li {
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
 .workPage .description {
   font-size: 16px;
   line-height: 1.6;
