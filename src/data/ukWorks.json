@@ -137,9 +137,24 @@
       "subcategory": "",
       "title": "'За двома зайцями'. Cюїта з балету.",
       "year": "",
-      "description": "Опис твору...",
+      "description": "'За двома зайцями'",
+      "list": [
+        "Голохвастов",
+        "Ранкові дзвони",
+        "Чобітки",
+        " Галя. Заручини з Голохвастовим",
+        " Проня і Батьки",
+        "Інтермедія ('Піаніст')",
+        "Одягання Проні",
+        "Романс Голохвастова",
+        "Плітки",
+        "Вальс на Хрещатику",
+        "Викриття Голохвастова",
+        "Монолог Голохвастова",
+        "Фінал"
+      ],
       "imageUrl": "/images/За_двома_зайцями_сюїта.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=w7Dd-8d-pAs"
     },
     {
       "id": "work15",
@@ -171,9 +186,16 @@
       "subcategory": "",
       "title": "'Шумка - Гопак'",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Шумка - Гопак",
+      "list": [
+        "Шумка - Гопак NSO України, диригент В. Кожухар",
+        "Шумка-Гопак Вик. Микола Лисенко ( Kyiv Fantastyc Orchestra), Олег Кунтий (Наоні)"
+      ],
       "imageUrl": "/images/Шумка_Гопак.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=m9MzPM7mHjI",
+        "https://www.youtube.com/watch?v=gyhKA2LOBHo"
+      ]
     },
     {
       "id": "work17",
@@ -241,9 +263,18 @@
       "subcategory": "",
       "title": "'Перехресні стежки'",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Cюїта з музики до вистави за повістю І. Франка",
+      "list": [
+        "Перехресні стежки",
+        "Піццикато",
+        "Весна",
+        "Шарманка",
+        "Остінато",
+        "Наспів",
+        "Вальс"
+      ],
       "imageUrl": "/images/Перехресні_стежки.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=PtZPm-KVW9M"
     },
     {
       "id": "work24",
@@ -422,11 +453,12 @@
       "id": "work40",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
-      "title": "'Учитель та учень'. Концертіно",
+      "title": "'Учитель та учень'. Концертино",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Концертино для 2-х скрипок та оркестру",
+      "list": ["Алегро", "Альба (Ранкова пісня)", "Фінал"],
       "imageUrl": "/images/Концертіно_Учитель_та_Учень.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=hjwo0hFn2cc"
     },
     {
       "id": "work41",
@@ -734,9 +766,14 @@
       "subcategory": "",
       "title": "'Три пісні' на вірші Г. Алексеєвої",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Три пісні' на вірші Г. Алексеєвої",
+      "list": ["Колискова", "Чарівна кімната", "Любов - ніжна музика"],
       "imageUrl": "/images/Три_пісні_на_вірші_Г_Алексеєвої.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=dT31FUkSZ84",
+        "https://www.youtube.com/watch?v=S0KslDvE1SY",
+        "https://www.youtube.com/watch?v=G9_dq4F0e18"
+      ]
     },
     {
       "id": "work72",

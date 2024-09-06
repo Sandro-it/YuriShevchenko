@@ -134,11 +134,26 @@
       "id": "work14",
       "category": "Symphonieorchester",
       "subcategory": "",
-      "title": "'Chasing Two Hares'. Suite aus dem Ballett basierend auf dem gleichnamigen Film",
+      "title": "'Zwei Hasen jagen'. Suite aus dem Ballett.",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "'Zwei Hasen jagen'",
+      "list": [
+        "Holohvastov",
+        "Morgenglocken",
+        "Stiefel",
+        "Halia. Verlobung mit Holohvastov",
+        "Pronia und die Eltern",
+        "Zwischenspiel ('Pianist')",
+        "Pronias Ankleiden",
+        "Holohvastovs Romanze",
+        "Klatsch",
+        "Walzer auf dem Chreschtschatyk",
+        "Holohvastovs Enthüllung",
+        "Holohvastovs Monolog",
+        "Finale"
+      ],
       "imageUrl": "/images/За_двома_зайцями_сюїта.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=w7Dd-8d-pAs"
     },
     {
       "id": "work15",
@@ -170,9 +185,16 @@
       "subcategory": "",
       "title": "'Shumka - Hopak'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "'Schumka - Hopak'",
+      "list": [
+        "Schumka - Hopak NSO der Ukraine, Dirigent V. Kozhukhar",
+        "Schumka-Hopak Ausführung von Mykola Lysenko (Kyiv Fantastisches Orchester), Oleh Kuntiy (NAONI)"
+      ],
       "imageUrl": "/images/Шумка_Гопак.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=m9MzPM7mHjI",
+        "https://www.youtube.com/watch?v=gyhKA2LOBHo"
+      ]
     },
     {
       "id": "work17",
@@ -238,11 +260,20 @@
       "id": "work23",
       "category": "Kammerorchester",
       "subcategory": "",
-      "title": "'Kreuzende Pfade'",
+      "title": "'Kreuzwege'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Suite aus der Musik für das Stück nach dem Roman von I. Franko",
+      "list": [
+        "Kreuzwege",
+        "Pizzicato",
+        "Frühling",
+        "Leierkasten",
+        "Ostinato",
+        "Gesang",
+        "Walzer"
+      ],
       "imageUrl": "/images/Перехресні_стежки.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=PtZPm-KVW9M"
     },
     {
       "id": "work24",
@@ -423,9 +454,10 @@
       "subcategory": "",
       "title": "'Lehrer und Schüler'. Concertino",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Concertino für 2 Geigen und Orchester",
+      "list": ["Allegro", "Alba (Morgenlied)", "Finale"],
       "imageUrl": "/images/Концертіно_Учитель_та_Учень.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=hjwo0hFn2cc"
     },
     {
       "id": "work41",
@@ -733,9 +765,14 @@
       "subcategory": "",
       "title": "'Drei Lieder' auf Gedichte von H. Alekseeva",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "'Drei Lieder' auf Gedichte von H. Alekseeva",
+      "list": ["Wiegenlied", "Der verzauberte Raum", "Liebe - zarte Musik"],
       "imageUrl": "/images/Три_пісні_на_вірші_Г_Алексеєвої.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=dT31FUkSZ84",
+        "https://www.youtube.com/watch?v=S0KslDvE1SY",
+        "https://www.youtube.com/watch?v=G9_dq4F0e18"
+      ]
     },
     {
       "id": "work72",

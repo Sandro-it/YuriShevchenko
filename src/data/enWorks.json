@@ -134,11 +134,26 @@
       "id": "work14",
       "category": "Symphony Orchestra",
       "subcategory": "",
-      "title": "'Chasing Two Hares'. Suite from the ballet based on the eponymous film",
+      "title": "'Chasing Two Hares'. Suite from the ballet.",
       "year": "",
-      "description": "Description of the work...",
+      "description": "'Chasing Two Hares'",
+      "list": [
+        "Holohvastov",
+        "Morning Bells",
+        "Boots",
+        "Halia. Engagement with Holohvastov",
+        "Pronia and the Parents",
+        "Interlude ('Pianist')",
+        "Pronia's Dressing",
+        "Holohvastov's Romance",
+        "Gossip",
+        "Waltz on Khreshchatyk",
+        "Holohvastov's Exposure",
+        "Holohvastov's Monologue",
+        "Finale"
+      ],
       "imageUrl": "/images/За_двома_зайцями_сюїта.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=w7Dd-8d-pAs"
     },
     {
       "id": "work15",
@@ -170,9 +185,16 @@
       "subcategory": "",
       "title": "'Shumka - Hopak'",
       "year": "",
-      "description": "Description of the work...",
+      "description": "'Shumka - Hopak'",
+      "list": [
+        "Shumka - Hopak NSO of Ukraine, conductor V. Kozhukhar",
+        "Shumka-Hopak Performed by Mykola Lysenko (Kyiv Fantastic Orchestra), Oleh Kuntiy (NAONI)"
+      ],
       "imageUrl": "/images/Шумка_Гопак.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=m9MzPM7mHjI",
+        "https://www.youtube.com/watch?v=gyhKA2LOBHo"
+      ]
     },
     {
       "id": "work17",
@@ -240,9 +262,18 @@
       "subcategory": "",
       "title": "'Cross Paths'",
       "year": "",
-      "description": "Description of the work...",
+      "description": "Suite from the music for the play based on the novel by I. Franko",
+      "list": [
+        "Cross Paths",
+        "Pizzicato",
+        "Spring",
+        "Barrel Organ",
+        "Ostinato",
+        "Chant",
+        "Waltz"
+      ],
       "imageUrl": "/images/Перехресні_стежки.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=PtZPm-KVW9M"
     },
     {
       "id": "work24",
@@ -423,9 +454,10 @@
       "subcategory": "",
       "title": "'Teacher and Pupil'. Concertino",
       "year": "",
-      "description": "Description of the work...",
+      "description": "Concertino for 2 violins and orchestra",
+      "list": ["Allegro", "Alba (Morning Song)", "Finale"],
       "imageUrl": "/images/Концертіно_Учитель_та_Учень.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=hjwo0hFn2cc"
     },
     {
       "id": "work41",
@@ -731,11 +763,16 @@
       "id": "work71",
       "category": "Vocal Works",
       "subcategory": "",
-      "title": "'Three Songs' on Poems by G. Alekseeva",
+      "title": "'Three Songs' on poems by H. Alekseeva",
       "year": "",
-      "description": "Description of the work...",
+      "description": "'Three Songs' on poems by H. Alekseeva",
+      "list": ["Lullaby", "The Enchanted Room", "Love - Tender Music"],
       "imageUrl": "/images/Три_пісні_на_вірші_Г_Алексеєвої.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=dT31FUkSZ84",
+        "https://www.youtube.com/watch?v=S0KslDvE1SY",
+        "https://www.youtube.com/watch?v=G9_dq4F0e18"
+      ]
     },
     {
       "id": "work72",
