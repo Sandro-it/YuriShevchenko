@@ -276,9 +276,9 @@
       "subcategory": "",
       "title": "'Щедрик'",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Щедрик",
       "imageUrl": "/images/Щедрик.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=9xlquJzAcQ8&ab_channel=DilyaverOsman"
     },
     {
       "id": "work18",
@@ -441,9 +441,9 @@
       "subcategory": "",
       "title": "'Каданс'",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Каданс",
       "imageUrl": "/images/Каданс.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=hEJhDQ2tCEQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work32",
@@ -461,9 +461,10 @@
       "subcategory": "",
       "title": "'Любовне божевілля'",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Театральна сюїта для скрипки та струнного оркестру.",
+      "list": ["Увертюра", "Романс", "Тарантела", "Циганський танок", "Галоп"],
       "imageUrl": "/images/Любовне_божевілля.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=gbkqpMXtJbc&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work34",
@@ -479,11 +480,11 @@
       "id": "work35",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
-      "title": "'Саундтрек'",
+      "title": "3/4 'саундтрек до невідомого фільму'",
       "year": "",
-      "description": "Опис твору...",
+      "description": "3/4 'саундтрек до невідомого фільму'",
       "imageUrl": "/images/Саундтрек.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=B7ihoVQfy1I&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work36",
@@ -501,9 +502,9 @@
       "subcategory": "",
       "title": "'Теплий дощ'",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Теплий дощ",
       "imageUrl": "/images/Теплий_дощ.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=o93MKA5n7IA&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work38",
@@ -521,9 +522,14 @@
       "subcategory": "",
       "title": "'Три Портрети' з балету “За двома зайцями”",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Три Портрети' з балету “За двома зайцями",
+      "list": ["Голохвастов", "Галя", "Проня"],
       "imageUrl": "/images/Три_Портрети_з_балету_За_двома_зайцями.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=MPT9ltmGS4w&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "",
+        "https://www.youtube.com/watch?v=76VuSJbswzY&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      ]
     },
     {
       "id": "work40",
@@ -572,9 +578,9 @@
       "subcategory": "",
       "title": "'Закоханий бандурист' для бандури",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Закоханий бандурист' для бандури",
       "imageUrl": "/images/Закоханий_бандурист.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=IsgVAAeoEX8&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work45",

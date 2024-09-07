@@ -277,9 +277,9 @@
       "subcategory": "",
       "title": "'Schtschedryk'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Schtschedryk ('Carol of the Bells')",
       "imageUrl": "/images/Щедрик.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=9xlquJzAcQ8&ab_channel=DilyaverOsman"
     },
     {
       "id": "work18",
@@ -442,9 +442,9 @@
       "subcategory": "",
       "title": "'Kadenz'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Kadenz",
       "imageUrl": "/images/Каданс.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=hEJhDQ2tCEQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work32",
@@ -462,9 +462,10 @@
       "subcategory": "",
       "title": "'Liebeswahnsinn'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Eine Theatersuite für Violine und Streichorchester.",
+      "list": ["Ouvertüre", "Romanze", "Tarantella", "Zigeunertanz", "Galopp"],
       "imageUrl": "/images/Любовне_божевілля.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=gbkqpMXtJbc&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work34",
@@ -480,11 +481,11 @@
       "id": "work35",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
-      "title": "'Soundtrack'",
+      "title": "3/4 'soundtrack für einen unbekannten Film'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "3/4 'soundtrack für einen unbekannten Film'",
       "imageUrl": "/images/Саундтрек.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=B7ihoVQfy1I&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work36",
@@ -502,9 +503,9 @@
       "subcategory": "",
       "title": "'Warmer Regen'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Warmer Regen",
       "imageUrl": "/images/Теплий_дощ.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=o93MKA5n7IA&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work38",
@@ -520,11 +521,16 @@
       "id": "work39",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
-      "title": "'Drei Porträts' aus dem Ballett “Zwei Hasen Jagen”",
+      "title": "'Drei Porträts' aus dem Ballett 'Zwei Hasen jagen'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "'Drei Porträts' aus dem Ballett 'Zwei Hasen jagen'",
+      "list": ["Golokhvastov", "Galya", "Pronya"],
       "imageUrl": "/images/Три_Портрети_з_балету_За_двома_зайцями.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=MPT9ltmGS4w&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "",
+        "https://www.youtube.com/watch?v=76VuSJbswzY&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      ]
     },
     {
       "id": "work40",
@@ -573,9 +579,9 @@
       "subcategory": "",
       "title": "'Der verliebte Bandurist' für Bandura",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Der verliebte Bandurist' für Bandura",
       "imageUrl": "/images/Закоханий_бандурист.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=IsgVAAeoEX8&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work45",
