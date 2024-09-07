@@ -1,4 +1,4 @@
-.workPage {
+/* .workPage {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -36,7 +36,7 @@
   text-decoration: none;
   border-radius: 5px;
   align-self: flex-start;
-  font-size: 14px; /* Використовуємо базовий розмір шрифту для кнопки */
+  font-size: 14px; 
 }
 
 .backButton:hover {
@@ -46,12 +46,12 @@
 .workPage h1 {
   font-size: 28px;
   margin-bottom: 20px;
-  /* text-align: left; */
+  
 }
 
 .workPage ol {
   padding-left: 20px;
-  list-style-type: decimal; /* Нумерований список */
+  list-style-type: decimal; 
 }
 
 .workPage ol li {
@@ -73,13 +73,14 @@
   font-size: 16px;
   line-height: 1.6;
   margin-bottom: 20px;
-  /* text-align: left; */
+  
 }
 
 .workPage .photo {
   width: 100%;
   height: auto;
   object-fit: cover;
+  
 }
 
 .workPage .link {
@@ -111,7 +112,7 @@
   }
 
   .backButton {
-    font-size: 12px; /* Зменшуємо шрифт на мобільних пристроях */
+    font-size: 12px; 
     padding: 8px 16px;
   }
 
@@ -128,11 +129,143 @@
   }
 }
 
-/* Стиль для темної теми */
+
 [data-theme="dark"] .workPage .link {
   color: #0f81eb;
 }
 
 [data-theme="dark"] .workPage .link:hover {
   color: #4a9ae6;
+} */
+
+/*=======================60/40============================*/
+
+.workPage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.topSection {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.contentSection {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.textSection {
+  flex-basis: 50%; /* Ліва секція займає 60% */
+  margin-right: 20px;
+}
+
+.imageSection {
+  flex-basis: 50%; /* Права секція займає 40% */
+  margin-left: 30px;
+}
+
+.backButton {
+  padding: 10px 20px;
+  background-color: #518ddb;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  align-self: flex-start;
+  font-size: 14px; /* Використовуємо базовий розмір шрифту для кнопки */
+}
+
+.backButton:hover {
+  background-color: #244e86;
+}
+
+.workPage h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.workPage ol {
+  padding-left: 20px;
+  list-style-type: decimal;
+}
+
+.workPage ol li {
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.productionTeam {
+  padding-left: 20px;
+  list-style-type: none;
+}
+
+.productionTeam li {
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.workPage .description {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.workPage .photo {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.workPage .link {
+  font-weight: 400;
+  font-size: 16px;
+  color: #0f81eb;
+  text-decoration: none;
+}
+
+.workPage .link:hover {
+  text-decoration: none;
+  font-weight: 500;
+  color: #4a9ae6;
+}
+
+@media (max-width: 768px) {
+  .contentSection {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .textSection {
+    margin-right: 0;
+    margin-bottom: 20px;
+    flex-basis: 100%; /* Робимо секції повною шириною */
+  }
+
+  .imageSection {
+    flex-basis: 100%;
+  }
+
+  .backButton {
+    font-size: 12px;
+    padding: 8px 16px;
+  }
+
+  h1 {
+    font-size: 28px !important;
+  }
+
+  h2 {
+    font-size: 20px !important;
+  }
+
+  p {
+    font-size: 14px !important;
+  }
 }
