@@ -5,10 +5,14 @@
       "category": "Musical-Theatrical Works",
       "subcategory": "Operas",
       "title": "'Puss in Boots'",
-      "year": "NOE. 2023",
-      "description": "Description of the work...",
+      "year": "NOU. 2023",
+      "description": [
+        "The children's opera 'Puss in Boots', set to the music of Yuri Shevchenko, based on the fairy tale by Charles Perrault with a libretto by Mykola Brovchenko.",
+        "The premiere took place on October 28, 2023, at the National Opera of Ukraine. Unfortunately, it was after Yuri's passing, but thanks to the efforts of Anatoliy Solovyanenko and director Oksana Taranenko, the opera was realized despite the challenges of war.",
+        "Today, it continues to captivate audiences with its vibrant scenography, choral and ballet numbers, and appeals to young audiences."
+      ],
       "imageUrl": "/images/Кіт_у_Чоботях.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://opera.com.ua/performance/kit-u-chobotyah"
     },
     {
       "id": "work2",
@@ -16,11 +20,25 @@
       "subcategory": "Operas",
       "title": "'King Thrushbeard'",
       "year": "Kyiv Opera. 2018",
-      "description": "Description of the work...",
+      "description": [
+        "An opera in two acts based on Bohdan Stelmakh’s play 'King Thrushbeard', inspired by the Brothers Grimm fairy tale.",
+        "The opera premiered on October 26, 2018, and continues to be performed successfully at Kyiv Opera.",
+        "'King Thrushbeard' is a unique opera performed in beautiful Ukrainian, combining modern elements such as hit arias, recognizable leitmotifs, choirs, ensembles, duets, and even operatic rap. Spectacular and theatrically dynamic, the performance captivates with vibrant stage sets and costumes, transporting the audience to a fairy tale world.",
+        "While primarily aimed at children, the production also delights adults. Audiences will surely leave singing the memorable songs and feel enchanted by this witty and heartwarming fairy tale.",
+        "The production received the Kyiv Pectoral Award, the Ukrainian National Festival GRA Award for 'Best Children’s Production' in 2018, and the Victor Kosenko Award in 2019 for composer Yurii Shevchenko."
+      ],
+      "list": [],
+      "productionTeam": [
+        "Libretto – Yurii Shevchenko and Bohdan Stelmakh",
+        "Conductor – Serhii Holubnychyi",
+        "Director – Dmytro Todoriuk",
+        "Set Designer – Liudmyla Nahorna",
+        "Choir Conductor – Anzhela Maslennikova",
+        "Choreographer – Serhii Kon"
+      ],
       "imageUrl": "/images/Король_Дроздобород.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://kyivoperatheatre.com.ua/show/korol-drozdoborod/"
     },
-
     {
       "id": "work3",
       "category": "Musical-Theatrical Works",
@@ -60,7 +78,7 @@
         "Set Designer — Serhii Masloboiushchykov",
         "Costume Designer — Hanna Ipatyeva"
       ],
-      "imageUrl": "/images/за2зайцями-min.jpg",
+      "imageUrl": "/images/за_2_зайцями-min.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=JQUng5SqQQE&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {

@@ -5,10 +5,14 @@
       "category": "Musiktheaterwerke",
       "subcategory": "Opern",
       "title": "'Der gestiefelte Kater'",
-      "year": "NOE. 2023",
-      "description": "Beschreibung des Werkes...",
+      "year": "NOU. 2023",
+      "description": [
+        "Die Kinderoper 'Der gestiefelte Kater' mit Musik von Yuri Shevchenko, basierend auf dem Märchen von Charles Perrault und einem Libretto von Mykola Brovchenko.",
+        "Die Premiere fand am 28. Oktober 2023 in der Nationaloper der Ukraine statt. Leider nach dem Tod von Yuri, aber dank der Bemühungen von Anatoliy Solovyanenko und Regisseurin Oksana Taranenko konnte die Oper trotz der Kriegsbedingungen realisiert werden.",
+        "Heute begeistert sie das Publikum mit ihrer lebendigen Szenografie, Chor- und Ballettnummern und spricht das junge Publikum an."
+      ],
       "imageUrl": "/images/Кіт_у_Чоботях.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://opera.com.ua/performance/kit-u-chobotyah"
     },
     {
       "id": "work2",
@@ -16,9 +20,24 @@
       "subcategory": "Opern",
       "title": "'König Drosselbart'",
       "year": "Kiewer Oper. 2018",
-      "description": "Beschreibung des Werkes...",
+      "description": [
+        "Eine Oper in zwei Akten nach dem Stück 'König Drosselbart' von Bohdan Stelmakh, inspiriert vom Märchen der Brüder Grimm.",
+        "Die Uraufführung fand am 26. Oktober 2018 statt und wird weiterhin mit großem Erfolg an der Kyjiwer Oper aufgeführt.",
+        "'König Drosselbart' ist eine einzigartige Oper in wunderschöner ukrainischer Sprache, die moderne Elemente wie eingängige Arien, wiedererkennbare Leitmotive, Chöre, Ensembles, Duette und sogar Opern-Rap vereint. Die Inszenierung begeistert mit spektakulären Bühnenbildern und Kostümen und versetzt das Publikum in eine Märchenwelt.",
+        "Die Aufführung richtet sich vor allem an Kinder, erfreut aber auch Erwachsene. Am Ende werden die Zuschauer die eingängigen Melodien nachsingen und von dieser humorvollen und herzerwärmenden Märchengeschichte verzaubert sein.",
+        "Die Inszenierung wurde mit dem 'Kyjiwer Pektorale'-Preis, dem GRA-Festivalpreis 2018 für 'Beste Kinderaufführung' und dem Victor-Kosenko-Preis 2019 für Komponist Yurii Shevchenko ausgezeichnet."
+      ],
+      "list": [],
+      "productionTeam": [
+        "Libretto – Yurii Schewtschenko und Bohdan Stelmakh",
+        "Dirigent – Serhii Holubnychyi",
+        "Regisseur – Dmytro Todoriuk",
+        "Bühnenbildner – Liudmyla Nahorna",
+        "Chorleiter – Anzhela Maslennikova",
+        "Choreograph – Serhii Kon"
+      ],
       "imageUrl": "/images/Король_Дроздобород.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://kyivoperatheatre.com.ua/show/korol-drozdoborod/"
     },
 
     {
@@ -60,7 +79,7 @@
         "Bühnenbildner — Serhii Masloboiuschtschykow",
         "Kostümdesigner — Hanna Ipatjewa"
       ],
-      "imageUrl": "/images/за2зайцями-min.jpg",
+      "imageUrl": "/images/за_2_зайцями-min.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=JQUng5SqQQE&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
