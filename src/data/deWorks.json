@@ -56,9 +56,13 @@
       "subcategory": "Ballette",
       "title": "'Däumelinchen'",
       "year": "Odesa Oper. 2022",
-      "description": "Beschreibung des Werkes...",
+      "description": [
+        "Das Ballett 'Däumelinchen' wurde im Nationalen Akademischen Opern- und Balletttheater von Odessa aufgeführt.",
+        "Die Premiere fand im Juni 2023 statt, und die Aufführung ist voller märchenhafter Magie, mit fröhlicher und witziger Musik, die die Abenteuer der Figuren unterstreicht, sowie beeindruckenden Bühnenbildern und Kostümen.",
+        "An der Inszenierung sind Solisten und Ballettkünstler des Theaters sowie andere Darsteller beteiligt. Zu den kreativen Köpfen gehören Dirigent Wolodymyr Wrublewskyj, Choreografen Harry Sevoyan und Viktor Lytvynov, Bühnenbildnerin Hanna Ipatyeva."
+      ],
       "imageUrl": "/images/Дюймовонька.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://scontent-iev1-1.xx.fbcdn.net/v/t42.1790-2/351055707_650258569775983_433397593190348411_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUxOCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIiwidmlkZW9faWQiOjYyODQyMTgyNzE2NjIwOTF9&_nc_ohc=vMpOKoZ2VkkQ7kNvgHZUN-f&rl=518&vabr=288&_nc_ht=scontent-iev1-1.xx&edm=AGo2L-IEAAAA&oh=00_AYC1Q04kNY6tEn0_-XL8576cIPhp_CR894BLhGh9bJjm2A&oe=66E1F054"
     },
     {
       "id": "work5",

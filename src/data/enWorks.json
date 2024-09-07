@@ -54,10 +54,14 @@
       "category": "Musical-Theatrical Works",
       "subcategory": "Ballets",
       "title": "'Thumbelina'",
-      "year": "Odesa Opera. 2022",
-      "description": "Description of the work...",
+      "year": "Odessa Opera. 2022",
+      "description": [
+        "The ballet 'Thumbelina' was presented at the Odessa National Academic Theater of Opera and Ballet.",
+        "The premiere took place in June 2023, and the production is filled with fairy-tale magic, with joyful and witty music that emphasizes the characters' adventures, along with impressive sets and costumes.",
+        "The production involves soloists and ballet artists of the theater and other performers. Among the creative team: conductor Volodymyr Vrublevskyi, choreographers Harry Sevoyan and Viktor Lytvynov, set designer Hanna Ipatyeva."
+      ],
       "imageUrl": "/images/Дюймовонька.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://scontent-iev1-1.xx.fbcdn.net/v/t42.1790-2/351055707_650258569775983_433397593190348411_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUxOCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIiwidmlkZW9faWQiOjYyODQyMTgyNzE2NjIwOTF9&_nc_ohc=vMpOKoZ2VkkQ7kNvgHZUN-f&rl=518&vabr=288&_nc_ht=scontent-iev1-1.xx&edm=AGo2L-IEAAAA&oh=00_AYC1Q04kNY6tEn0_-XL8576cIPhp_CR894BLhGh9bJjm2A&oe=66E1F054"
     },
     {
       "id": "work5",
