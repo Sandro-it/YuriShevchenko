@@ -163,13 +163,22 @@
 }
 
 .textSection {
-  flex-basis: 50%; /* Ліва секція займає 60% */
+  flex-basis: 50%; /* Ліва секція займає 50% */
   margin-right: 20px;
 }
 
 .imageSection {
-  flex-basis: 50%; /* Права секція займає 40% */
+  flex-basis: 50%; /* Права секція займає 50% */
   margin-left: 30px;
+  display: flex;
+  justify-content: flex-end; /* Вирівнюємо зображення по правому краю */
+}
+
+.workPage .photo {
+  width: 80%; /* Зображення займає 80% ширини секції */
+  height: auto;
+  object-fit: cover;
+  margin-left: auto; /* Вирівнювання по правому краю секції */
 }
 
 .backButton {
@@ -179,7 +188,7 @@
   text-decoration: none;
   border-radius: 5px;
   align-self: flex-start;
-  font-size: 14px; /* Використовуємо базовий розмір шрифту для кнопки */
+  font-size: 14px;
 }
 
 .backButton:hover {
@@ -217,13 +226,6 @@
   margin-bottom: 20px;
 }
 
-.workPage .photo {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-  padding: 5px 0 30px 30px;
-}
-
 .workPage .link {
   font-weight: 400;
   font-size: 16px;
@@ -246,11 +248,15 @@
   .textSection {
     margin-right: 0;
     margin-bottom: 20px;
-    flex-basis: 100%; /* Робимо секції повною шириною */
+    flex-basis: 100%;
   }
 
   .imageSection {
     flex-basis: 100%;
+  }
+
+  .workPage .photo {
+    width: 100%; /* Зображення займає повну ширину на мобільних */
   }
 
   .backButton {
