@@ -45,9 +45,20 @@
       "subcategory": "Ballets",
       "title": "'Barmaley and Aibolit'",
       "year": "Kyiv Opera. 2009",
-      "description": "Description of the work...",
-      "imageUrl": "/images/Бармалей-min.jpg",
-      "videoUrl": ""
+      "description": [
+        "The ballet 'Barmaley and Aibolit' was presented on the stage of the Kyiv Municipal Academic Opera and Ballet Theatre for Children and Youth.",
+        "Familiar childhood characters from Chukovsky's beloved tales – the kind doctor Aibolit and the villainous bandit Barmaley – come to life in a ballet created for our theater by the famous Ukrainian composer Yuri Shevchenko. But can we imagine the villain Barmaley as a sentimental dreamer who takes care of flowers and fulfills all the whims of his spoiled daughter Barmalyunya? No? Then hurry to the show 'Barmaley and Aibolit,' where you will meet exciting and captivating adventures with familiar and unfamiliar characters brought to life by the boundless imagination of our production team."
+      ],
+      "productionTeam": [
+        "Conductor-Producer – Oleksiy Baklan",
+        "Choreographer-Producer – Viktor Lytvynov",
+        "Set Designer – Natalia Kucherya",
+        "Conductor – Yevhen Voronko",
+        "Ballet Rehearsal Master – Oksana Khamrovska",
+        "Stage Director – Tetiana Lukyanets"
+      ],
+      "imageUrl": "/images/Бармалей.jpg",
+      "videoUrl": "https://kyivoperatheatre.com.ua/show/barmalej-ta-ajbolyt/"
     },
     {
       "id": "work4",
@@ -56,12 +67,23 @@
       "title": "'Thumbelina'",
       "year": "Odessa Opera. 2022",
       "description": [
-        "The ballet 'Thumbelina' was presented at the Odessa National Academic Theater of Opera and Ballet.",
-        "The premiere took place in June 2023, and the production is filled with fairy-tale magic, with joyful and witty music that emphasizes the characters' adventures, along with impressive sets and costumes.",
-        "The production involves soloists and ballet artists of the theater and other performers. Among the creative team: conductor Volodymyr Vrublevskyi, choreographers Harry Sevoyan and Viktor Lytvynov, set designer Hanna Ipatyeva."
+        "The ballet 'Thumbelina' was commissioned by the Odesa National Academic Opera and Ballet Theatre and presented on its stage.",
+        "The libretto was written by Mykola Brovchenko, based on Hans Christian Andersen's famous fairy tale. It features soloists and ballet artists, the theatre orchestra, the exemplary classical dance ensemble 'Fouetté' and the 'Fouetté-Grand' Center (artistic directors – Marina Koziar and Hanna Pohoretska).",
+        "The premiere took place in June 2023. The creators of the new production, commissioned by the theatre, composed the music, libretto, choreography, exclusive sets, and costumes. The renowned ballet and orchestra of the theatre filled the ballet with unique fairy-tale charm, unforgettable music, humor, and brilliant choreography. On the stage of our theatre, Thumbelina not only dances on pointe but also travels to the Land of Windowsills, rides the Great Flower Carousel, journeys through the Land of Beetles and Elves, organizes the Big Cleanup, visits the Forest of Tall Grass, and attends the High Beetle Fashion Show Haute Couture. The delicate girl overcomes all difficulties and, in the end, finds friends and true love.",
+        "'Thumbelina' is truly a performance for the whole family! The vivid impressions of a real fairy tale and the festive atmosphere will leave lasting memories for both children and adults!"
+      ],
+      "productionTeam": [
+        "Conductor: Volodymyr Vrublevskyi",
+        "Choreographer, Director: Honored Artist of Ukraine Harri Sevoyan",
+        "Choreographer: People's Artist of Ukraine Viktor Lytvynov",
+        "Set Designer: Hanna Ipatyeva",
+        "Lighting Designer: Maksym Dedov"
       ],
       "imageUrl": "/images/Дюймовонька.jpg",
-      "videoUrl": "https://scontent-iev1-1.xx.fbcdn.net/v/t42.1790-2/351055707_650258569775983_433397593190348411_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUxOCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIiwidmlkZW9faWQiOjYyODQyMTgyNzE2NjIwOTF9&_nc_ohc=vMpOKoZ2VkkQ7kNvgHZUN-f&rl=518&vabr=288&_nc_ht=scontent-iev1-1.xx&edm=AGo2L-IEAAAA&oh=00_AYC1Q04kNY6tEn0_-XL8576cIPhp_CR894BLhGh9bJjm2A&oe=66E1F054"
+      "videoUrls": [
+        "https://scontent-iev1-1.xx.fbcdn.net/v/t42.1790-2/351055707_650258569775983_433397593190348411_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUxOCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIiwidmlkZW9faWQiOjYyODQyMTgyNzE2NjIwOTF9&_nc_ohc=vMpOKoZ2VkkQ7kNvgHZUN-f&rl=518&vabr=288&_nc_ht=scontent-iev1-1.xx&edm=AGo2L-IEAAAA&oh=00_AYC1Q04kNY6tEn0_-XL8576cIPhp_CR894BLhGh9bJjm2A&oe=66E1F054",
+        "https://operahouse.od.ua/events/thumbelina/"
+      ]
     },
     {
       "id": "work5",
@@ -87,12 +109,22 @@
     },
     {
       "id": "work6",
-      "category": "Musical-Theatrical Works",
+      "category": "Music-Theatrical Works",
       "subcategory": "Ballets",
-      "title": "'The Zaporozhets Beyond the Danube'",
-      "year": "Year???",
-      "description": "Description of the work...",
-      "imageUrl": "/images/Запорожець.jpg",
+      "title": "'The Path to Hopak'",
+      "year": "2005",
+      "description": [
+        "Yuri Valentinovich collaborated for many years with the famous dance ensemble 'SHUMKA' from Edmonton, Canada.",
+        "The premiere took place in 2005 in Ottawa."
+      ],
+      "productionTeam": [
+        "Conductor: O. Baklan",
+        "Choreography: V. Lytvynov, I. Pikhlyk",
+        "Choirmaster: A. Maslennikova",
+        "Stage Designer: Serhiy Masloboyshchykov",
+        "Costume Designer: Hanna Ipatyeva"
+      ],
+      "imageUrl": "/images/Шлях_до_Гопаку.jpg",
       "videoUrl": ""
     },
     {
@@ -355,10 +387,13 @@
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Vocalise'",
-      "year": "",
-      "description": "Description of the work...",
+      "year": "2011",
+      "description": [
+        "Vocalise (In Memory of a Friend).",
+        "This musical piece was created by Yuri Shevchenko in 2011 in memory of his close friend, conductor Serhiy Malovany."
+      ],
       "imageUrl": "/images/Вокаліз.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=eo5sZW5usmQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work27",
@@ -376,9 +411,9 @@
       "subcategory": "",
       "title": "'Hamlet Suite'",
       "year": "",
-      "description": "Description of the work...",
+      "description": "9 theatrical sketches",
       "imageUrl": "/images/Гамлет-сюїта.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=SOojRnGTJqY&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work29",
@@ -386,9 +421,9 @@
       "subcategory": "",
       "title": "'Humoresque'",
       "year": "",
-      "description": "Description of the work...",
+      "description": "Humoresque",
       "imageUrl": "/images/Гумореска.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=ss9bgln6Px4&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work30",
@@ -396,9 +431,9 @@
       "subcategory": "",
       "title": "'Thumbelina'. Suite",
       "year": "",
-      "description": "Description of the work...",
+      "description": "The 'Thumbelina' Suite (dedicated to Bohdana Pivnenko and her students).",
       "imageUrl": "/images/Сюїта_Дюймовонька.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=6amij0IsLsw&ab_channel=MykolaPososhko"
     },
     {
       "id": "work31",
@@ -696,10 +731,22 @@
       "category": "Music for Dramatic Performances",
       "subcategory": "",
       "title": "'Cross Paths'",
-      "year": "",
-      "description": "Description of the work...",
+      "year": "2015",
+      "description": [
+        "A tragicomedy in two acts.",
+        "A play by Dmytro Chyrypiuk based on the novella of the same name by Ivan Franko.",
+        "The premiere of the performance 'Cross Paths' took place in 2015 at the Ivan Franko National Academic Drama Theater.",
+        "For this performance, Yuri Shevchenko created an original musical score, which became an essential element of the production. Shevchenko's music highlights the dramatic tension of Ivan Franko's work, adds emotional depth to the scenes, and reflects the internal world of the characters."
+      ],
+      "productionTeam": [
+        "Director: Dmytro Chyrypiuk",
+        "Scenography and Costumes: Andriy Aleksandrovych"
+      ],
       "imageUrl": "/images/Перехресні_стежки.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=YU0UX6novQM&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=2LWaFq4vuKo&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC%D0%B5%D0%BD%D1%96%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0"
+      ]
     },
     {
       "id": "work61",
@@ -892,9 +939,9 @@
       "subcategory": "Cartoons",
       "title": "'Ivasyk-Telesyk'",
       "year": "",
-      "description": "Description of the work...",
+      "description": "'Ivasyk-Telesyk', Kyivnaukfilm, 1989.",
       "imageUrl": "/images/Івасик-Телесик.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=6bHYDOvel3s&ab_channel=uacartoons"
     },
     {
       "id": "work80",

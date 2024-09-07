@@ -46,9 +46,20 @@
       "subcategory": "Ballette",
       "title": "'Barmalej und Aibolit'",
       "year": "Kiewer Oper. 2009",
-      "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/Бармалей-min.jpg",
-      "videoUrl": ""
+      "description": [
+        "Das Ballett 'Barmaley und Aibolit' wurde auf der Bühne des Kiewer Städtischen Akademischen Opern- und Balletttheaters für Kinder und Jugendliche aufgeführt.",
+        "Bekannte Kindheitsfiguren aus Chukowskis geliebten Märchen – der freundliche Arzt Aibolit und der böse Bandit Barmaley – werden in einem Ballett lebendig, das für unser Theater vom berühmten ukrainischen Komponisten Yuri Shevchenko geschaffen wurde. Aber können wir uns den bösen Banditen Barmaley als sentimentalen Träumer vorstellen, der sich um Blumen kümmert und alle Launen seiner verwöhnten Tochter Barmalyunya erfüllt? Nein? Dann beeilen Sie sich zur Vorstellung 'Barmaley und Aibolit', wo Sie spannende und fesselnde Abenteuer mit bekannten und unbekannten Charakteren erwarten, die von der grenzenlosen Fantasie unserer Inszenierung zum Leben erweckt wurden."
+      ],
+      "productionTeam": [
+        "Dirigent-Produzent – Oleksiy Baklan",
+        "Choreograph-Produzent – Viktor Lytvynov",
+        "Bühnenbildnerin – Natalia Kucherya",
+        "Dirigent – Yevhen Voronko",
+        "Ballett-Repetitorin – Oksana Khamrovska",
+        "Regieassistentin – Tetiana Lukyanets"
+      ],
+      "imageUrl": "/images/Бармалей.jpg",
+      "videoUrl": "https://kyivoperatheatre.com.ua/show/barmalej-ta-ajbolyt/"
     },
     {
       "id": "work4",
@@ -57,12 +68,23 @@
       "title": "'Däumelinchen'",
       "year": "Odesa Oper. 2022",
       "description": [
-        "Das Ballett 'Däumelinchen' wurde im Nationalen Akademischen Opern- und Balletttheater von Odessa aufgeführt.",
-        "Die Premiere fand im Juni 2023 statt, und die Aufführung ist voller märchenhafter Magie, mit fröhlicher und witziger Musik, die die Abenteuer der Figuren unterstreicht, sowie beeindruckenden Bühnenbildern und Kostümen.",
-        "An der Inszenierung sind Solisten und Ballettkünstler des Theaters sowie andere Darsteller beteiligt. Zu den kreativen Köpfen gehören Dirigent Wolodymyr Wrublewskyj, Choreografen Harry Sevoyan und Viktor Lytvynov, Bühnenbildnerin Hanna Ipatyeva."
+        "Das Ballett 'Däumelinchen' wurde im Auftrag des Odesa Nationalen Akademischen Opern- und Balletttheaters geschaffen und auf dessen Bühne präsentiert.",
+        "Das Libretto wurde von Mykola Browtschenko nach dem gleichnamigen Märchen von Hans Christian Andersen verfasst. Es treten Solisten und Ballettkünstler, das Orchester des Theaters, das vorbildliche klassische Tanzensemble 'Fouetté' und das Zentrum 'Fouetté-Grand' (künstlerische Leiter – Marina Koziar und Hanna Pohoretska) auf.",
+        "Die Premiere fand im Juni 2023 statt. Die Schöpfer der neuen Inszenierung, die speziell im Auftrag des Theaters entstanden ist, komponierten die Musik, das Libretto, die Choreografie, exklusive Dekorationen und Kostüme. Das berühmte Ballett und Orchester des Theaters füllten das Ballettstück mit einzigartigem märchenhaftem Charme, unvergesslicher Musik, Humor und brillanter Choreografie. Auf der Bühne unseres Theaters wird Däumelinchen nicht nur auf Zehenspitzen tanzen, sondern auch in das Land der Fensterbänke reisen, das Große Blumenkarussell fahren, durch das Land der Käfer und Elfen reisen, den Großen Frühjahrsputz veranstalten, den Wald der Hohen Gräser besuchen und an der Käfermodenschau Haute Couture teilnehmen. Das zarte Mädchen überwindet alle Schwierigkeiten und findet schließlich Freunde und wahre Liebe.",
+        "'Däumelinchen' ist wirklich eine Aufführung für die ganze Familie! Die leuchtenden Eindrücke eines echten Märchens und das festliche Gefühl werden sowohl Kindern als auch Erwachsenen lange in Erinnerung bleiben!"
+      ],
+      "productionTeam": [
+        "Dirigent: Volodymyr Vrublevskyi",
+        "Choreograf, Regisseur: Verdienter Künstler der Ukraine Harri Sevoyan",
+        "Choreograf: Volkskünstler der Ukraine Viktor Lytvynov",
+        "Bühnenbildnerin: Hanna Ipatyeva",
+        "Lichtdesigner: Maksym Dedov"
       ],
       "imageUrl": "/images/Дюймовонька.jpg",
-      "videoUrl": "https://scontent-iev1-1.xx.fbcdn.net/v/t42.1790-2/351055707_650258569775983_433397593190348411_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUxOCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIiwidmlkZW9faWQiOjYyODQyMTgyNzE2NjIwOTF9&_nc_ohc=vMpOKoZ2VkkQ7kNvgHZUN-f&rl=518&vabr=288&_nc_ht=scontent-iev1-1.xx&edm=AGo2L-IEAAAA&oh=00_AYC1Q04kNY6tEn0_-XL8576cIPhp_CR894BLhGh9bJjm2A&oe=66E1F054"
+      "videoUrls": [
+        "https://scontent-iev1-1.xx.fbcdn.net/v/t42.1790-2/351055707_650258569775983_433397593190348411_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUxOCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIiwidmlkZW9faWQiOjYyODQyMTgyNzE2NjIwOTF9&_nc_ohc=vMpOKoZ2VkkQ7kNvgHZUN-f&rl=518&vabr=288&_nc_ht=scontent-iev1-1.xx&edm=AGo2L-IEAAAA&oh=00_AYC1Q04kNY6tEn0_-XL8576cIPhp_CR894BLhGh9bJjm2A&oe=66E1F054",
+        "https://operahouse.od.ua/events/thumbelina/"
+      ]
     },
     {
       "id": "work5",
@@ -90,10 +112,20 @@
       "id": "work6",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
-      "title": "'Der Kosaken jenseits der Donau'",
-      "year": "Jahr???",
-      "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/Запорожець.jpg",
+      "title": "'Der Weg zum Hopak'",
+      "year": "2005",
+      "description": [
+        "Yuri Valentinovich arbeitete viele Jahre mit dem berühmten Tanzensemble 'SHUMKA' aus Edmonton, Kanada, zusammen.",
+        "Die Premiere fand 2005 in Ottawa statt."
+      ],
+      "productionTeam": [
+        "Dirigent: O. Baklan",
+        "Choreografie: V. Lytvynov, I. Pikhlyk",
+        "Chorleiter: A. Maslennikova",
+        "Bühnenbildner: Serhiy Masloboyshchykov",
+        "Kostümdesigner: Hanna Ipatyeva"
+      ],
+      "imageUrl": "/images/Шлях_до_Гопаку.jpg",
       "videoUrl": ""
     },
     {
@@ -356,10 +388,13 @@
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Vokalise'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "2011",
+      "description": [
+        "Vokalise (Zum Gedenken an einen Freund).",
+        "Dieses Musikstück wurde 2011 von Yuri Shevchenko zum Gedenken an seinen engen Freund, den Dirigenten Serhiy Malovany, geschaffen."
+      ],
       "imageUrl": "/images/Вокаліз.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=eo5sZW5usmQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work27",
@@ -377,9 +412,9 @@
       "subcategory": "",
       "title": "'Hamlet-Suite'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "9 theatralische Skizzen",
       "imageUrl": "/images/Гамлет-сюїта.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=SOojRnGTJqY&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work29",
@@ -387,9 +422,9 @@
       "subcategory": "",
       "title": "'Humoreske'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Humoreske",
       "imageUrl": "/images/Гумореска.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=ss9bgln6Px4&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
     },
     {
       "id": "work30",
@@ -397,9 +432,9 @@
       "subcategory": "",
       "title": "'Däumelinchen'. Suite",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Die Suite 'Däumelinchen' (gewidmet Bohdana Pivnenko und ihren Schülern).",
       "imageUrl": "/images/Сюїта_Дюймовонька.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=6amij0IsLsw&ab_channel=MykolaPososhko"
     },
     {
       "id": "work31",
@@ -697,10 +732,22 @@
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Kreuzende Pfade'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "2015",
+      "description": [
+        "Ein Tragikomödie in zwei Akten.",
+        "Ein Stück von Dmytro Chyrypiuk basierend auf der gleichnamigen Novelle von Iwan Franko.",
+        "Die Premiere der Aufführung 'Kreuzende Pfade' fand 2015 im Iwan-Franko-Nationalen Akademischen Dramentheater statt.",
+        "Für diese Aufführung schuf Yuri Shevchenko eine originelle musikalische Untermalung, die zu einem wesentlichen Element der Inszenierung wurde. Shevchenkos Musik betont die dramatische Spannung von Iwan Frankos Werk, verleiht den Szenen emotionale Tiefe und spiegelt die innere Welt der Figuren wider."
+      ],
+      "productionTeam": [
+        "Regisseur: Dmytro Chyrypiuk",
+        "Szenografie und Kostüme: Andriy Aleksandrovych"
+      ],
       "imageUrl": "/images/Перехресні_стежки.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=YU0UX6novQM&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=2LWaFq4vuKo&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC%D0%B5%D0%BD%D1%96%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0"
+      ]
     },
     {
       "id": "work61",
@@ -893,9 +940,9 @@
       "subcategory": "Zeichentrickfilme",
       "title": "'Ivasyk-Telesyk'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "'Ivasyk-Telesyk', Kyivnaukfilm, 1989.",
       "imageUrl": "/images/Івасик-Телесик.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=6bHYDOvel3s&ab_channel=uacartoons"
     },
     {
       "id": "work80",
