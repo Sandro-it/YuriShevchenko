@@ -88,7 +88,7 @@
     },
     {
       "id": "work5",
-      "category": "Musikalisch-Theatralische Werke",
+      "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "'Zwei Hasen auf der Spur'",
       "year": "NOU. 2017",
@@ -626,30 +626,53 @@
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Hamlet'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "2000",
+      "description": [
+        "Kyiv Molody Theater, 2000",
+        "Das berühmte Shakespeare-Stück ist zu einem Symbol für viele Epochen geworden. Heute, am Wendepunkt des Jahrtausends, klingt die rhetorische Frage 'Sein oder nicht sein?' besonders aktuell. Der dänische Prinz im Molody ist nicht das übliche Bild eines trauernden Mannes im schwarzen Samt, denn jede Epoche bringt ihre eigenen Hamlets hervor.",
+        "Für diese Aufführung wurde eine neue Übersetzung des Stücks speziell beim renommierten ukrainischen Schriftsteller Jurij Andruchowytsch in Auftrag gegeben; die Originalmusik wurde von Jurij Schewtschenko komponiert. Regisseur Stanislaw Moiseev sowie die Bühnenbildner Andriy Aleksandrovych-Dochevsky und Iryna Horshkova haben alle Anstrengungen unternommen, um eine visuell beeindruckende, zeitgenössische Aufführung auf hohem Niveau zu schaffen."
+      ],
       "imageUrl": "/images/Гамлет.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=5QL7wW8zGBo&ab_channel=Molodyteatr"
     },
     {
       "id": "work50",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Don Juan'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "2012",
+      "description": [
+        "Komödie-Mythos. Kiewer Junges Theater.",
+        "Es ist schwer, das heutige Theaterpublikum zu überraschen, aber den Machern der Inszenierung von 'Don Juan' ist es gelungen. Molières berühmte Komödie, meisterhaft ins Ukrainische von Iryna Steshenko übersetzt, hat nicht nur einen neuen Klang, sondern auch eine neue Bedeutung erhalten. In diesem Stück ist der Hauptcharakter nicht nur ein geschickter Verführer, ein witziger Scherzbold und ein notorischer Schuldenmacher, sondern ein freier Geist, der fliegt, wohin er will. Solches Verhalten erregt in jeder Gesellschaft Unbehagen und Ärger, und ein solcher Mensch ist letztlich zum Exil verurteilt. Die Aufführung ist voller grotesker Figuren, aber das einzig wirklich lebendige Wesen unter ihnen ist Don Juan selbst. Dieser Held ist nicht nur ein Mythos über den Frauenhelden aller Zeiten, sondern verkörpert eher unser Verständnis eines freien Individuums – den Ausdruck von unbeschränktem Willen und das Streben nach maximaler Selbstentfaltung."
+      ],
+      "productionTeam": [
+        "Regisseur: Stanislaw Moiseev",
+        "Bühnenbildner: Serhiy Masloboyshchykov",
+        "Choreograph: Alla Rubina",
+        "Übersetzung: Iryna Steshenko"
+      ],
       "imageUrl": "/images/Дон_Жуан.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=77fQIly2e4Y&ab_channel=vargack1g"
     },
     {
       "id": "work51",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
-      "title": "'Don Quijote'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/Дон_Кіхот.jpg",
-      "videoUrl": ""
+      "title": "'Don Quijote. 1938'",
+      "year": "2006",
+      "description": [
+        "'Don Quijote. 1938'. Die Premiere fand 2006 im Lesja-Ukrainka-Theater statt.",
+        "Die Inszenierung basiert auf dem Stück 'Don Quijote' von Michail Bulgakow, Auszügen aus anderen Stücken Bulgakows sowie Fragmenten aus den Tagebüchern, Briefen und Erinnerungen von Michail und Elena Bulgakow. Ebenfalls enthalten sind Materialien aus sowjetischen und weltpolitischen und künstlerischen Chroniken des Jahres 1938.",
+        "Eine besondere Atmosphäre schafft die Musik von Yuriy Schewtschenko, die den inneren Zustand der Figuren und das Drama der Epoche feinfühlig wiedergibt. Seine Kompositionen füllen das Stück mit Emotionen und unterstreichen die Parallelen zwischen den Schicksalen von Don Quijote und Bulgakow selbst — beide waren Träumer, die in verschiedenen Zeiten kämpften und nach der Wahrheit suchten, jedoch mit derselben Leidenschaft und Hingabe."
+      ],
+      "productionTeam": [
+        "Regie — Mychailo Resnikowytsch",
+        "Regisseur — Leonid Ostropolsky",
+        "Bühnenbild — David Borowsky",
+        "Kostüme — Olena Drobna"
+      ],
+      "imageUrl": "/images/Don_Quixote.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=mPQcMFUvzak&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC.%D0%9B%D0%B5%D1%81%D1%96%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8"
     },
     {
       "id": "work52",
@@ -686,10 +709,21 @@
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Napoleon und die Korsin'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/Наполеон_та_корсиканка.jpg",
-      "videoUrl": ""
+      "year": "2004",
+      "description": [
+        "Die Premiere fand im Lesja-Ukrainka-Theater statt.",
+        "Der Ruhm des großen Feldherrn hallt bis heute nach, bringt neue Mythen über sein Schicksal hervor und schafft Raum für kreative Interpretationen. Das Theater, das weder zeitliche noch genrebezogene Grenzen kennt, wendet sich ebenfalls der Figur Napoleons zu. Dieses Mal, dank des tschechischen Dramatikers Jiří Hubač, erscheint Napoleon dem Publikum in einer ungewöhnlichen Rolle — als einer der Hauptfiguren einer Komödie. Und nicht irgendeiner Komödie, sondern einer naiven, menschlichen und freundlichen.",
+        "Die Handlung spielt im Jahr 1819 auf der Insel St. Helena. Dies ist eine fiktive Geschichte darüber, wie eine einfache Korsin mit dem königlichen Namen Josephine das Vertrauen des pensionierten Kaisers gewann, vor dem einst ganz Europa zitterte. Sie wurde seine wahre Freundin und Adjutantin und ließ Bonaparte seine Größe vergessen, kehrte zu einfachen menschlichen Wünschen zurück — tanzen, singen, streiten und lachen auf korsische Art."
+      ],
+      "productionTeam": [
+        "Regie — Mychailo Resnikowytsch",
+        "Regisseur — Borys Wosnjuk",
+        "Bühnenbild — David Borowsky",
+        "Kostüme — David Borowsky, Walentyna Plawun",
+        "Choreograf — Alla Rubina"
+      ],
+      "imageUrl": "/images/Napoleon_und_die_Korsin.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=-pxvkiZKB7M&ab_channel=TeatrLesjaUkrainka"
     },
     {
       "id": "work56",
@@ -778,20 +812,35 @@
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Wahnsinn der Liebe'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "2012",
+      "description": [
+        "Die Premiere fand im Theater Lesja Ukrajinka statt.",
+        "Die Musik von Yuri Shevchenko im Stück 'Wahnsinn der Liebe' ist tief bewegend und impulsiv und unterstreicht die Tiefe der Gefühle und die Dramatik der Ereignisse. Es ist ein Gleichnis über die Liebe – selbstlos, edel und spirituell. Zehn Troubadoure, moderne junge Menschen und Freunde der Hauptfiguren Erast und Agatha, führen die Geschichte und füllen sie mit ihren Stimmen und Emotionen.",
+        "Lachen, Tränen, die leidenschaftlichen Emotionen der Liebenden und das Opfer für die Liebe, kombiniert mit der Musik, schwingen in einem Rhythmus, der das Publikum fesselt. Jeder Schauspieler in der Aufführung improvisiert und verschmilzt mit seiner Rolle, und lädt das Publikum ein, darüber nachzudenken: Sind wir bereit, uns zu ändern, wenn wir über die Charaktere des Stücks lachen?"
+      ],
+      "productionTeam": [
+        "Regie: Mykhailo Reznikovych",
+        "Co-Regisseure: Iryna Barkovska, Oleh Nikitin",
+        "Szenografie und Kostüme: Mariya Levytska"
+      ],
       "imageUrl": "/images/Шаленство_Кохання.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=3O-Ea9rVyxA&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC.%D0%9B%D0%B5%D1%81%D1%96%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8"
     },
     {
       "id": "work64",
       "category": "Musik für Theateraufführungen",
-      "subcategory": "",
+      "subcategory": "1995",
       "title": "'Die Schule des Skandals'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Lesja-Ukrainka-Nationaltheater für dramatische Kunst.",
+      "productionTeam": [
+        "Regisseur — Mykhailo Reznikovych",
+        "Regie — Borys Voznyuk",
+        "Bühnenbild und Kostüme — Maria Levitska",
+        "Choreograph — Alla Rubina"
+      ],
       "imageUrl": "/images/Школа_скандалу.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=W3XtJexik1U&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC.%D0%9B%D0%B5%D1%81%D1%96%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8"
     },
     {
       "id": "work65",
@@ -903,40 +952,40 @@
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Spring zur Wolke'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "1988",
+      "description": "Spring zur Wolke. Kyivnaukfilm (1988)",
       "imageUrl": "/images/Дострибни_до_хмаринки.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=k6BjJGFIlT0&ab_channel=uacartoons"
     },
     {
       "id": "work76",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Der Lachende Topf'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "1990",
+      "description": "'Der lachende Topf'. Kyivnaukfilm 1990.",
       "imageUrl": "/images/Горщик-сміхотун.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=DyiWgbv4-Uk&ab_channel=uacartoons"
     },
     {
       "id": "work77",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Der Igel und das Mädchen'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "1988",
+      "description": "Der Igel und das Mädchen. Kyivnaukfilm 1988.",
       "imageUrl": "/images/Їжачок_і_дівчинка.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=YlGrbPmClts&ab_channel=%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%D0%B6%D0%B0%D0%BD%D1%80%D0%B0"
     },
     {
       "id": "work78",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Die Geschichte vom Mädchen, das auf Brot trat'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "1988",
+      "description": "Die Geschichte vom Mädchen, das auf Brot trat. Kyivnaukfilm, 1988.",
       "imageUrl": "/images/Історія_про_дівчинку_яка_наступила_на_хліб.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=SJoHfnm5cJQ&ab_channel=%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%8C%D0%BA%D0%B0%D0%B0%D0%B3%D0%B5%D0%BD%D1%86%D1%96%D1%8F%D0%9D%D0%B0%D1%88%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82"
     },
     {
       "id": "work79",
@@ -949,44 +998,34 @@
       "videoUrl": "https://www.youtube.com/watch?v=6bHYDOvel3s&ab_channel=uacartoons"
     },
     {
-      "id": "work80",
-      "category": "Filmmusik und Musik für Zeichentrickfilme",
-      "subcategory": "Zeichentrickfilme",
-      "title": "'Kater Basilio und die Maus Pic'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/Кіт_Базиліо_і_мишеня_Пік.jpg",
-      "videoUrl": ""
-    },
-    {
       "id": "work81",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
-      "title": "'Kätzchen und Hahn'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "title": "'Das Kätzchen und der Hahn'",
+      "year": "1991",
+      "description": "'Das Kätzchen und der Hahn'. Ukranimafilm, 1991.",
       "imageUrl": "/images/Котик_та_півник.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=cevj0GkKCE8&ab_channel=uacartoons"
     },
     {
       "id": "work82",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
-      "title": "'Das kleine Entlein mit dem schiefen Bein'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "title": "'Das hinkende Entlein'",
+      "year": "1992",
+      "description": "'Das hinkende Entlein'. Ukranimafilm, 1992.",
       "imageUrl": "/images/Кривенька_качечка.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=LUQaU_rkiMI&ab_channel=uacartoons"
     },
     {
       "id": "work83",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
-      "title": "'Die kleinen Winterstürme'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "title": "'Kleine Fröste'",
+      "year": "1986",
+      "description": "'Kleine Fröste'. Kyivnaukfilm, 1986.",
       "imageUrl": "/images/Морозики-морози.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=5_QQG363_Dw&ab_channel=%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%D0%B6%D0%B0%D0%BD%D1%80%D0%B0"
     },
     {
       "id": "work84",
