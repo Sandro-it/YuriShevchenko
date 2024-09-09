@@ -225,7 +225,8 @@
         "Finale"
       ],
       "imageUrl": "/images/За_двома_зайцями_сюїта.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=w7Dd-8d-pAs"
+      "videoUrl": "https://www.youtube.com/watch?v=w7Dd-8d-pAs",
+      "embedVideo": true
     },
     {
       "id": "work15",
@@ -249,7 +250,8 @@
         "Blessed Day, Blessed Hour"
       ],
       "imageUrl": "/images/Запорожець_сюїта.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=HsKI5R3Ip3c"
+      "videoUrl": "https://www.youtube.com/watch?v=HsKI5R3Ip3c",
+      "embedVideo": true
     },
     {
       "id": "work16",
@@ -276,7 +278,8 @@
       "year": "",
       "description": "Carol of the Bells' (Shchedryk)",
       "imageUrl": "/images/Щедрик.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=9xlquJzAcQ8&ab_channel=DilyaverOsman"
+      "videoUrl": "https://www.youtube.com/watch?v=9xlquJzAcQ8&ab_channel=DilyaverOsman",
+      "embedVideo": true
     },
     {
       "id": "work18",
@@ -345,7 +348,8 @@
         "Waltz"
       ],
       "imageUrl": "/images/Перехресні_стежки.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=PtZPm-KVW9M"
+      "videoUrl": "https://www.youtube.com/watch?v=PtZPm-KVW9M",
+      "embedVideo": true
     },
     {
       "id": "work24",
@@ -378,7 +382,8 @@
       "year": "",
       "description": "Description of the work...",
       "imageUrl": "/images/Віденський_салат.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=DeRtC8XdHGI&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work26",
@@ -391,7 +396,8 @@
         "This musical piece was created by Yuri Shevchenko in 2011 in memory of his close friend, conductor Serhiy Malovany."
       ],
       "imageUrl": "/images/Вокаліз.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=eo5sZW5usmQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      "videoUrl": "https://www.youtube.com/watch?v=eo5sZW5usmQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work27",
@@ -411,7 +417,8 @@
       "year": "",
       "description": "9 theatrical sketches",
       "imageUrl": "/images/Гамлет-сюїта.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=SOojRnGTJqY&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      "videoUrl": "https://www.youtube.com/watch?v=SOojRnGTJqY&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work29",
@@ -421,7 +428,8 @@
       "year": "",
       "description": "Humoresque",
       "imageUrl": "/images/Гумореска.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=ss9bgln6Px4&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      "videoUrl": "https://www.youtube.com/watch?v=ss9bgln6Px4&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work30",
@@ -431,7 +439,8 @@
       "year": "",
       "description": "The 'Thumbelina' Suite (dedicated to Bohdana Pivnenko and her students).",
       "imageUrl": "/images/Сюїта_Дюймовонька.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=6amij0IsLsw&ab_channel=MykolaPososhko"
+      "videoUrl": "https://www.youtube.com/watch?v=6amij0IsLsw&ab_channel=MykolaPososhko",
+      "embedVideo": true
     },
     {
       "id": "work31",
@@ -441,7 +450,8 @@
       "year": "",
       "description": "Cadence",
       "imageUrl": "/images/Каданс.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=hEJhDQ2tCEQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      "videoUrl": "https://www.youtube.com/watch?v=hEJhDQ2tCEQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work32",
@@ -462,7 +472,8 @@
       "description": "A theatrical suite for violin and string orchestra.",
       "list": ["Overture", "Romance", "Tarantella", "Gypsy Dance", "Galop"],
       "imageUrl": "/images/Любовне_божевілля.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=gbkqpMXtJbc&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      "videoUrl": "https://www.youtube.com/watch?v=gbkqpMXtJbc&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work34",
@@ -482,7 +493,8 @@
       "year": "",
       "description": "3/4 'soundtrack for an Unknown Film'",
       "imageUrl": "/images/Саундтрек.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=B7ihoVQfy1I&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      "videoUrl": "https://www.youtube.com/watch?v=B7ihoVQfy1I&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work36",
@@ -502,7 +514,8 @@
       "year": "",
       "description": "Warm Rain",
       "imageUrl": "/images/Теплий_дощ.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=o93MKA5n7IA&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      "videoUrl": "https://www.youtube.com/watch?v=o93MKA5n7IA&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work38",
@@ -538,7 +551,8 @@
       "description": "Concertino for 2 violins and orchestra",
       "list": ["Allegro", "Alba (Morning Song)", "Finale"],
       "imageUrl": "/images/Концертіно_Учитель_та_Учень.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=hjwo0hFn2cc"
+      "videoUrl": "https://www.youtube.com/watch?v=hjwo0hFn2cc",
+      "embedVideo": true
     },
     {
       "id": "work41",
@@ -578,7 +592,8 @@
       "year": "",
       "description": "The Lovestruck Bandurist' for Bandura",
       "imageUrl": "/images/Закоханий_бандурист.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=IsgVAAeoEX8&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      "videoUrl": "https://www.youtube.com/watch?v=IsgVAAeoEX8&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work45",
@@ -632,7 +647,8 @@
         "For this production, a new translation of the play was specially commissioned from renowned Ukrainian writer Yuri Andrukhovych; original music was composed by Yuri Shevchenko. Director Stanislav Moiseev, along with set designers Andriy Aleksandrovych-Dochevsky and Iryna Horshkova, made every effort to create a visually stunning, contemporary high-level performance."
       ],
       "imageUrl": "/images/Гамлет.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=5QL7wW8zGBo&ab_channel=Molodyteatr"
+      "videoUrl": "https://www.youtube.com/watch?v=5QL7wW8zGBo&ab_channel=Molodyteatr",
+      "embedVideo": true
     },
     {
       "id": "work50",
@@ -651,7 +667,8 @@
         "Translation: Iryna Steshenko"
       ],
       "imageUrl": "/images/Дон_Жуан.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=77fQIly2e4Y&ab_channel=vargack1g"
+      "videoUrl": "https://www.youtube.com/watch?v=77fQIly2e4Y&ab_channel=vargack1g",
+      "embedVideo": true
     },
     {
       "id": "work51",
@@ -671,7 +688,8 @@
         "Costumes — Olena Drobna"
       ],
       "imageUrl": "/images/Don_Quixote.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=mPQcMFUvzak&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC.%D0%9B%D0%B5%D1%81%D1%96%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8"
+      "videoUrl": "https://www.youtube.com/watch?v=mPQcMFUvzak&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC.%D0%9B%D0%B5%D1%81%D1%96%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8",
+      "embedVideo": true
     },
     {
       "id": "work52",
@@ -722,7 +740,8 @@
         "Choreographer — Alla Rubina"
       ],
       "imageUrl": "/images/Napoleon_and_the_Corsican_Woman.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=-pxvkiZKB7M&ab_channel=TeatrLesyaUkrainka"
+      "videoUrl": "https://www.youtube.com/watch?v=-pxvkiZKB7M&ab_channel=TeatrLesyaUkrainka",
+      "embedVideo": true
     },
     {
       "id": "work56",
@@ -823,7 +842,8 @@
         "Scenography and Costumes: Mariya Levytska"
       ],
       "imageUrl": "/images/Шаленство_Кохання.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=3O-Ea9rVyxA&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC.%D0%9B%D0%B5%D1%81%D1%96%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8"
+      "videoUrl": "https://www.youtube.com/watch?v=3O-Ea9rVyxA&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC.%D0%9B%D0%B5%D1%81%D1%96%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8",
+      "embedVideo": true
     },
     {
       "id": "work64",
@@ -839,7 +859,8 @@
         "Choreographer — Alla Rubina"
       ],
       "imageUrl": "/images/Школа_скандалу.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=W3XtJexik1U&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC.%D0%9B%D0%B5%D1%81%D1%96%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8"
+      "videoUrl": "https://www.youtube.com/watch?v=W3XtJexik1U&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC.%D0%9B%D0%B5%D1%81%D1%96%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%BA%D0%B8",
+      "embedVideo": true
     },
     {
       "id": "work65",
