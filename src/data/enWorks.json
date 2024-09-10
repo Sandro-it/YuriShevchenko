@@ -105,7 +105,8 @@
         "Costume Designer — Hanna Ipatyeva"
       ],
       "imageUrl": "/images/за_2_зайцями-min.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=JQUng5SqQQE&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      "videoUrl": "https://www.youtube.com/watch?v=JQUng5SqQQE&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": false
     },
     {
       "id": "work6",
@@ -123,7 +124,8 @@
         "Choirmaster: A. Maslennikova"
       ],
       "imageUrl": "/images/Шлях_до_Гопаку.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=F4BFc5ELkL4&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      "videoUrl": "https://www.youtube.com/watch?v=F4BFc5ELkL4&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work7",
@@ -137,7 +139,8 @@
         "In Kyiv, the premiere of 'Kobzar' was planned for 2022 at the National Philharmonic of Ukraine, featuring the National Symphony Orchestra and the 'Kyiv Opera' choir, conducted by the renowned Volodymyr Kozhukhar."
       ],
       "imageUrl": "/images/Кобзар.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=e34qfm6Q0Y4&ab_channel=ShumkaDancersProduction"
+      "videoUrl": "https://www.youtube.com/watch?v=e34qfm6Q0Y4&ab_channel=ShumkaDancersProduction",
+      "embedVideo": false
     },
     {
       "id": "work8",
@@ -208,7 +211,8 @@
         "The premiere of Shumka's 'Cinderella' ballet took place in 2000 in Edmonton. The ballet 'Cinderella' is an original full-length production based on the classic folk tale. This performance includes traditional dances, comical stepsisters, a charming Prince, and his beloved Cinderella, brought to life in an incredible world of dance spectacle."
       ],
       "imageUrl": "/images/Сіндерела.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=lLcCy8-qodE&ab_channel=ShumkaDancersProduction"
+      "videoUrl": "https://www.youtube.com/watch?v=lLcCy8-qodE&ab_channel=ShumkaDancersProduction",
+      "embedVideo": false
     },
     {
       "id": "work13",
@@ -1249,7 +1253,8 @@
       "year": "1988",
       "description": "Jump to the Cloud. Kyivnaukfilm (1988)",
       "imageUrl": "/images/Дострибни_до_хмаринки.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=k6BjJGFIlT0&ab_channel=uacartoons"
+      "videoUrl": "https://www.youtube.com/watch?v=k6BjJGFIlT0&ab_channel=uacartoons",
+      "embedVideo": true
     },
     {
       "id": "work76",
@@ -1259,7 +1264,8 @@
       "year": "1990",
       "description": "'The Laughing Pot'. Kyivnaukfilm 1990.",
       "imageUrl": "/images/Горщик-сміхотун.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=DyiWgbv4-Uk&ab_channel=uacartoons"
+      "videoUrl": "https://www.youtube.com/watch?v=DyiWgbv4-Uk&ab_channel=uacartoons",
+      "embedVideo": true
     },
     {
       "id": "work77",
@@ -1269,7 +1275,8 @@
       "year": "1988",
       "description": "The Hedgehog and the Girl. Kyivnaukfilm 1988.",
       "imageUrl": "/images/Їжачок_і_дівчинка.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=YlGrbPmClts&ab_channel=%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%D0%B6%D0%B0%D0%BD%D1%80%D0%B0"
+      "videoUrl": "https://www.youtube.com/watch?v=YlGrbPmClts&ab_channel=%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%D0%B6%D0%B0%D0%BD%D1%80%D0%B0",
+      "embedVideo": true
     },
     {
       "id": "work78",
@@ -1279,17 +1286,19 @@
       "year": "1988",
       "description": "The Story of a Girl Who Stepped on Bread. Kyivnaukfilm, 1988.",
       "imageUrl": "/images/Історія_про_дівчинку_яка_наступила_на_хліб.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=SJoHfnm5cJQ&ab_channel=%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%8C%D0%BA%D0%B0%D0%B0%D0%B3%D0%B5%D0%BD%D1%86%D1%96%D1%8F%D0%9D%D0%B0%D1%88%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82"
+      "videoUrl": "https://www.youtube.com/watch?v=SJoHfnm5cJQ&ab_channel=%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%8C%D0%BA%D0%B0%D0%B0%D0%B3%D0%B5%D0%BD%D1%86%D1%96%D1%8F%D0%9D%D0%B0%D1%88%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82",
+      "embedVideo": true
     },
     {
       "id": "work79",
       "category": "Music for Films and Cartoons",
       "subcategory": "Cartoons",
       "title": "'Ivasyk-Telesyk'",
-      "year": "",
+      "year": "1989",
       "description": "'Ivasyk-Telesyk', Kyivnaukfilm, 1989.",
       "imageUrl": "/images/Івасик-Телесик.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=6bHYDOvel3s&ab_channel=uacartoons"
+      "videoUrl": "https://www.youtube.com/watch?v=6bHYDOvel3s&ab_channel=uacartoons",
+      "embedVideo": true
     },
     {
       "id": "work81",
@@ -1299,7 +1308,8 @@
       "year": "1991",
       "description": "'The Cat and the Rooster'. Ukranimafilm, 1991.",
       "imageUrl": "/images/Котик_та_півник.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=cevj0GkKCE8&ab_channel=uacartoons"
+      "videoUrl": "https://www.youtube.com/watch?v=cevj0GkKCE8&ab_channel=uacartoons",
+      "embedVideo": true
     },
     {
       "id": "work82",
@@ -1309,7 +1319,8 @@
       "year": "1992",
       "description": "The Little Lame Duck. Ukranimafilm, 1992.",
       "imageUrl": "/images/Кривенька_качечка.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=LUQaU_rkiMI&ab_channel=uacartoons"
+      "videoUrl": "https://www.youtube.com/watch?v=LUQaU_rkiMI&ab_channel=uacartoons",
+      "embedVideo": true
     },
     {
       "id": "work83",
@@ -1319,17 +1330,8 @@
       "year": "1986",
       "description": "'Little Frosts'. Kyivnaukfilm, 1986.",
       "imageUrl": "/images/Морозики-морози.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=5_QQG363_Dw&ab_channel=%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%D0%B6%D0%B0%D0%BD%D1%80%D0%B0"
-    },
-    {
-      "id": "work84",
-      "category": "Music for Films and Cartoons",
-      "subcategory": "Cartoons",
-      "title": "'The Hunt'",
-      "year": "",
-      "description": "Description of the work...",
-      "imageUrl": "/images/Полювання.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=5_QQG363_Dw&ab_channel=%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%D0%B6%D0%B0%D0%BD%D1%80%D0%B0",
+      "embedVideo": true
     },
     {
       "id": "work85",
