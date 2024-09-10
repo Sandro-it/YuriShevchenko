@@ -899,6 +899,40 @@
       "embedVideo": true
     },
     {
+      "id": "work511",
+      "category": "Music for Dramatic Performances",
+      "subcategory": "",
+      "title": "«Ah, Musketeers, Musketeers…»",
+      "year": "2006",
+      "description": [
+        "Musical in two acts. Ivan Franko National Theater.",
+        "Evgeny Yevtushenko, a fantasy on the theme of Alexandre Dumas."
+      ],
+      "productionTeam": ["Directors – D. Chyrypyuk, P. Ilchenko"],
+      "imageUrl": "/images/Ех_мушкетери….jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=GeAOOWSZGwQ&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC%D0%B5%D0%BD%D1%96%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0",
+      "embedVideo": true
+    },
+    {
+      "id": "work512",
+      "category": "Music for Dramatic Performances",
+      "subcategory": "",
+      "title": "«Fat Pig»",
+      "year": "2011",
+      "description": [
+        "«Fat Pig» by Neil LaBute.",
+        "The premiere took place on November 10, 2011, at the Lesya Ukrainka National Theatre."
+      ],
+      "productionTeam": [
+        "Director – Mykhailo Reznikovych",
+        "Assistant Director – Olga Havryliuk",
+        "Scenography and Costumes – Olena Drobna"
+      ],
+      "imageUrl": "/images/Жирна свиня.jpg",
+      "videoUrl": "https://lesyatheatre.com.ua/ukr/plays/fat_pig",
+      "embedVideo": false
+    },
+    {
       "id": "work52",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
@@ -912,9 +946,10 @@
       "id": "work53",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
-      "title": "'Winter Evening'",
-      "year": "",
-      "description": "Description of the work...",
+      "title": "«Winter Evening»",
+      "year": "1992",
+      "description": "«Winter Evening» by Mykhailo Starytsky (1992). Performed at the National Theatre named after Ivan Franko.",
+      "productionTeam": ["Director - Serhiy Danchenko"],
       "imageUrl": "/images/Зимовий_вечір.jpg",
       "videoUrl": ""
     },
@@ -975,39 +1010,50 @@
       "id": "work56",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
-      "title": "'My Mocking Happiness'",
-      "year": "",
-      "description": "Description of the work...",
+      "title": "«My Mocking Happiness»",
+      "year": "2003",
+      "description": [
+        "«My Mocking Happiness». Leonid Malyugin.",
+        "The premiere took place on October 6, 2003, at the Lesya Ukrainka Theatre."
+      ],
+      "productionTeam": [
+        "Directed by - Mykhailo Reznikovych",
+        "Set Design - David Borovsky",
+        "Directors - Iryna Barkovska, Leonid Ostropolsky",
+        "Choreographer - Alla Rubina"
+      ],
       "imageUrl": "/images/Насмішкувате_моє_щастя.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://lesyatheatre.com.ua/ukr/plays/nasmeshlivoe_moe_schaste"
     },
     {
       "id": "work57",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
-      "title": "'The Minister's Wife'",
-      "year": "",
-      "description": "Description of the work...",
+      "title": "«The Minister's Wife»",
+      "year": "2001",
+      "description": [
+        "Comedy. Branislav Nušić.",
+        "The premiere took place on February 8, 2001, at the Lesya Ukrainka Theatre."
+      ],
+      "productionTeam": [
+        "Directed by - Mykhailo Reznikovych, Leonid Ostropolsky",
+        "Set Design and Costumes - Maria Levytska",
+        "Director - Vasyl Yurtsiv",
+        "Lyrics - Yuriy Rybchynsky",
+        "Choreographer - Alla Rubina"
+      ],
       "imageUrl": "/images/Пані_міністерша.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work58",
-      "category": "Music for Dramatic Performances",
-      "subcategory": "",
-      "title": "'The Trap'",
-      "year": "",
-      "description": "Description of the work...",
-      "imageUrl": "/images/Пастка.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://lesyatheatre.com.ua/ukr/plays/hospozha_ministersha",
+      "embedVideo": false
     },
     {
       "id": "work59",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
-      "title": "'Pathetique Sonata'",
-      "year": "",
-      "description": "Description of the work...",
+      "title": "«Pathetic Sonata»",
+      "year": "1993",
+      "description": "«Pathetic Sonata» by Mykola Kulish (1993). Performed at the National Theatre named after Ivan Franko.",
+      "productionTeam": ["Director - Serhiy Danchenko"],
       "imageUrl": "/images/Патетична_соната.jpg",
       "videoUrl": ""
     },
@@ -1047,11 +1093,33 @@
       "id": "work62",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
-      "title": "'Rosmersholm'",
-      "year": "",
-      "description": "Description of the work...",
+      "title": "«Rosmersholm»",
+      "year": "1994",
+      "description": "«Rosmersholm» by Henrik Ibsen (1994). Performed at the National Theatre named after Ivan Franko.",
+      "productionTeam": ["Director - Serhiy Danchenko"],
       "imageUrl": "/images/Росмерсгольм.jpg",
       "videoUrl": ""
+    },
+    {
+      "id": "work622",
+      "category": "Music for Dramatic Performances",
+      "subcategory": "",
+      "title": "«Satisfaction»",
+      "year": "2010",
+      "description": [
+        "A two-act play.",
+        "The premiere took place on December 24, 2010, at the Kyiv Molodyi Theater.",
+        "The production of one of William Shakespeare's most mysterious, dynamic, and captivating comedies 'The Merchant of Venice' at Molodyi Theater, showcasing the inevitable triumph of youth and love over malice and greed."
+      ],
+      "productionTeam": [
+        "Author – William Shakespeare",
+        "Director – Stanislav Moiseev",
+        "Set Designer – Oleksii Havrysh",
+        "Costume Designer – Yuliia Zaulychna"
+      ],
+      "imageUrl": "/images/Сатисфакція.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=tGEdoM3_XLs",
+      "embedVideo": true
     },
     {
       "id": "work621",
@@ -1068,6 +1136,24 @@
       "imageUrl": "/images/Така_доля.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=9gbqbAwzdco&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC%D0%B5%D0%BD%D1%96%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0",
       "embedVideo": true
+    },
+    {
+      "id": "work623",
+      "category": "Music for Dramatic Performances",
+      "subcategory": "",
+      "title": "«On Sunday Morning, She Gathered Herbs…»",
+      "year": "2009",
+      "description": [
+        "Parable in 2 acts. Ivan Franko National Theater.",
+        "A play by Neda Nezhdana based on the novella by Olha Kobylianska."
+      ],
+      "productionTeam": [
+        "Director – Dmytro Chyrypyuk",
+        "Stage Designer – Andriy Aleksandrovych-Dochevskyi"
+      ],
+      "imageUrl": "/images/Зілля.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=9gbqbAwzdco&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC%D0%B5%D0%BD%D1%96%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0",
+      "embedVideo": false
     },
     {
       "id": "work63",
@@ -1110,13 +1196,21 @@
       "id": "work65",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
-      "title": "'The Round Dance of Love'",
-      "year": "",
-      "description": "Description of the work...",
+      "title": "«The Round Dance of Love»",
+      "year": "2002",
+      "description": [
+        "«The Round Dance of Love» 10 erotic scenes.",
+        "The premiere took place at the Kyiv Molodyy Theatre on November 15, 2002.",
+        "This play is indeed woven from ten candid episodes, but they are performed with an ironic smile, as the creators of this glamorous and spectacular performance interpret love as a game between two eternal poles – Man and Woman – a struggle and unity of opposites. A game that will never be characterized by seriousness, duration, or permanence because it is a closed Circle, a vivid round dance of emotions, a colorful unstoppable carousel..."
+      ],
+      "productionTeam": [
+        "Author – Arthur Schnitzler",
+        "Director – Stanislav Moiseev"
+      ],
       "imageUrl": "/images/Хоровод_любові.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=TNQnZHEnf48",
+      "embedVideo": true
     },
-
     {
       "id": "work72",
       "category": "Music for Films and Cartoons",

@@ -184,7 +184,7 @@
 .backButton {
   padding: 10px 20px;
   background-color: #cad3df;
-  color: white;
+  color: black;
   text-decoration: none;
   border-radius: 5px;
   align-self: flex-start;
@@ -196,13 +196,14 @@
 }
 
 .workPage h1 {
-  font-size: 28px;
+  font-size: 24px;
   margin-bottom: 20px;
 }
 
 .workPage ol {
   padding-left: 20px;
   list-style-type: decimal;
+  margin: 10px 0 16px 0;
 }
 
 .workPage ol li {
@@ -223,7 +224,11 @@
 .workPage .description {
   font-size: 16px;
   line-height: 1.6;
-  margin-bottom: 20px;
+  margin-bottom: 0;
+}
+
+p.description {
+  margin-top: 10px;
 }
 
 .workPage .link {
