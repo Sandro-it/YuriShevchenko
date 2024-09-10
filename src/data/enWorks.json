@@ -173,11 +173,29 @@
       "id": "work11",
       "category": "Musical-Theatrical Works",
       "subcategory": "Ballets",
-      "title": "'The Adventures of Pinocchio' (Buratino and the Magic Violin)",
-      "year": "NOE. 2007",
-      "description": "Description of the work...",
-      "imageUrl": "/images/Буратіно.jpg",
-      "videoUrl": ""
+      "title": "«The Adventures of Pinocchio» (Buratino and the Magic Violin)",
+      "year": "NOU. 2007",
+      "description": [
+        "«Buratino and the Magic Violin» 2007 – a two-act ballet. Libretto by Eduard Yavorsky, Viktor Litvinov, and Yuri Shevchenko.",
+        "The ballet premiered at the National Opera of Ukraine on October 27, 2007.",
+        "The revival of the production at the National Opera of Ukraine took place on May 20, 2018, under the new name «The Adventures of Pinocchio». The ballet was shortened, making it more dynamic. The classical choreography was successfully combined with modern elements.",
+        "The ballet's score was dedicated by the composer to the memory of his young son, who passed away due to an incurable illness.",
+        "Interesting facts: Yuri Shevchenko's ballet «The Adventures of Pinocchio» became part of the New Ukrainian School's «Art» curriculum. Students listen to contrasting musical fragments in the first lesson.",
+        "In 2011, the Kyiv Opera and Ballet Theatre for Children and Youth presented the ballet «Barmaley», closely connected to «Buratino». Conductor Oleksiy Baklan, who was familiar with the music of «Buratino», asked the composer to create a children's ballet based on the story of «Barmaley». Baklan wrote the libretto and recomposed musical fragments."
+      ],
+      "productionTeam": [
+        "Conductor – People's Artist of Ukraine Herman Makarenko",
+        "Choreographer – People's Artist of Ukraine Viktor Litvinov",
+        "Set Designer – Honored Artist of Ukraine Natalia Kucherya"
+      ],
+      "imageUrl": "/images/Піноккіо.jpg",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=9sM3f1JUUU0&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=NBsYnMSuELc&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=ufKTsOVApgo&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=-u0xU8ldTa8&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=QDQPH67-mVI&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      ]
     },
     {
       "id": "work12",
@@ -297,7 +315,7 @@
       "subcategory": "",
       "title": "'The Star-Child'",
       "year": "",
-      "description": "Description of the work...",
+      "description": "The Star-Child",
       "imageUrl": "/images/Зоряний_хлопчик.jpg",
       "videoUrl": ""
     },
@@ -352,6 +370,17 @@
       "embedVideo": true
     },
     {
+      "id": "work35",
+      "category": "Works for Instruments with Orchestra",
+      "subcategory": "",
+      "title": "3/4 'soundtrack for an Unknown Film'",
+      "year": "",
+      "description": "3/4 'soundtrack for an Unknown Film'",
+      "imageUrl": "/images/Саундтрек.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=B7ihoVQfy1I&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+    {
       "id": "work24",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
@@ -382,8 +411,11 @@
       "year": "",
       "description": "Description of the work...",
       "imageUrl": "/images/Віденський_салат.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=DeRtC8XdHGI&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
-      "embedVideo": true
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=DeRtC8XdHGI&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=QR0Zu3N__ro&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      ],
+      "embedVideo": false
     },
     {
       "id": "work26",
@@ -443,6 +475,17 @@
       "embedVideo": true
     },
     {
+      "id": "work301",
+      "category": "Works for Instruments with Orchestra",
+      "subcategory": "",
+      "title": "«Yellow-Blue Dandelion»",
+      "year": "2020",
+      "description": "Yellow-Blue Dandelion.",
+      "imageUrl": "/images/Кульбабка.jpg",
+      "videoUrl": "",
+      "embedVideo": false
+    },
+    {
       "id": "work31",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
@@ -457,11 +500,12 @@
       "id": "work32",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
-      "title": "'Concert Fantasy'",
+      "title": "«Concert Fantasy»",
       "year": "",
-      "description": "Description of the work...",
+      "description": "A concert arrangement based on themes from two folk songs for violin and orchestra.",
       "imageUrl": "/images/Концертна_фантазія.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=gVm2H0dNcJw&ab_channel=%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%84%D1%96%D0%BB%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D1%96%D1%8F",
+      "embedVideo": true
     },
     {
       "id": "work33",
@@ -486,23 +530,24 @@
       "videoUrl": ""
     },
     {
-      "id": "work35",
+      "id": "work341",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
-      "title": "3/4 'soundtrack for an Unknown Film'",
+      "title": "«What a Night...» for Violin and Orchestra",
       "year": "",
-      "description": "3/4 'soundtrack for an Unknown Film'",
-      "imageUrl": "/images/Саундтрек.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=B7ihoVQfy1I&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "description": "Paraphrase-buff for violin and orchestra",
+      "imageUrl": "/images/Ніч_яка.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=S2oaltEW2No&ab_channel=KyryloBondar",
       "embedVideo": true
     },
+
     {
       "id": "work36",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Old World Elegy'",
       "year": "",
-      "description": "Description of the work...",
+      "description": "Old World Elegy",
       "imageUrl": "/images/Старосвітська_елегія.jpg",
       "videoUrl": ""
     },
@@ -556,7 +601,7 @@
     },
     {
       "id": "work41",
-      "category": "Music for Folk Instruments Orchestra",
+      "category": "Orchestra of Folk Instruments",
       "subcategory": "",
       "title": "'Vesnianka'",
       "year": "",
@@ -565,8 +610,19 @@
       "videoUrl": ""
     },
     {
+      "id": "work411",
+      "category": "Orchestra of Folk Instruments",
+      "subcategory": "",
+      "title": "«Humoresque»",
+      "year": "",
+      "description": "«Humoresque. NAONI.»",
+      "imageUrl": "/images/Гумореска_народні.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=1Wk_kGBddEI&ab_channel=IgorTeacher",
+      "embedVideo": true
+    },
+    {
       "id": "work42",
-      "category": "Music for Folk Instruments Orchestra",
+      "category": "Orchestra of Folk Instruments",
       "subcategory": "",
       "title": "'The Road' (E minor)",
       "year": "",
@@ -576,7 +632,7 @@
     },
     {
       "id": "work43",
-      "category": "Music for Folk Instruments Orchestra",
+      "category": "Orchestra of Folk Instruments",
       "subcategory": "",
       "title": "'Elegy' (E minor)",
       "year": "",
@@ -585,8 +641,19 @@
       "videoUrl": ""
     },
     {
+      "id": "work431",
+      "category": "Orchestra of Folk Instruments",
+      "subcategory": "",
+      "title": "«Blizzard»",
+      "year": "",
+      "description": "«Blizzard»",
+      "imageUrl": "/images/Завірюха.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=7DzZ_1mjbJQ&ab_channel=YuriyShevchenko",
+      "embedVideo": true
+    },
+    {
       "id": "work44",
-      "category": "Music for Folk Instruments Orchestra",
+      "category": "Orchestra of Folk Instruments",
       "subcategory": "",
       "title": "'The Lovestruck Bandurist' for Bandura",
       "year": "",
@@ -597,7 +664,7 @@
     },
     {
       "id": "work45",
-      "category": "Music for Folk Instruments Orchestra",
+      "category": "Orchestra of Folk Instruments",
       "subcategory": "",
       "title": "'Paraphrase on a Ukrainian Theme'",
       "year": "",
@@ -606,8 +673,19 @@
       "videoUrl": ""
     },
     {
+      "id": "work451",
+      "category": "Orchestra of Folk Instruments",
+      "subcategory": "",
+      "title": "«Song»",
+      "year": "",
+      "description": "«Song»",
+      "imageUrl": "/images/Пісня.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=TX6SJhFTvOo&ab_channel=YuriyShevchenko",
+      "embedVideo": true
+    },
+    {
       "id": "work46",
-      "category": "Music for Folk Instruments Orchestra",
+      "category": "Orchestra of Folk Instruments",
       "subcategory": "",
       "title": "'Piece' for Bayan",
       "year": "",
@@ -617,13 +695,142 @@
     },
     {
       "id": "work47",
-      "category": "Music for Folk Instruments Orchestra",
+      "category": "Orchestra of Folk Instruments",
       "subcategory": "",
       "title": "'Dance' for Bayan",
       "year": "",
       "description": "Description of the work...",
       "imageUrl": "/images/Танок_для_баяна.jpg",
       "videoUrl": ""
+    },
+    {
+      "id": "work66",
+      "category": "Vocal Works",
+      "subcategory": "",
+      "title": "'5 Parts' from the Play 'The Madness of Love'",
+      "year": "",
+      "description": "Description of the work...",
+      "imageUrl": "/images/5_частин_з_вистави_Шаленство_Кохання.jpg",
+      "videoUrl": ""
+    },
+    {
+      "id": "work662",
+      "category": "Vocal Works",
+      "subcategory": "",
+      "title": "«Proud Land of the Poor»",
+      "year": "",
+      "description": "«Proud Land of the Poor». Scene from the play «Musketeers, Musketeers...»",
+      "imageUrl": "/images/Бідних_горда_сторона.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=5Ng1eXgs-xw&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+    {
+      "id": "work661",
+      "category": "Vocal Works",
+      "subcategory": "",
+      "title": "«My Thoughts, My Thoughts»",
+      "year": "",
+      "description": "«My Thoughts, My Thoughts». Poetry by Taras Shevchenko",
+      "imageUrl": "/images/Думи_мої.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=0l3o3vMko3M&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+    {
+      "id": "work68",
+      "category": "Vocal Works",
+      "subcategory": "",
+      "title": "«Golden Moon»",
+      "year": "",
+      "description": [
+        "From the play «Madness of Love».",
+        "Lyrics by M. Dobrolyubov, translation by A. Navrotsky"
+      ],
+      "imageUrl": "/images/Місяць_золотий.jpg",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=zCGZHmJnnB4&ab_channel=YuriyShevchenko",
+        "https://www.youtube.com/watch?v=F1jaYSaInwU&ab_channel=MariaLipinska"
+      ]
+    },
+    {
+      "id": "work67",
+      "category": "Vocal Works",
+      "subcategory": "",
+      "title": "«We Are Chaste and Innocent»",
+      "year": "",
+      "description": [
+        "From the play «Madness of Love».",
+        "Lyrics by P. Verlaine, translation by M. Brovchenko"
+      ],
+      "imageUrl": "/images/Ми_цнотливі_і_невинні.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ODhXgvoO4o0&ab_channel=YuriyShevchenko",
+      "embedVideo": true
+    },
+    {
+      "id": "work671",
+      "category": "Vocal Works",
+      "subcategory": "",
+      "title": "«Doctor's Song»",
+      "year": "",
+      "description": [
+        "From the play «Madness of Love».",
+        "Lyrics by L. Soroka, translation by A. Navrotsky"
+      ],
+      "imageUrl": "/images/Пісня_Лікаря.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=xGpU5GXieiM&ab_channel=YuriyShevchenko",
+      "embedVideo": true
+    },
+    {
+      "id": "work69",
+      "category": "Vocal Works",
+      "subcategory": "",
+      "title": "'Charming Katrin'",
+      "year": "",
+      "description": "From the play «Madness of Love».",
+      "imageUrl": "/images/Принадна_Катрин.jpg",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=60Aj_BqiQRw&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=FJvqHYDEVag&ab_channel=MariaLipinska"
+      ]
+    },
+    {
+      "id": "work672",
+      "category": "Vocal Works",
+      "subcategory": "",
+      "title": "«Erast's Romance»",
+      "year": "",
+      "description": [
+        "From the play «Madness of Love».",
+        "Lyrics by H. Heine, translation by A. Navrotsky"
+      ],
+      "imageUrl": "/images/Романс_Ераста.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=F_Sg3e-WM04&ab_channel=YuriyShevchenko",
+      "embedVideo": true
+    },
+
+    {
+      "id": "work70",
+      "category": "Vocal Works",
+      "subcategory": "",
+      "title": "'Sun Yarilo'. Cantata for Children's Choir",
+      "year": "",
+      "description": "Description of the work...",
+      "imageUrl": "/images/Сонце-Ярило.jpg",
+      "videoUrl": ""
+    },
+    {
+      "id": "work71",
+      "category": "Vocal Works",
+      "subcategory": "",
+      "title": "'Three Songs' on poems by H. Alekseeva",
+      "year": "",
+      "description": "'Three Songs' on poems by H. Alekseeva",
+      "list": ["Lullaby", "The Enchanted Room", "Love - Tender Music"],
+      "imageUrl": "/images/Три_пісні_на_вірші_Г_Алексеєвої.jpg",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=dT31FUkSZ84",
+        "https://www.youtube.com/watch?v=S0KslDvE1SY",
+        "https://www.youtube.com/watch?v=G9_dq4F0e18"
+      ]
     },
     {
       "id": "work48",
@@ -712,12 +919,33 @@
       "videoUrl": ""
     },
     {
+      "id": "work531",
+      "category": "Music for Dramatic Performances",
+      "subcategory": "",
+      "title": "«The Thistle Flower»",
+      "year": "",
+      "description": [
+        "A play by contemporary Ukrainian playwright Natalia Vorozhbyt.",
+        "Written based on the classic work by Mykola Kulish 'Maklena Grasa'."
+      ],
+      "productionTeam": [
+        "Director - People's Artist of Ukraine Stanislav Moiseyev"
+      ],
+      "imageUrl": "/images/Квітка_Будяк.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ru5m2BqVhVA&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC%D0%B5%D0%BD%D1%96%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0",
+      "embedVideo": true
+    },
+    {
       "id": "work54",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
-      "title": "'Forest Song'",
-      "year": "",
-      "description": "Description of the work...",
+      "title": "«Forest Song»",
+      "year": "1993",
+      "description": "The premiere of Lesya Ukrainka's «Forest Song» at the Ivan Franko National Theater took place in 1993.",
+      "productionTeam": [
+        "Director — Dmytro Chyrypyuk",
+        "Scenography — I. Biletsky"
+      ],
       "imageUrl": "/images/Лісова_пісня.jpg",
       "videoUrl": ""
     },
@@ -826,6 +1054,22 @@
       "videoUrl": ""
     },
     {
+      "id": "work621",
+      "category": "Music for Dramatic Performances",
+      "subcategory": "",
+      "title": "«Such is Her Fate»",
+      "year": "2014",
+      "description": [
+        "Based on Taras Shevchenko's ballad «U Toyei Kateryny...»",
+        "The premiere took place at the Ivan Franko Theater.",
+        "The play was dedicated to the 200th anniversary of the birth of the great Ukrainian poet, Taras Shevchenko."
+      ],
+      "productionTeam": ["Director - Stanislav Moiseyev"],
+      "imageUrl": "/images/Така_доля.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=9gbqbAwzdco&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC%D0%B5%D0%BD%D1%96%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0",
+      "embedVideo": true
+    },
+    {
       "id": "work63",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
@@ -872,71 +1116,7 @@
       "imageUrl": "/images/Хоровод_любові.jpg",
       "videoUrl": ""
     },
-    {
-      "id": "work66",
-      "category": "Vocal Works",
-      "subcategory": "",
-      "title": "'5 Parts' from the Play 'The Madness of Love'",
-      "year": "",
-      "description": "Description of the work...",
-      "imageUrl": "/images/5_частин_з_вистави_Шаленство_Кохання.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work67",
-      "category": "Vocal Works",
-      "subcategory": "",
-      "title": "'We Are Chaste and Innocent'",
-      "year": "",
-      "description": "Description of the work...",
-      "imageUrl": "/images/Ми_цнотливі_і_невинні.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work68",
-      "category": "Vocal Works",
-      "subcategory": "",
-      "title": "'Golden Moon'",
-      "year": "",
-      "description": "Description of the work...",
-      "imageUrl": "/images/Місяць_золотий.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work69",
-      "category": "Vocal Works",
-      "subcategory": "",
-      "title": "'Charming Katrin'",
-      "year": "",
-      "description": "Description of the work...",
-      "imageUrl": "/images/Принадна_Катрин.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work70",
-      "category": "Vocal Works",
-      "subcategory": "",
-      "title": "'Sun Yarilo'. Cantata for Children's Choir",
-      "year": "",
-      "description": "Description of the work...",
-      "imageUrl": "/images/Сонце-Ярило.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work71",
-      "category": "Vocal Works",
-      "subcategory": "",
-      "title": "'Three Songs' on poems by H. Alekseeva",
-      "year": "",
-      "description": "'Three Songs' on poems by H. Alekseeva",
-      "list": ["Lullaby", "The Enchanted Room", "Love - Tender Music"],
-      "imageUrl": "/images/Три_пісні_на_вірші_Г_Алексеєвої.jpg",
-      "videoUrls": [
-        "https://www.youtube.com/watch?v=dT31FUkSZ84",
-        "https://www.youtube.com/watch?v=S0KslDvE1SY",
-        "https://www.youtube.com/watch?v=G9_dq4F0e18"
-      ]
-    },
+
     {
       "id": "work72",
       "category": "Music for Films and Cartoons",

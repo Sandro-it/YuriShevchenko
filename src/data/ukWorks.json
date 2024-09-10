@@ -175,9 +175,27 @@
       "subcategory": "Балети",
       "title": "«Пригоди Піноккіо» (Буратіно та Чарівна Скрипка)",
       "year": "НОУ. 2007",
-      "description": "Опис твору...",
+      "description": [
+        "«Буратіно і Чарівна скрипка» 2007 – балет на 2 дії. Лібрето Едуарда Яворського, Віктора Литвиновата  та Юрія Шевченка.",
+        "Прем’єра балету відбулася у Національній опері України – 27 жовтня 2007 року.",
+        "Поновлення вистави у Національній опері України відбулося 20 травня 2018 року під новою назвою «Пригоди Піноккіо». Постановку скоротили, обидві дії зробили коротшими, балет став динамічнішим. Класична хореографія балету вдало поєднана із сучасними елементами.",
+        "Партитуру балету композитор присвятив пам'яті свого маленького сина, якого забрала невиліковна хвороба.",
+        "Цікаві факти: Балет Юрія Шевченка «Пригоди Піноккіо» увійшов до програм з «Мистецтва» Нової української школи. Учням для слухання на першому уроці пропонуються контрастні за настроєм і музичним матеріалом фрагменти.",
+        "У 2011 році у Київському театрі опери та балету для дітей та юнацтва з’явився балет «Бармалей» дуже тісно пов’язаний з «Буратіно». До композитора Юрія Шевченка звернувся диригент Олексій Баклан, який добре знав музику «Буратіно», з пропозицією створити дитячий балет на сюжет «Бармалея». Олексій Баклан написав лібрето, інакше переосмислив та перекомпонував музичні фрагменти. Усе вийшло органічно."
+      ],
+      "productionTeam": [
+        "Диригент-постановник – народний артист України Герман Макаренко ",
+        "Балетмейстер-постановник – народний артист України Віктор Литвинов",
+        "Художник-постановник – заслужений художник України Наталія Кучеря"
+      ],
       "imageUrl": "/images/Піноккіо.jpg",
-      "videoUrl": ""
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=9sM3f1JUUU0&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=NBsYnMSuELc&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=ufKTsOVApgo&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=-u0xU8ldTa8&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=QDQPH67-mVI&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      ]
     },
     {
       "id": "work12",
@@ -297,7 +315,7 @@
       "subcategory": "",
       "title": "«Зоряний хлопчик»",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Зоряний хлопчик",
       "imageUrl": "/images/Зоряний_хлопчик.jpg",
       "videoUrl": ""
     },
@@ -352,6 +370,17 @@
       "embedVideo": true
     },
     {
+      "id": "work35",
+      "category": "Твори для інструментів з оркестром",
+      "subcategory": "",
+      "title": "«3/4 саундтрек до невідомого фільму»",
+      "year": "",
+      "description": "«3/4 саундтрек до невідомого фільму»",
+      "imageUrl": "/images/Саундтрек.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=B7ihoVQfy1I&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+    {
       "id": "work24",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
@@ -382,8 +411,11 @@
       "year": "",
       "description": "Віденський салат",
       "imageUrl": "/images/Віденський_салат.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=DeRtC8XdHGI&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
-      "embedVideo": true
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=DeRtC8XdHGI&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=QR0Zu3N__ro&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+      ],
+      "embedVideo": false
     },
     {
       "id": "work26",
@@ -443,6 +475,17 @@
       "embedVideo": true
     },
     {
+      "id": "work301",
+      "category": "Твори для інструментів з оркестром",
+      "subcategory": "",
+      "title": "«Жовто-блакитна кульбабка».",
+      "year": "2020",
+      "description": "Жовто-блакитна кульбабка.",
+      "imageUrl": "/images/Кульбабка.jpg",
+      "videoUrl": "",
+      "embedVideo": false
+    },
+    {
       "id": "work31",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
@@ -459,9 +502,10 @@
       "subcategory": "",
       "title": "«Концертна фантазія»",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Концертна обробка на теми двох народних пісень для скрипки з оркестром",
       "imageUrl": "/images/Концертна_фантазія.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=gVm2H0dNcJw&ab_channel=%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D0%BD%D0%B0%D1%84%D1%96%D0%BB%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D1%96%D1%8F",
+      "embedVideo": true
     },
     {
       "id": "work33",
@@ -486,23 +530,24 @@
       "videoUrl": ""
     },
     {
-      "id": "work35",
+      "id": "work341",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
-      "title": "«3/4 саундтрек до невідомого фільму»",
+      "title": "«Ніч яка..» для скрипки з оркестром",
       "year": "",
-      "description": "«3/4 саундтрек до невідомого фільму»",
-      "imageUrl": "/images/Саундтрек.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=B7ihoVQfy1I&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "description": "Парафраз-буфф для скрипки з оркестром",
+      "imageUrl": "/images/Ніч_яка.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=S2oaltEW2No&ab_channel=KyryloBondar",
       "embedVideo": true
     },
+
     {
       "id": "work36",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Старосвітська елегія»",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Старосвітська елегія",
       "imageUrl": "/images/Старосвітська_елегія.jpg",
       "videoUrl": ""
     },
@@ -510,7 +555,7 @@
       "id": "work37",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
-      "title": "Теплий дощ»",
+      "title": "«Теплий дощ»",
       "year": "",
       "description": "Теплий дощ",
       "imageUrl": "/images/Теплий_дощ.jpg",
@@ -565,6 +610,17 @@
       "videoUrl": ""
     },
     {
+      "id": "work411",
+      "category": "Оркестр народних інструментів",
+      "subcategory": "",
+      "title": "«Гумореска»",
+      "year": "",
+      "description": "«Гумореска. НАОНІ.»",
+      "imageUrl": "/images/Гумореска_народні.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=1Wk_kGBddEI&ab_channel=IgorTeacher",
+      "embedVideo": true
+    },
+    {
       "id": "work42",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
@@ -583,6 +639,17 @@
       "description": "Опис твору...",
       "imageUrl": "/images/Елегія_мі-мінор.jpg",
       "videoUrl": ""
+    },
+    {
+      "id": "work431",
+      "category": "Оркестр народних інструментів",
+      "subcategory": "",
+      "title": "«Завірюха»",
+      "year": "",
+      "description": "«Завірюха»",
+      "imageUrl": "/images/Завірюха.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=7DzZ_1mjbJQ&ab_channel=%25D0%25AE%25D1%2580%25D1%2596%25D0%25B9%25D0%25A8%25D0%25B5%25D0%25B2%25D1%2587%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25B",
+      "embedVideo": true
     },
     {
       "id": "work44",
@@ -606,6 +673,17 @@
       "videoUrl": ""
     },
     {
+      "id": "work451",
+      "category": "Оркестр народних інструментів",
+      "subcategory": "",
+      "title": "«Пісня»",
+      "year": "",
+      "description": "«Пісня»",
+      "imageUrl": "/images/Пісня.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=TX6SJhFTvOo&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+    {
       "id": "work46",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
@@ -624,6 +702,135 @@
       "description": "Опис твору...",
       "imageUrl": "/images/Танок_для_баяна.jpg",
       "videoUrl": ""
+    },
+    {
+      "id": "work66",
+      "category": "Вокальні твори",
+      "subcategory": "",
+      "title": "«5 частин» з вистави «Шаленство Кохання»",
+      "year": "",
+      "description": "Опис твору...",
+      "imageUrl": "/images/5_частин_з_вистави_Шаленство_Кохання.jpg",
+      "videoUrl": ""
+    },
+    {
+      "id": "work662",
+      "category": "Вокальні твори",
+      "subcategory": "",
+      "title": "«Бідних горда сторона»",
+      "year": "",
+      "description": "«Бідних горда сторона». Сцена з вистави «Мушкетери,мушкетери...»",
+      "imageUrl": "/images/Бідних_горда_сторона.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=5Ng1eXgs-xw&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+    {
+      "id": "work661",
+      "category": "Вокальні твори",
+      "subcategory": "",
+      "title": "«Думи мої, думи»",
+      "year": "",
+      "description": "«Думи мої, думи». Вірші Тараса Шевченка",
+      "imageUrl": "/images/Думи_мої.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=0l3o3vMko3M&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+    {
+      "id": "work68",
+      "category": "Вокальні твори",
+      "subcategory": "",
+      "title": "«Місяць золотий»",
+      "year": "",
+      "description": [
+        "З вистави «Шаленство кохання». ",
+        "Вірші М. Добролюбова, переклад А. Навроцького"
+      ],
+      "imageUrl": "/images/Місяць_золотий.jpg",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=zCGZHmJnnB4&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=F1jaYSaInwU&ab_channel=MariaLipinska"
+      ]
+    },
+    {
+      "id": "work67",
+      "category": "Вокальні твори",
+      "subcategory": "",
+      "title": "«Ми – цнотливі і невинні»",
+      "year": "",
+      "description": [
+        "З вистави «Шаленство кохання». ",
+        "Вірші П. Верлена, переклад М. Бровченка"
+      ],
+      "imageUrl": "/images/Ми_цнотливі_і_невинні.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ODhXgvoO4o0&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+    {
+      "id": "work671",
+      "category": "Вокальні твори",
+      "subcategory": "",
+      "title": "«Пісня Лікаря»",
+      "year": "",
+      "description": [
+        "З вистави «Шаленство кохання». ",
+        "Вірші Л. Сороки, переклад А. Навроцького"
+      ],
+      "imageUrl": "/images/Пісня_Лікаря.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=xGpU5GXieiM&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+    {
+      "id": "work69",
+      "category": "Вокальні твори",
+      "subcategory": "",
+      "title": "«Принадна Катрин»",
+      "year": "",
+      "description": "З вистави «Шаленство кохання». ",
+      "imageUrl": "/images/Принадна_Катрин.jpg",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=60Aj_BqiQRw&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+        "https://www.youtube.com/watch?v=FJvqHYDEVag&ab_channel=MariaLipinska"
+      ]
+    },
+    {
+      "id": "work672",
+      "category": "Вокальні твори",
+      "subcategory": "",
+      "title": "«Романс Ераста»",
+      "year": "",
+      "description": [
+        "З вистави «Шаленство кохання». ",
+        "Вірші Г. Гейне, переклад А. Навроцького"
+      ],
+      "imageUrl": "/images/Романс_Ераста.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=F_Sg3e-WM04&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+
+    {
+      "id": "work70",
+      "category": "Вокальні твори",
+      "subcategory": "",
+      "title": "«Сонце-Ярило». Кантата для дитячого хору",
+      "year": "",
+      "description": "Опис твору...",
+      "imageUrl": "/images/Сонце-Ярило.jpg",
+      "videoUrl": ""
+    },
+    {
+      "id": "work71",
+      "category": "Вокальні твори",
+      "subcategory": "",
+      "title": "«Три пісні» на вірші Г. Алексеєвої",
+      "year": "",
+      "description": "Три пісні« на вірші Г. Алексеєвої",
+      "list": ["Колискова", "Чарівна кімната", "Любов - ніжна музика"],
+      "imageUrl": "/images/Три_пісні_на_вірші_Г_Алексеєвої.jpg",
+      "videoUrls": [
+        "https://www.youtube.com/watch?v=dT31FUkSZ84",
+        "https://www.youtube.com/watch?v=S0KslDvE1SY",
+        "https://www.youtube.com/watch?v=G9_dq4F0e18"
+      ]
     },
     {
       "id": "work48",
@@ -712,12 +919,36 @@
       "videoUrl": ""
     },
     {
+      "id": "work531",
+      "category": "Музика до драматичних вистав",
+      "subcategory": "",
+      "title": "«Квітка Будяк»",
+      "year": "",
+      "description": [
+        "П’єса сучасного українського драматурга Наталії Ворожбит.",
+        "Написана за мотивами класичного твору Миколи Куліша «Маклена Граса»."
+      ],
+      "productionTeam": [
+        "Режисер-постановник – нар. арт. України Станіслав Мойсеєв"
+      ],
+      "imageUrl": "/images/Квітка_Будяк.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=ru5m2BqVhVA&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC%D0%B5%D0%BD%D1%96%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0",
+      "embedVideo": true
+    },
+    {
       "id": "work54",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Лісова пісня»",
-      "year": "",
-      "description": "Опис твору...",
+      "year": "1993",
+      "description": [
+        "Прем'єра  «Лісової пісні» Лесі Українки в Національному театрі імені Івана Франка відбулася в 1993 році.",
+        "«— По життю мені довелося часто зустрічатися з творчістю Лесі Українки в різних театрах, — зізнався режисер-постановник вистави «Лісова пісня» 1993 року, Це були «Камінний господар», «Бояриня», «Одержима». Але особливо дорогою стала «Лісова пісня». Композитор Юрій Шевченко написав музику і вона заграла зовсім по-іншому. Ми повністю відтворили на сцені текст, не випустили жодного рядка, жодної ремарки.» Народний артист України Дмитро Чирипюк."
+      ],
+      "productionTeam": [
+        "режисер-постановник — Дмитро Чирипюк",
+        "сценографія — І. Білецького"
+      ],
       "imageUrl": "/images/Лісова_пісня.jpg",
       "videoUrl": ""
     },
@@ -826,6 +1057,22 @@
       "videoUrl": ""
     },
     {
+      "id": "work621",
+      "category": "Музика до драматичних вистав",
+      "subcategory": "",
+      "title": "«Така її доля»",
+      "year": "2014",
+      "description": [
+        "За баладою Тараса Шевченка «У тієї Катерини...»",
+        "Перем'єра відбулася в театрі імені Івана Франка.",
+        "Виставу було присвячено 200-річчю від дня народження Кобзаря."
+      ],
+      "productionTeam": ["Режисер- постановник - Станіслав Мойсеєв"],
+      "imageUrl": "/images/Така_доля.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=9gbqbAwzdco&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC%D0%B5%D0%BD%D1%96%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0",
+      "embedVideo": true
+    },
+    {
       "id": "work63",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
@@ -872,71 +1119,7 @@
       "imageUrl": "/images/Хоровод_любові.jpg",
       "videoUrl": ""
     },
-    {
-      "id": "work66",
-      "category": "Вокальні твори",
-      "subcategory": "",
-      "title": "«5 частин« з вистави «Шаленство Кохання»",
-      "year": "",
-      "description": "Опис твору...",
-      "imageUrl": "/images/5_частин_з_вистави_Шаленство_Кохання.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work67",
-      "category": "Вокальні твори",
-      "subcategory": "",
-      "title": "«Ми – цнотливі і невинні»",
-      "year": "",
-      "description": "Опис твору...",
-      "imageUrl": "/images/Ми_цнотливі_і_невинні.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work68",
-      "category": "Вокальні твори",
-      "subcategory": "",
-      "title": "«Місяць золотий»",
-      "year": "",
-      "description": "З вистави «Шаленство кохання» . Вірші М. Добролюбова, переклад А. Навроцького",
-      "imageUrl": "/images/Місяць_золотий.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work69",
-      "category": "Вокальні твори",
-      "subcategory": "",
-      "title": "«Принадна Катрин»",
-      "year": "",
-      "description": "Опис твору...",
-      "imageUrl": "/images/Принадна_Катрин.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work70",
-      "category": "Вокальні твори",
-      "subcategory": "",
-      "title": "«Сонце-Ярило». Кантата для дитячого хору",
-      "year": "",
-      "description": "Опис твору...",
-      "imageUrl": "/images/Сонце-Ярило.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work71",
-      "category": "Вокальні твори",
-      "subcategory": "",
-      "title": "«Три пісні» на вірші Г. Алексеєвої",
-      "year": "",
-      "description": "Три пісні« на вірші Г. Алексеєвої",
-      "list": ["Колискова", "Чарівна кімната", "Любов - ніжна музика"],
-      "imageUrl": "/images/Три_пісні_на_вірші_Г_Алексеєвої.jpg",
-      "videoUrls": [
-        "https://www.youtube.com/watch?v=dT31FUkSZ84",
-        "https://www.youtube.com/watch?v=S0KslDvE1SY",
-        "https://www.youtube.com/watch?v=G9_dq4F0e18"
-      ]
-    },
+
     {
       "id": "work72",
       "category": "Музика до кіно та мультфільмів",
