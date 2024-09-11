@@ -661,10 +661,10 @@
 
   .leftSection {
     align-items: flex-start;
-    max-width: 40%; /* Повертаємо адаптивну ширину для десктопів */
+    max-width: 50%; /* Повертаємо адаптивну ширину для десктопів */
   }
 
   .rightSection {
-    flex-basis: 60%;
+    flex-basis: 50%;
   }
 }
