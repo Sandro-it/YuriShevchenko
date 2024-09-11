@@ -1,5 +1,4 @@
-.header {
-  /* position: relative; */
+/* .header {
   background-color: #132946;
   color: white;
   padding: 10px;
@@ -51,8 +50,8 @@
   left: 0;
   right: 0;
   bottom: 0;
-  height: 2px; /* Висота лінії */
-  background-color: white; /* Колір лінії */
+  height: 2px; 
+  background-color: white; 
   transform: scaleX(0);
   transform-origin: left;
   transition: transform 0.3s ease-in-out;
@@ -138,12 +137,187 @@
 .switchersContainer {
   display: flex;
   align-items: center;
-  justify-content: flex-end; /* Вирівнювання по правій стороні */
-  gap: 10px; /* Відстань між кнопками */
+  justify-content: flex-end; 
+  gap: 10px; 
+} */
+
+/*============================================================================================*/
+
+.header {
+  background-color: #132946;
+  color: white;
+  padding: 10px;
+  font-weight: 400;
 }
 
-/* @media (max-width: 768px) {
-    .switchersContainer {
-      gap: 5px; /* Зменшення відстані між кнопками для мобільних пристроїв */
-/*}
-  } */
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menuButton {
+  display: none;
+  background: none;
+  border: none;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.nav {
+  display: flex;
+}
+
+.navLinks {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 20px;
+}
+
+.navItem {
+  margin-left: 20px;
+}
+
+.navLink {
+  position: relative;
+  color: white;
+  text-decoration: none;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+}
+
+.navLink::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 2px;
+  background-color: white;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s ease-in-out;
+}
+
+.navLink:hover::after,
+.navLink:focus::after {
+  transform: scaleX(1);
+}
+
+.navOpen {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: #132946;
+  padding-top: 50px;
+  text-align: center;
+  z-index: 10;
+}
+
+.navOpen .navLinks {
+  flex-direction: column;
+  align-items: center;
+}
+
+.navOpen .navItem {
+  margin: 20px 0;
+}
+
+.overlay {
+  display: none;
+}
+
+.switchersContainer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+/* Для мобільних пристроїв від 320px до 800px */
+@media (max-width: 800px) {
+  .navLink {
+    font-size: 14px;
+  }
+}
+
+/* Для мобільних екранів від 320px до 768px */
+@media (max-width: 768px) {
+  .menuButton {
+    display: block;
+  }
+
+  .nav {
+    display: none;
+  }
+
+  .navOpen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .overlay {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 9;
+  }
+
+  .switchersContainer {
+    gap: 5px; /* Зменшення відстані між кнопками для мобільних */
+  }
+
+  .navLinks {
+    gap: 10px;
+  }
+}
+
+/* Для екранів від 769px до 1600px */
+@media (min-width: 769px) and (max-width: 1600px) {
+  .nav {
+    display: flex;
+  }
+
+  .menuButton {
+    display: none;
+  }
+
+  .navOpen {
+    display: none;
+  }
+
+  .overlay {
+    display: none;
+  }
+
+  .switchersContainer {
+    gap: 10px;
+  }
+
+  .navLinks {
+    gap: 20px;
+  }
+}
+
+/* Спеціально для широких екранів більше 1600px */
+@media (min-width: 1601px) {
+  .navLinks {
+    gap: 30px;
+  }
+
+  .switchersContainer {
+    gap: 15px;
+  }
+}

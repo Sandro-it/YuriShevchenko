@@ -280,11 +280,11 @@ html {
   justify-content: start; /* Вирівнюємо по горизонталі */
 }
 
-.categoryLink::before {
-  content: "\1D11E"; /* Юнікод для скрипічного ключа */
-  margin-right: 8px; /* Відступ між скрипічним ключем та текстом */
-  font-size: 1.7em; /* Розмір символу скрипічного ключа */
-}
+/* .categoryLink::before {
+  content: "\1D11E"; Юнікод для скрипічного ключа
+  margin-right: 8px; Відступ між скрипічним ключем та текстом
+  font-size: 1.7em; Розмір символу скрипічного ключа
+} */
 
 .categoryLink:hover {
   background-color: #244e86; /* Фоновий колір при наведенні */

@@ -14,7 +14,7 @@
   color: #ffffff; /* Змінює колір тексту на білий при наведенні */
 }
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .themeToggle {
     font-size: 14px; /* Зменшення шрифту для мобільних пристроїв */
   }

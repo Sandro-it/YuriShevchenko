@@ -458,7 +458,7 @@
 
 /*==========================================*/
 
-.homePage {
+/* .homePage {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -495,9 +495,9 @@
 .rightSection {
   flex: 1;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
-  /* position: relative; Встановлюємо відносне позиціонування для контейнера */
+
   min-height: 400px;
   overflow: hidden;
   margin-bottom: 0;
@@ -512,12 +512,12 @@
   object-fit: cover;
   opacity: 0;
   transition: opacity 1s ease-in-out;
-  position: absolute; /* Всі фото накладаються одне на одне */
+  position: absolute; Всі фото накладаються одне на одне
   margin-bottom: 0;
 }
 
 .photo.active {
-  opacity: 1; /* Активне фото буде видимим */
+  opacity: 1; Активне фото буде видимим
 }
 
 @media (max-width: 768px) {
@@ -525,7 +525,7 @@
     flex-direction: column;
     align-items: center;
     padding: 40px 10px 0px 10px;
-    /* padding-top: 40px; */
+
     min-height: auto;
     padding-bottom: 0;
     min-height: 80vh;
@@ -555,5 +555,116 @@
   .description {
     margin-bottom: 20px;
     text-align: center;
+  }
+} */
+
+/*===========================нові стилі 100924==============================*/
+
+.homePage {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  /* padding: 20px; */
+  padding-top: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 80vh;
+}
+
+.leftSection {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center; /* Позиціонування по центру вертикалі */
+  max-width: 50%; /* Адаптивна ширина для лівої секції */
+  margin-bottom: 20px;
+}
+
+.newPhoto {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+[data-theme="dark"] .newPhoto {
+  content: url("/images/Sheva-white-min.png");
+}
+
+.description {
+  max-width: 100%; /* Забезпечує адаптацію тексту */
+}
+
+.rightSection {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
+  min-height: 600px;
+  overflow: hidden;
+  margin-left: 40px;
+}
+
+.photo {
+  width: 100%;
+  max-width: 500px;
+  min-height: 580px;
+  height: auto;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  position: absolute;
+}
+
+.photo.active {
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .homePage {
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 10px 0 10px;
+    min-height: auto;
+  }
+
+  .leftSection {
+    max-width: 100%; /* Ширина змінюється для мобільних */
+    margin-bottom: 0;
+    align-items: center;
+    padding-bottom: 0;
+  }
+
+  .rightSection {
+    width: 100%; /* Адаптація правої частини до ширини екрану */
+    margin-left: 0;
+    min-height: 300px;
+  }
+
+  .photo {
+    min-height: 300px;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  .newPhoto,
+  .description {
+    text-align: center;
+  }
+}
+
+@media (min-width: 769px) {
+  .homePage {
+    flex-direction: row;
+  }
+
+  .leftSection {
+    align-items: flex-start;
+    max-width: 50%; /* Повертаємо адаптивну ширину для десктопів */
+  }
+
+  .rightSection {
+    flex-basis: 50%;
   }
 }

@@ -40,7 +40,7 @@
   background-color: #244e86;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .languageButton {
     font-size: 14px; /* Зменшення шрифту для мобільних пристроїв */
   }

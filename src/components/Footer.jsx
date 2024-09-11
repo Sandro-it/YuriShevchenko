@@ -29,7 +29,7 @@ const Footer = () => {
     <footer className={styles.footer}>
       <div className="container">
         <p className={styles.footerText}>
-          <span>&copy; 2024 Yuri Shevchenko. </span>
+          <span>&copy; {t("footer_name")}. </span>
           <span>{t("footer_rights")}</span>
         </p>
         <div className={styles.socialLinks}>
