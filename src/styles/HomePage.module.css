@@ -637,14 +637,14 @@
   }
 
   .rightSection {
-    width: 100%; /* Адаптація правої частини до ширини екрану */
+    width: 100vh; /* Адаптація правої частини до ширини екрану */
     margin-left: 0;
     min-height: 300px;
   }
 
   .photo {
     min-height: 300px;
-    max-width: 100%;
+    max-width: 80%;
     object-fit: contain;
   }
 
@@ -661,10 +661,10 @@
 
   .leftSection {
     align-items: flex-start;
-    max-width: 50%; /* Повертаємо адаптивну ширину для десктопів */
+    max-width: 45%; /* Повертаємо адаптивну ширину для десктопів */
   }
 
   .rightSection {
-    flex-basis: 50%;
+    flex-basis: 55%;
   }
 }
