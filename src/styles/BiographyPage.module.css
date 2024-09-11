@@ -61,6 +61,46 @@
   margin-left: 20px;
 }
 
+.scrollToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #132946;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scrollToTop::before {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 12px solid white;
+}
+
+.scrollToTop:hover {
+  background-color: #244e86;
+}
+
+[data-theme="dark"] .scrollToTop {
+  background-color: #132946;
+}
+
+[data-theme="dark"] .scrollToTop:hover {
+  background-color: #244e86;
+}
+
 /* Responsive styles for mobile devices */
 @media (max-width: 768px) {
   .biographyPage {
