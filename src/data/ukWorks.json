@@ -296,30 +296,21 @@
       "subcategory": "",
       "title": "«Щедрик»",
       "year": "",
-      "description": "Щедрик",
+      "description": "",
       "imageUrl": "/images/Щедрик.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=9xlquJzAcQ8&ab_channel=DilyaverOsman",
       "embedVideo": true
     },
     {
-      "id": "work18",
+      "id": "work31",
       "category": "Камерний оркестр",
       "subcategory": "",
-      "title": "«Батярські пісні»",
+      "title": "«Каданс»",
       "year": "",
-      "description": "Опис твору...",
-      "imageUrl": "/images/Батярська_Пісня.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work19",
-      "category": "Камерний оркестр",
-      "subcategory": "",
-      "title": "«Зоряний хлопчик»",
-      "year": "",
-      "description": "Зоряний хлопчик",
-      "imageUrl": "/images/Зоряний_хлопчик.jpg",
-      "videoUrl": ""
+      "description": "",
+      "imageUrl": "/images/Каданс.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=hEJhDQ2tCEQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work20",
@@ -327,7 +318,7 @@
       "subcategory": "",
       "title": "«Консоданс»",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Сторінка в розробці",
       "imageUrl": "/images/Консоданс.jpg",
       "videoUrl": ""
     },
@@ -337,7 +328,7 @@
       "subcategory": "",
       "title": "«Музика Луїзи»",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Сторінка в розробці",
       "imageUrl": "/images/Музика_Луїзи.jpg",
       "videoUrl": ""
     },
@@ -347,7 +338,7 @@
       "subcategory": "",
       "title": "«Пасторальна сюїта»",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Сторінка в розробці",
       "imageUrl": "/images/Пасторальна_сюїта.jpg",
       "videoUrl": ""
     },
@@ -377,7 +368,7 @@
       "subcategory": "",
       "title": "«3/4 саундтрек до невідомого фільму»",
       "year": "",
-      "description": "«3/4 саундтрек до невідомого фільму»",
+      "description": "",
       "imageUrl": "/images/Саундтрек.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=B7ihoVQfy1I&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
       "embedVideo": true
@@ -388,7 +379,7 @@
       "subcategory": "",
       "title": "«Батярські пісні»",
       "year": "",
-      "description": "Батярські пісні",
+      "description": "",
       "list": [
         "Тільку ві Львові",
         "Там на балю ветиранів",
@@ -412,7 +403,7 @@
       "subcategory": "",
       "title": "«Віденський салат»",
       "year": "",
-      "description": "Віденський салат",
+      "description": "",
       "imageUrl": "/images/Віденський_салат.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=DeRtC8XdHGI&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
       "embedVideo": true,
@@ -461,7 +452,7 @@
       "subcategory": "",
       "title": "«Гумореска»",
       "year": "",
-      "description": "Гумореска",
+      "description": "",
       "imageUrl": "/images/Гумореска.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=ss9bgln6Px4&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
       "embedVideo": true
@@ -483,22 +474,22 @@
       "subcategory": "",
       "title": "«Жовто-блакитна кульбабка».",
       "year": "2020",
-      "description": "Жовто-блакитна кульбабка.",
+      "description": "",
       "imageUrl": "/images/Кульбабка.jpg",
       "videoUrl": "",
       "embedVideo": false
     },
     {
-      "id": "work31",
+      "id": "work19",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
-      "title": "«Каданс»",
+      "title": "«Зоряний хлопчик»",
       "year": "",
-      "description": "Каданс",
-      "imageUrl": "/images/Каданс.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=hEJhDQ2tCEQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
-      "embedVideo": true
+      "description": "",
+      "imageUrl": "/images/Зоряний_хлопчик.jpg",
+      "videoUrl": ""
     },
+
     {
       "id": "work32",
       "category": "Твори для інструментів з оркестром",
@@ -530,7 +521,7 @@
       "year": "2014",
       "description": [
         "«Ми Є!» парафраз на мелодію М. Вербицького (Гімн України).",
-        "для скрипки та струнного оркестру.",
+        "Для скрипки та струнного оркестру.",
         "«Ми Є!» — це відомий твір Юрія Шевченка, створений у 2014 році під впливом трагічних подій на Майдані Незалежності. Це парафраз на тему українського гімну Михайла Вербицького «Ще не вмерла Україна». Твір виконується соло на скрипці у супроводі оркестру, і він став одним із музичних символів України. Його музика глибоко емоційна і прониклива, відображає силу і дух українського народу в ці важкі часи."
       ],
       "imageUrl": "/images/Ми_Є.jpg",
@@ -559,7 +550,7 @@
       "subcategory": "",
       "title": "«Старосвітська елегія»",
       "year": "",
-      "description": "Старосвітська елегія",
+      "description": "",
       "imageUrl": "/images/Старосвітська_елегія.jpg",
       "videoUrl": ""
     },
@@ -569,7 +560,7 @@
       "subcategory": "",
       "title": "«Теплий дощ»",
       "year": "",
-      "description": "Теплий дощ",
+      "description": "",
       "imageUrl": "/images/Теплий_дощ.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=o93MKA5n7IA&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
       "embedVideo": true
@@ -590,7 +581,7 @@
       "subcategory": "",
       "title": "«Три Портрети» з балету «За двома зайцями»",
       "year": "",
-      "description": "«Три Портрети» з балету «За двома зайцями»",
+      "description": "",
       "list": ["Голохвастов", "Галя", "Проня"],
       "imageUrl": "/images/Три_Портрети_з_балету_За_двома_зайцями.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=MPT9ltmGS4w&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
