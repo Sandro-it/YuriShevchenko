@@ -109,8 +109,6 @@
       "embedVideo": false
     },
     {
-      
-    {
       "id": "work7",
       "category": "Musical-Theatrical Works",
       "subcategory": "Ballets",
@@ -207,7 +205,8 @@
       "imageUrl": "/images/Те_що_приніс_вітер.jpg",
       "videoUrl": ""
     },
-    {"id": "work6",
+    {
+      "id": "work6",
       "category": "Musical-Theatrical Works",
       "subcategory": "Ballets",
       "title": "'The Path to Hopak'",
