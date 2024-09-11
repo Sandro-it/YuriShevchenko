@@ -277,6 +277,27 @@
       "embedVideo": true
     },
     {
+      "id": "work151",
+      "category": "Symphonieorchester",
+      "subcategory": "",
+      "title": "«Kobzar». Symphonisch-Chorische Fresken.",
+      "year": "",
+      "description": [
+        "Der einzigartige Kompositionsstil und die nationale Farbigkeit der Musik von Yuri Shevchenko in Kombination mit den prophetischen Worten von Taras Shevchenko bestätigen die außergewöhnliche Bedeutung dieser Künstler für die Entwicklung der nationalen und kulturellen Identität der Ukraine.",
+        "Die musikalische Dramaturgie des Werkes ist mit dem ukrainischen Volkslied verbunden. Teil I verkörpert das Bild eines Volkes, das nach seinem Weg sucht. Teil II schildert die ukrainische Familie, in deren Mittelpunkt die Mutter steht. Teil III symbolisiert den langjährigen Kampf der Ukrainer, ihren Mut, ihre innere Stärke und die Kraft des Volkes. Teil IV reflektiert über die Zukunft der Ukraine mit Hoffnung im Herzen. Der reiche Klang der Orchestrierung und des Chors, zusammen mit der Einbeziehung von Bandura und Panflöte, schaffen einen einzigartigen ethnischen Klang.",
+        "„Dieses Werk ist zweifellos eines der besten Beispiele der ukrainischen Shevchenkiana. Die Rolle des Chors in 'Kobzar' ist äußerst faszinierend. Der Einsatz verschiedener technischer Ansätze – vom instrumentellen Gesang bis hin zur Cantilena-Technik und der leuchtenden Klangfarben-Dramaturgie, die verschiedene Bilder und emotionale Zustände wiedergibt, sowie die reiche dynamische Palette – all dies fasziniert die Ausführenden und wird dem Publikum zweifellos ästhetischen Genuss bereiten“, meint die Dirigentin des Werks, Angela Maslennikova."
+      ],
+      "list": [
+        "Teil. 'Meine Gedanken, meine Gedanken...' ('Schicksal')",
+        "Teil. 'Kirschgarten' ('Seele')",
+        "Teil. 'Es brüllt und stöhnt...' ('Mut')",
+        "Teil. 'So war ihr Schicksal' ('Hoffnung')"
+      ],
+      "imageUrl": "/images/Kobzar.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=E7b7n-WGL2Y&ab_channel=%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D1%87%D1%83%D0%BA",
+      "embedVideo": true
+    },
+    {
       "id": "work16",
       "category": "Symphonieorchester",
       "subcategory": "",
