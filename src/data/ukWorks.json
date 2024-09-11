@@ -108,25 +108,7 @@
       "videoUrl": "https://www.youtube.com/watch?v=JQUng5SqQQE&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
       "embedVideo": false
     },
-    {
-      "id": "work6",
-      "category": "Музично-театральні твори",
-      "subcategory": "Балети",
-      "title": "«Шлях до Гопаку»",
-      "year": "2005",
-      "description": [
-        "Юрій Валентинович  багато років співпрацював з відомим танцювальним колективом «SHUMKA» («Шумка») з міста Едмонтон (Канада).",
-        "Прем'єра відбулася у 2005 р. (Оттава)"
-      ],
-      "productionTeam": [
-        "Диригент- О. Баклан",
-        "Хореографія- В. Литвинов, І. Піхлик",
-        "Хормейстер- А. Масленнікова"
-      ],
-      "imageUrl": "/images/Шлях_до_Гопаку.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=F4BFc5ELkL4&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
-      "embedVideo": true
-    },
+
     {
       "id": "work7",
       "category": "Музично-театральні твори",
@@ -223,6 +205,25 @@
       "description": "Опис твору...",
       "imageUrl": "/images/Те_що_приніс_вітер.jpg",
       "videoUrl": ""
+    },
+    {
+      "id": "work6",
+      "category": "Музично-театральні твори",
+      "subcategory": "Балети",
+      "title": "«Шлях до Гопаку»",
+      "year": "2005",
+      "description": [
+        "Юрій Валентинович  багато років співпрацював з відомим танцювальним колективом «SHUMKA» («Шумка») з міста Едмонтон (Канада).",
+        "Прем'єра відбулася у 2005 р. (Оттава)"
+      ],
+      "productionTeam": [
+        "Диригент- О. Баклан",
+        "Хореографія- В. Литвинов, І. Піхлик",
+        "Хормейстер- А. Масленнікова"
+      ],
+      "imageUrl": "/images/Шлях_до_Гопаку.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=F4BFc5ELkL4&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
     {
       "id": "work14",
@@ -1142,8 +1143,8 @@
       ],
       "productionTeam": ["Режисер- постановник - Станіслав Мойсеєв"],
       "imageUrl": "/images/Така_доля.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=9gbqbAwzdco&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC%D0%B5%D0%BD%D1%96%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0",
-      "embedVideo": true
+      "videoUrl": "",
+      "embedVideo": false
     },
     {
       "id": "work623",
