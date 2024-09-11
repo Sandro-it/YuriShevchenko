@@ -80,10 +80,8 @@
         "Художник зі світла: Дєдов Максим"
       ],
       "imageUrl": "/images/Дюймовонька.jpg",
-      "videoUrls": [
-        "https://scontent-iev1-1.xx.fbcdn.net/v/t42.1790-2/351055707_650258569775983_433397593190348411_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUxOCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIiwidmlkZW9faWQiOjYyODQyMTgyNzE2NjIwOTF9&_nc_ohc=vMpOKoZ2VkkQ7kNvgHZUN-f&rl=518&vabr=288&_nc_ht=scontent-iev1-1.xx&edm=AGo2L-IEAAAA&oh=00_AYC1Q04kNY6tEn0_-XL8576cIPhp_CR894BLhGh9bJjm2A&oe=66E1F054",
-        "https://operahouse.od.ua/events/thumbelina/"
-      ]
+      "videoUrl": "https://operahouse.od.ua/events/thumbelina/",
+      "embedVideo": false
     },
     {
       "id": "work5",
@@ -106,7 +104,7 @@
       ],
       "imageUrl": "/images/за_2_зайцями-min.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=JQUng5SqQQE&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
-      "embedVideo": false
+      "embedVideo": true
     },
 
     {
@@ -122,7 +120,7 @@
       ],
       "imageUrl": "/images/Кобзар.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=e34qfm6Q0Y4&ab_channel=ShumkaDancersProduction",
-      "embedVideo": false
+      "embedVideo": true
     },
     {
       "id": "work8",
@@ -130,7 +128,7 @@
       "subcategory": "Балети",
       "title": "«Катруся»",
       "year": "1995",
-      "description": "Опис твору...",
+      "description": "Сторінка в розробці",
       "imageUrl": "/images/Катруся.jpg",
       "videoUrl": ""
     },
@@ -140,7 +138,7 @@
       "subcategory": "Балети",
       "title": "«Перун»",
       "year": "1993",
-      "description": "Опис твору...",
+      "description": "Сторінка в розробці",
       "imageUrl": "/images/Перун.jpg",
       "videoUrl": ""
     },
@@ -150,7 +148,7 @@
       "subcategory": "Балети",
       "title": "«Пори року». Фольклорна симфонічно-хореографічна сюїта",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Сторінка в розробці",
       "imageUrl": "/images/Пори_року.jpg",
       "videoUrl": ""
     },
@@ -202,7 +200,7 @@
       "subcategory": "Балети",
       "title": "«Те, що приніс вітер...»",
       "year": "2005",
-      "description": "Опис твору...",
+      "description": "Сторінка в розробці",
       "imageUrl": "/images/Те_що_приніс_вітер.jpg",
       "videoUrl": ""
     },
@@ -231,7 +229,7 @@
       "subcategory": "",
       "title": "«За двома зайцями«. Cюїта з балету.",
       "year": "",
-      "description": "«За двома зайцями»",
+      "description": "",
       "list": [
         "Голохвастов",
         "Ранкові дзвони",
@@ -282,7 +280,7 @@
       "subcategory": "",
       "title": "«Шумка - Гопак»",
       "year": "",
-      "description": "Шумка - Гопак",
+      "description": "",
       "list": [
         "Шумка - Гопак NSO України, диригент В. Кожухар",
         "Шумка-Гопак Вик. Микола Лисенко ( Kyiv Fantastyc Orchestra), Олег Кунтий (Наоні)"
