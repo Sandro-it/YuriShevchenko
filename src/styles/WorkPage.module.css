@@ -407,6 +407,10 @@ p.description {
 }
 
 @media (max-width: 768px) {
+  .workPage {
+    padding: 40px 10px 10px 10px;
+  }
+
   .contentSection {
     /* flex: none; */
     flex-direction: column;
