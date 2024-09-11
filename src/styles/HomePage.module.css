@@ -582,7 +582,7 @@
 }
 
 .newPhoto {
-  width: 90%;
+  width: 100%;
   height: auto;
   margin-bottom: 20px;
 }
@@ -592,7 +592,7 @@
 }
 
 .description {
-  max-width: 90%; /* Забезпечує адаптацію тексту */
+  max-width: 100%; /* Забезпечує адаптацію тексту */
 }
 
 .rightSection {
@@ -661,10 +661,10 @@
 
   .leftSection {
     align-items: flex-start;
-    max-width: 50%; /* Повертаємо адаптивну ширину для десктопів */
+    max-width: 40%; /* Повертаємо адаптивну ширину для десктопів */
   }
 
   .rightSection {
-    flex-basis: 50%;
+    flex-basis: 60%;
   }
 }
