@@ -351,7 +351,10 @@ const WorkPage = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        {`${t("view_on_youtube")} ${index + 1}`}
+                        {/* {`${t("view_on_youtube")} ${index + 1}`} */}
+                        {`${t("view_on_youtube")} ${index + 2}`}{" "}
+                        {/* Додаємо +2 до індексу */}
+                        {/* {t("view_on_youtube")} */}
                       </a>
                     </p>
                   ))}
