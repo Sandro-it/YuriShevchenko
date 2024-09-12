@@ -455,7 +455,15 @@ p.description {
     font-size: 20px !important;
   }
 
-  p {
+  /* p {
     font-size: 14px !important;
   }
+  .workPage ol li {
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  .productionTeam li {
+    margin-bottom: 5px;
+    font-size: 14px;
+  } */
 }
