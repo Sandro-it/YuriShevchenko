@@ -802,6 +802,20 @@
       "embedVideo": true
     },
     {
+      "id": "work675",
+      "category": "Vokalkompositionen",
+      "subcategory": "",
+      "title": "„In der Sprache einer Mutter“",
+      "year": "1979",
+      "description": [
+        "Gedicht von Mykola Syngajivskyj. Vorgetragen von der VIA „Kobza“, Solist Valeriy Viter.",
+        "Aufnahme aus den späten 70er bis frühen 80er Jahren."
+      ],
+      "imageUrl": "/images/Мовою_матері.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=7rfp7ChBTKE&ab_channel=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%D0%B5%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0",
+      "embedVideo": true
+    },
+    {
       "id": "work671",
       "category": "Vokalkompositionen",
       "subcategory": "",
@@ -849,8 +863,17 @@
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'Sonne-Jarylo'. Kantate für Kinderchor",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "1993",
+      "description": "Музичне дійство для дитячого хору. Вірші Тамари Кокоші",
+      "list": [
+        "Сонце Ярило",
+        "Вітер - Чаклун",
+        "Молитва",
+        "Гроза",
+        "Ніч",
+        "Купало",
+        "Фінал"
+      ],
       "imageUrl": "/images/Сонце-Ярило.jpg",
       "videoUrl": ""
     },
@@ -869,6 +892,17 @@
         "https://www.youtube.com/watch?v=S0KslDvE1SY",
         "https://www.youtube.com/watch?v=G9_dq4F0e18"
       ]
+    },
+    {
+      "id": "work716",
+      "category": "Vokalkompositionen",
+      "subcategory": "",
+      "title": "„Ich kehre nach Petschersk zurück“",
+      "year": "1996",
+      "description": "Gedicht von Mykola Browtschenko. Vorgetragen von Anatolij Chostikojev.",
+      "imageUrl": "/images/Печерськ.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=T6_QjFtdcVA&ab_channel=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0%D0%B5%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0",
+      "embedVideo": true
     },
     {
       "id": "work48",
@@ -1440,6 +1474,21 @@
       "description": "Beschreibung des Werkes...",
       "imageUrl": "/images/Стіна.jpg",
       "videoUrl": ""
+    },
+    {
+      "id": "work91",
+      "category": "Hörspiele",
+      "subcategory": "",
+      "title": "«Am Sonntagmorgen grub sie Kräuter...»",
+      "year": "2009",
+      "description": [
+        "Eine Parabel von Neda Nezhdana, basierend auf der gleichnamigen Novelle von Olha Kobylianska.",
+        "Audioversion des Theaterstücks des Iwan-Franko-Theaters."
+      ],
+      "productionTeam": ["Moderatorin – Switlana Hudz-Wojtenko"],
+      "imageUrl": "/images/Kräuter_Audio.jpg",
+      "videoUrl": "",
+      "embedVideo": false
     }
   ]
 }

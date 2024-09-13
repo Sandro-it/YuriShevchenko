@@ -286,7 +286,7 @@ p.description {
 
 /*==============================відео для мобільних==========================*/
 
-.workPage {
+/* .workPage {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -320,7 +320,6 @@ p.description {
   justify-content: flex-end;
 }
 
-/* Відео адаптивне */
 .videoContainer {
   position: relative;
   width: 100%;
@@ -412,7 +411,6 @@ p.description {
   }
 
   .contentSection {
-    /* flex: none; */
     flex-direction: column;
     align-items: center;
   }
@@ -429,13 +427,199 @@ p.description {
   }
 
   .videoContainer {
-    max-width: 100%; /* Забираємо обмеження по ширині для маленьких екранів */
-    height: auto; /* Додаємо автоматичну висоту */
+    max-width: 100%; Забираємо обмеження по ширині для маленьких екранів
+    height: auto; Додаємо автоматичну висоту
   }
 
   .videoContainer iframe {
-    width: 100%; /* Відео займає всю ширину екрану */
-    height: auto; /* Висота буде залежати від співвідношення сторін */
+    width: 100%; Відео займає всю ширину екрану
+    height: auto; Висота буде залежати від співвідношення сторін
+  }
+
+  .workPage .photo {
+    width: 100%;
+  }
+
+  .backButton {
+    font-size: 12px;
+    padding: 8px 16px;
+  }
+
+  h1 {
+    font-size: 24px !important;
+  }
+
+  h2 {
+    font-size: 20px !important;
+  } */
+
+/* p {
+    font-size: 14px !important;
+  }
+  .workPage ol li {
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  .productionTeam li {
+    margin-bottom: 5px;
+    font-size: 14px;
+  } */
+/* } */
+
+/*============================аудіо=====================================*/
+
+.workPage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 40px 10px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.topSection {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.contentSection {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.textSection {
+  flex-basis: 50%;
+  margin-right: 20px;
+}
+
+.imageSection {
+  flex-basis: 50%;
+  margin-left: 30px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Відео адаптивне */
+.videoContainer {
+  position: relative;
+  width: 100%;
+  max-width: 560px;
+  aspect-ratio: 16/9;
+  margin: 0 auto;
+}
+
+.videoContainer iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Аудіо адаптивне */
+.audioContainer {
+  max-width: 100%;
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+.workPage .photo {
+  width: 80%;
+  height: auto;
+  object-fit: cover;
+  margin-left: auto;
+}
+
+.backButton {
+  padding: 10px 20px;
+  background-color: #cad3df;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  align-self: flex-start;
+  font-size: 14px;
+}
+
+.backButton:hover {
+  background-color: #244e86;
+  color: white;
+}
+
+.workPage h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.workPage ol {
+  padding-left: 20px;
+  list-style-type: decimal;
+  margin: 10px 0 16px 0;
+}
+
+.workPage ol li {
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.productionTeam {
+  padding-left: 20px;
+  list-style-type: none;
+}
+
+.productionTeam li {
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.workPage .description {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+p.description {
+  margin-top: 10px;
+}
+
+.workPage .link {
+  font-weight: 400;
+  font-size: 16px;
+  color: #0f81eb;
+  text-decoration: none;
+}
+
+.workPage .link:hover {
+  text-decoration: none;
+  font-weight: 500;
+  color: #4a9ae6;
+}
+
+@media (max-width: 768px) {
+  .workPage {
+    padding: 40px 10px 10px 10px;
+  }
+
+  .contentSection {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .textSection {
+    margin-right: 0;
+    margin-bottom: 20px;
+    flex-basis: 100%;
+  }
+
+  .imageSection {
+    flex-basis: 100%;
+    margin: 0;
+  }
+
+  .videoContainer,
+  .audioContainer {
+    max-width: 100%;
+    height: auto;
   }
 
   .workPage .photo {
@@ -454,16 +638,4 @@ p.description {
   h2 {
     font-size: 20px !important;
   }
-
-  /* p {
-    font-size: 14px !important;
-  }
-  .workPage ol li {
-    margin-bottom: 5px;
-    font-size: 14px;
-  }
-  .productionTeam li {
-    margin-bottom: 5px;
-    font-size: 14px;
-  } */
 }
