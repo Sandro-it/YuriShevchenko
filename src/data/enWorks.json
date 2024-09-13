@@ -125,10 +125,28 @@
       "id": "work8",
       "category": "Musical-Theatrical Works",
       "subcategory": "Ballets",
-      "title": "'Katrusia'",
+      "title": "“Katrusia”",
       "year": "1995",
-      "description": "We’re Working on This Page, Stay Tuned!",
-      "imageUrl": "/images/Катруся.jpg",
+      "description": [
+        "“Absolutely Shumka” is a mega-dance extravaganza, offering a vibrant dance tapestry of “the best of Shumka” in one program. The lyrical dances of young girls, humorous shoemakers, whirling gypsies, and the virtuoso spectacle of the famous “Hopak” finale will enchant and lift you off your feet.",
+        "This unforgettable event features the music of Yuri Shevchenko and the stunning set designs and costumes by Maria Levytska from the National Opera of Ukraine.",
+        "The program consists of three separate ballets: “Katrusia,” “Perun,” and “The Seasons.”",
+        "“My goal was to make the different sections of the program unique in style, technique, and spirit, while also creating a sense of unity. This experience will remain in my memory and heart for a lifetime. I am glad to leave a part of my soul — my music — with Shumka.” — Yuri Shevchenko",
+        "Ballet “Katrusia”"
+      ],
+      "list": [
+        "Overture (2:10)",
+        "The Village Awakens (18:57)",
+        "The Capture (5:40)",
+        "Sultan's Palace (8:06)"
+      ],
+      "productionTeam": [
+        "Orchestra: Kyiv SiTy Symphony",
+        "Conductor: Serhiy Malovany",
+        "Sound Engineers: Slavko Khalatyn, Yuri Shchelkovsky",
+        "Executive Producer: Ukrainian Shumka Dancers"
+      ],
+      "imageUrl": "/images/Katrusia.jpg",
       "videoUrl": ""
     },
     {
@@ -137,7 +155,18 @@
       "subcategory": "Ballets",
       "title": "'Perun'",
       "year": "1993",
-      "description": "We’re Working on This Page, Stay Tuned!",
+      "description": [
+        "“Absolutely Shumka” is a mega-dance extravaganza, offering a vibrant dance tapestry of “the best of Shumka” in one program. The lyrical dances of young girls, humorous shoemakers, whirling gypsies, and the virtuoso spectacle of the famous “Hopak” finale will enchant and lift you off your feet.",
+        "This unforgettable event features the music of Yuri Shevchenko and the stunning set designs and costumes by Maria Levytska from the National Opera of Ukraine.",
+        "The program consists of three separate ballets: “Katrusia,” “Perun,” and “The Seasons.”",
+        "“My goal was to make the different sections of the program unique in style, technique, and spirit, while also creating a sense of unity. This experience will remain in my memory and heart for a lifetime. I am glad to leave a part of my soul — my music — with Shumka.” — Yuri Shevchenko"
+      ],
+      "productionTeam": [
+        "Orchestra: Kyiv SiTy Symphony",
+        "Conductor: Serhiy Malovany",
+        "Sound Engineers: Slavko Khalatyn, Yuri Shchelkovsky",
+        "Executive Producer: Ukrainian Shumka Dancers"
+      ],
       "imageUrl": "/images/Перун.jpg",
       "videoUrl": ""
     },
@@ -145,9 +174,26 @@
       "id": "work10",
       "category": "Musical-Theatrical Works",
       "subcategory": "Ballets",
-      "title": "'The Seasons'. Folk Symphonic Choreographic Suite",
-      "year": "",
-      "description": "We’re Working on This Page, Stay Tuned!",
+      "title": "“Cycles of the Sun”. Folkloric Symphonic-Choreographic Suite",
+      "year": "1995",
+      "description": [
+        "“Absolutely Shumka” is a mega-dance extravaganza, offering a vibrant dance tapestry of “the best of Shumka” in one program. The lyrical dances of young girls, humorous shoemakers, whirling gypsies, and the virtuoso spectacle of the famous “Hopak” finale will enchant and lift you off your feet.",
+        "This unforgettable event features the music of Yuri Shevchenko and the stunning set designs and costumes by Maria Levytska from the National Opera of Ukraine.",
+        "The program consists of three separate ballets: “Katrusia,” “Perun,” and “The Seasons.”",
+        "“My goal was to make the different sections of the program unique in style, technique, and spirit, while also creating a sense of unity. This experience will remain in my memory and heart for a lifetime. I am glad to leave a part of my soul — my music — with Shumka.” — Yuri Shevchenko",
+        "Ballet “Cycles of the Sun”"
+      ],
+      "list": [
+        "Winter Festivities (9:39)",
+        "Blessings of Spring (7:20)",
+        "New Beginnings (11:42)"
+      ],
+      "productionTeam": [
+        "Orchestra: Kyiv SiTy Symphony",
+        "Conductor: Serhiy Malovany",
+        "Sound Engineers: Slavko Khalatyn, Yuri Shchelkovsky",
+        "Executive Producer: Ukrainian Shumka Dancers"
+      ],
       "imageUrl": "/images/Пори_року.jpg",
       "videoUrl": ""
     },

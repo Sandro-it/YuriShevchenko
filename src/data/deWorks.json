@@ -126,10 +126,28 @@
       "id": "work8",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
-      "title": "'Katrusia'",
+      "title": "„Katrusia“",
       "year": "1995",
-      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
-      "imageUrl": "/images/Катруся.jpg",
+      "description": [
+        "„Absolutely Shumka“ ist ein Mega-Tanzspektakel, das einen lebendigen Tanzteppich aus „dem Besten von Shumka“ in einem Programm bietet. Die lyrischen Tänze junger Mädchen, humorvolle Schuster, wirbelnde Zigeuner und das virtuose Finale des berühmten „Hopak“ werden Sie verzaubern und von den Sitzen reißen.",
+        "Dieses unvergessliche Ereignis präsentiert die Musik von Yuri Shevchenko und die atemberaubenden Bühnenbilder und Kostüme von Maria Levytska aus der Nationaloper der Ukraine.",
+        "Das Programm besteht aus drei separaten Balletten: „Katrusia“, „Perun“ und „Die Jahreszeiten“.",
+        "„Mein Ziel war es, die verschiedenen Abschnitte des Programms in Stil, Technik und Seele einzigartig zu gestalten und gleichzeitig ein Gefühl der Einheit zu schaffen. Diese Erfahrung wird für immer in meiner Erinnerung und meinem Herzen bleiben. Ich freue mich, einen Teil meiner Seele – meine Musik – mit Shumka zu teilen.“ – Yuri Shevchenko",
+        "Ballett „Katrusia“"
+      ],
+      "list": [
+        "Ouvertüre (2:10)",
+        "Erwachen des Dorfes (18:57)",
+        "Gefangenschaft (5:40)",
+        "Sultanspalast (8:06)"
+      ],
+      "productionTeam": [
+        "Orchester: Kyiv SiTy Symphony",
+        "Dirigent: Serhiy Malovany",
+        "Toningenieure: Slavko Khalatyn, Yuri Shchelkovsky",
+        "Ausführender Produzent: Ukrainian Shumka Dancers"
+      ],
+      "imageUrl": "/images/Katrusia.jpg",
       "videoUrl": ""
     },
     {
@@ -138,7 +156,19 @@
       "subcategory": "Ballette",
       "title": "'Perun'",
       "year": "1993",
-      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
+      "description": [
+        "„Absolutely Shumka“ ist ein Mega-Tanzspektakel, das einen lebendigen Tanzteppich aus „dem Besten von Shumka“ in einem Programm bietet. Die lyrischen Tänze junger Mädchen, humorvolle Schuster, wirbelnde Zigeuner und das virtuose Finale des berühmten „Hopak“ werden Sie verzaubern und von den Sitzen reißen.",
+        "Dieses unvergessliche Ereignis präsentiert die Musik von Yuri Shevchenko und die atemberaubenden Bühnenbilder und Kostüme von Maria Levytska aus der Nationaloper der Ukraine.",
+        "Das Programm besteht aus drei separaten Balletten: „Katrusia“, „Perun“ und „Die Jahreszeiten“.",
+        "„Mein Ziel war es, die verschiedenen Abschnitte des Programms in Stil, Technik und Seele einzigartig zu gestalten und gleichzeitig ein Gefühl der Einheit zu schaffen. Diese Erfahrung wird für immer in meiner Erinnerung und meinem Herzen bleiben. Ich freue mich, einen Teil meiner Seele – meine Musik – mit Shumka zu teilen.“ – Yuri Shevchenko"
+      ],
+
+      "productionTeam": [
+        "Orchester: Kyiv SiTy Symphony",
+        "Dirigent: Serhiy Malovany",
+        "Toningenieure: Slavko Khalatyn, Yuri Shchelkovsky",
+        "Ausführender Produzent: Ukrainian Shumka Dancers"
+      ],
       "imageUrl": "/images/Перун.jpg",
       "videoUrl": ""
     },
@@ -146,9 +176,26 @@
       "id": "work10",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
-      "title": "'Die Jahreszeiten'. Volkssymphonische choreografische Suite",
-      "year": "",
-      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
+      "title": "„Die Jahreszeiten“. Folkloristische Symphonisch-Choreographische Suite",
+      "year": "1995",
+      "description": [
+        "„Absolutely Shumka“ ist ein Mega-Tanzspektakel, das einen lebendigen Tanzteppich aus „dem Besten von Shumka“ in einem Programm bietet. Die lyrischen Tänze junger Mädchen, humorvolle Schuster, wirbelnde Zigeuner und das virtuose Finale des berühmten „Hopak“ werden Sie verzaubern und von den Sitzen reißen.",
+        "Dieses unvergessliche Ereignis präsentiert die Musik von Yuri Shevchenko und die atemberaubenden Bühnenbilder und Kostüme von Maria Levytska aus der Nationaloper der Ukraine.",
+        "Das Programm besteht aus drei separaten Balletten: „Katrusia“, „Perun“ und „Die Jahreszeiten“.",
+        "„Mein Ziel war es, die verschiedenen Abschnitte des Programms in Stil, Technik und Seele einzigartig zu gestalten und gleichzeitig ein Gefühl der Einheit zu schaffen. Diese Erfahrung wird für immer in meiner Erinnerung und meinem Herzen bleiben. Ich freue mich, einen Teil meiner Seele – meine Musik – mit Shumka zu teilen.“ – Yuri Shevchenko",
+        "Ballett „Die Jahreszeiten“"
+      ],
+      "list": [
+        "Winterliche Feierlichkeiten (9:39)",
+        "Frühlingssegen (7:20)",
+        "Erneuerung (11:42)"
+      ],
+      "productionTeam": [
+        "Orchester: Kyiv SiTy Symphony",
+        "Dirigent: Serhiy Malovany",
+        "Toningenieure: Slavko Khalatyn, Yuri Shchelkovsky",
+        "Ausführender Produzent: Ukrainian Shumka Dancers"
+      ],
       "imageUrl": "/images/Пори_року.jpg",
       "videoUrl": ""
     },
