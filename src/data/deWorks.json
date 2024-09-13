@@ -81,10 +81,8 @@
         "Lichtdesigner: Maksym Dedov"
       ],
       "imageUrl": "/images/Дюймовонька.jpg",
-      "videoUrls": [
-        "https://scontent-iev1-1.xx.fbcdn.net/v/t42.1790-2/351055707_650258569775983_433397593190348411_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUxOCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIiwidmlkZW9faWQiOjYyODQyMTgyNzE2NjIwOTF9&_nc_ohc=vMpOKoZ2VkkQ7kNvgHZUN-f&rl=518&vabr=288&_nc_ht=scontent-iev1-1.xx&edm=AGo2L-IEAAAA&oh=00_AYC1Q04kNY6tEn0_-XL8576cIPhp_CR894BLhGh9bJjm2A&oe=66E1F054",
-        "https://operahouse.od.ua/events/thumbelina/"
-      ]
+      "videoUrl": "https://operahouse.od.ua/events/thumbelina/",
+      "embedVideo": false
     },
     {
       "id": "work5",
@@ -107,7 +105,7 @@
       ],
       "imageUrl": "/images/за_2_зайцями-min.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=JQUng5SqQQE&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
-      "embedVideo": false
+      "embedVideo": true
     },
     {
       "id": "work7",
@@ -122,7 +120,7 @@
       ],
       "imageUrl": "/images/Кобзар.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=e34qfm6Q0Y4&ab_channel=ShumkaDancersProduction",
-      "embedVideo": false
+      "embedVideo": true
     },
     {
       "id": "work8",
@@ -130,7 +128,7 @@
       "subcategory": "Ballette",
       "title": "'Katrusia'",
       "year": "1995",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Катруся.jpg",
       "videoUrl": ""
     },
@@ -140,7 +138,7 @@
       "subcategory": "Ballette",
       "title": "'Perun'",
       "year": "1993",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Перун.jpg",
       "videoUrl": ""
     },
@@ -150,7 +148,7 @@
       "subcategory": "Ballette",
       "title": "'Die Jahreszeiten'. Volkssymphonische choreografische Suite",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Пори_року.jpg",
       "videoUrl": ""
     },
@@ -174,8 +172,8 @@
         "Bühnenbildner – Verdienter Künstler der Ukraine Natalia Kutscherya"
       ],
       "imageUrl": "/images/Піноккіо.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=9sM3f1JUUU0&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
       "videoUrls": [
-        "https://www.youtube.com/watch?v=9sM3f1JUUU0&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
         "https://www.youtube.com/watch?v=NBsYnMSuELc&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
         "https://www.youtube.com/watch?v=ufKTsOVApgo&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
         "https://www.youtube.com/watch?v=-u0xU8ldTa8&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
@@ -202,7 +200,7 @@
       "subcategory": "Ballette",
       "title": "'Was der Wind mitgebracht hat...'",
       "year": "2005",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Те_що_приніс_вітер.jpg",
       "videoUrl": ""
     },
@@ -213,7 +211,7 @@
       "title": "'Der Weg zum Hopak'",
       "year": "2005",
       "description": [
-        "Yuri Valentinovich arbeitete viele Jahre mit dem berühmten Tanzensemble 'SHUMKA' aus Edmonton, Kanada, zusammen.",
+        "Yuri Shevchenko arbeitete viele Jahre mit dem berühmten Tanzensemble 'SHUMKA' aus Edmonton, Kanada, zusammen.",
         "Die Premiere fand 2005 in Ottawa statt."
       ],
       "productionTeam": [
@@ -231,7 +229,7 @@
       "subcategory": "",
       "title": "'Zwei Hasen jagen'. Suite aus dem Ballett",
       "year": "",
-      "description": "'Zwei Hasen jagen'",
+      "description": "",
       "list": [
         "Holohvastov",
         "Morgenglocken",
@@ -303,7 +301,7 @@
       "subcategory": "",
       "title": "'Shumka - Hopak'",
       "year": "",
-      "description": "'Schumka - Hopak'",
+      "description": "",
       "list": [
         "Schumka - Hopak NSO der Ukraine, Dirigent V. Kozhukhar",
         "Schumka-Hopak Ausführung von Mykola Lysenko (Kyiv Fantastisches Orchester), Oleh Kuntiy (NAONI)"
@@ -319,48 +317,30 @@
       "subcategory": "",
       "title": "'Schtschedryk'",
       "year": "",
-      "description": "Schtschedryk ('Carol of the Bells')",
+      "description": "",
       "imageUrl": "/images/Щедрик.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=9xlquJzAcQ8&ab_channel=DilyaverOsman",
       "embedVideo": true
     },
     {
-      "id": "work18",
-      "category": "Kammerorchester",
+      "id": "work31",
+      "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
-      "title": "'Batyars Lied'",
+      "title": "'Kadenz'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/Батярська_Пісня.jpg",
-      "videoUrl": ""
+      "description": "",
+      "imageUrl": "/images/Каданс.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=hEJhDQ2tCEQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
     },
-    {
-      "id": "work19",
-      "category": "Kammerorchester",
-      "subcategory": "",
-      "title": "'Der Sternenjunge'",
-      "year": "",
-      "description": "Der Sternenjunge",
-      "imageUrl": "/images/Зоряний_хлопчик.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work20",
-      "category": "Kammerorchester",
-      "subcategory": "",
-      "title": "'Consodance'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/Консоданс.jpg",
-      "videoUrl": ""
-    },
+
     {
       "id": "work21",
       "category": "Kammerorchester",
       "subcategory": "",
       "title": "'Louises Musik'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Музика_Луїзи.jpg",
       "videoUrl": ""
     },
@@ -370,7 +350,7 @@
       "subcategory": "",
       "title": "'Pastorale Suite'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Пасторальна_сюїта.jpg",
       "videoUrl": ""
     },
@@ -512,15 +492,14 @@
       "embedVideo": false
     },
     {
-      "id": "work31",
-      "category": "Werke für Instrumente mit Orchester",
+      "id": "work19",
+      "category": "Kammerorchester",
       "subcategory": "",
-      "title": "'Kadenz'",
+      "title": "'Der Sternenjunge'",
       "year": "",
-      "description": "Kadenz",
-      "imageUrl": "/images/Каданс.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=hEJhDQ2tCEQ&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
-      "embedVideo": true
+      "description": "Der Sternenjunge",
+      "imageUrl": "/images/Зоряний_хлопчик.jpg",
+      "videoUrl": ""
     },
     {
       "id": "work32",
