@@ -489,10 +489,14 @@
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Vokalise' für Trompete und Streicher",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "year": "2011",
+      "description": [
+        "Vokalise (Zum Gedenken an einen Freund).",
+        "Dieses Musikstück wurde 2011 von Yuri Shevchenko zum Gedenken an seinen engen Freund, den Dirigenten Serhiy Malovany, geschaffen."
+      ],
       "imageUrl": "/images/Вокаліз_для_труби_і_струнних.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=oidMzHbH1jc",
+      "embedVideo": true
     },
     {
       "id": "work28",

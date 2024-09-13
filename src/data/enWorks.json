@@ -487,10 +487,14 @@
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
       "title": "'Vocalise' for Trumpet and Strings",
-      "year": "",
-      "description": "Description of the work...",
+      "year": "2011",
+      "description": [
+        "Vocalise (In Memory of a Friend).",
+        "This musical piece was created by Yuri Shevchenko in 2011 in memory of his close friend, conductor Serhiy Malovany."
+      ],
       "imageUrl": "/images/Вокаліз_для_труби_і_струнних.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=oidMzHbH1jc",
+      "embedVideo": true
     },
     {
       "id": "work28",
