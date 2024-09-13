@@ -108,7 +108,7 @@
       "embedVideo": true
     },
     {
-      "id": "work7",
+      "id": "work6",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "'Kobzar'. Kantate-Ballett",
@@ -123,7 +123,7 @@
       "embedVideo": true
     },
     {
-      "id": "work8",
+      "id": "work7",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "„Katrusia“",
@@ -151,7 +151,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work9",
+      "id": "work8",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "'Perun'",
@@ -173,7 +173,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work10",
+      "id": "work9",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "„Die Jahreszeiten“. Folkloristische Symphonisch-Choreographische Suite",
@@ -200,7 +200,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work11",
+      "id": "work10",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "«Die Abenteuer von Pinocchio» (Buratino und die Zaubergeige)",
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "id": "work12",
+      "id": "work11",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "'Aschenputtel'",
@@ -242,7 +242,7 @@
       "embedVideo": false
     },
     {
-      "id": "work13",
+      "id": "work12",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "'Was der Wind mitgebracht hat...'",
@@ -252,7 +252,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work6",
+      "id": "work13",
       "category": "Musiktheaterwerke",
       "subcategory": "Ballette",
       "title": "'Der Weg zum Hopak'",
@@ -322,7 +322,7 @@
       "embedVideo": true
     },
     {
-      "id": "work151",
+      "id": "work16",
       "category": "Symphonieorchester",
       "subcategory": "",
       "title": "«Kobzar». Symphonisch-Chorische Fresken",
@@ -343,7 +343,7 @@
       "embedVideo": true
     },
     {
-      "id": "work16",
+      "id": "work17",
       "category": "Symphonieorchester",
       "subcategory": "",
       "title": "'Shumka - Hopak'",
@@ -359,7 +359,7 @@
       "videoUrls": ["https://www.youtube.com/watch?v=gyhKA2LOBHo"]
     },
     {
-      "id": "work17",
+      "id": "work18",
       "category": "Symphonieorchester",
       "subcategory": "",
       "title": "'Schtschedryk'",
@@ -370,7 +370,7 @@
       "embedVideo": true
     },
     {
-      "id": "work31",
+      "id": "work19",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Kadenz'",
@@ -382,7 +382,7 @@
     },
 
     {
-      "id": "work21",
+      "id": "work20",
       "category": "Kammerorchester",
       "subcategory": "",
       "title": "'Louises Musik'",
@@ -392,7 +392,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work22",
+      "id": "work21",
       "category": "Kammerorchester",
       "subcategory": "",
       "title": "'Pastorale Suite'",
@@ -402,7 +402,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work23",
+      "id": "work22",
       "category": "Kammerorchester",
       "subcategory": "",
       "title": "'Kreuzwege'",
@@ -422,12 +422,12 @@
       "embedVideo": true
     },
     {
-      "id": "work35",
+      "id": "work23",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "3/4 'soundtrack für einen unbekannten Film'",
       "year": "",
-      "description": "3/4 'soundtrack für einen unbekannten Film'",
+      "description": "",
       "imageUrl": "/images/Саундтрек.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=B7ihoVQfy1I&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
       "embedVideo": true
@@ -438,7 +438,7 @@
       "subcategory": "",
       "title": "'Batyar-Lieder'",
       "year": "",
-      "description": "Batyar-Lieder",
+      "description": "",
       "list": [
         "Nur in Lwiw",
         "Dort beim Ball der Veteranen",
@@ -462,7 +462,7 @@
       "subcategory": "",
       "title": "'Wiener Salat'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "",
       "imageUrl": "/images/Віденський_салат.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=DeRtC8XdHGI&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
       "embedVideo": true,
@@ -511,7 +511,7 @@
       "subcategory": "",
       "title": "'Humoreske'",
       "year": "",
-      "description": "Humoreske",
+      "description": "",
       "imageUrl": "/images/Гумореска.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=ss9bgln6Px4&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
       "embedVideo": true
@@ -528,28 +528,28 @@
       "embedVideo": true
     },
     {
-      "id": "work301",
+      "id": "work31",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "«Gelb-blaue Pusteblume»",
       "year": "2020",
-      "description": "Gelb-blaue Pusteblume.",
+      "description": "",
       "imageUrl": "/images/Кульбабка.jpg",
       "videoUrl": "",
       "embedVideo": false
     },
     {
-      "id": "work19",
+      "id": "work32",
       "category": "Kammerorchester",
       "subcategory": "",
       "title": "'Der Sternenjunge'",
       "year": "",
-      "description": "Der Sternenjunge",
+      "description": "",
       "imageUrl": "/images/Зоряний_хлопчик.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work32",
+      "id": "work33",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "«Konzertfantasie»",
@@ -560,7 +560,7 @@
       "embedVideo": true
     },
     {
-      "id": "work33",
+      "id": "work34",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Liebeswahnsinn'",
@@ -572,7 +572,7 @@
       "embedVideo": true
     },
     {
-      "id": "work34",
+      "id": "work35",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "«Wir Existieren!»",
@@ -587,11 +587,12 @@
       "embedVideo": true,
       "videoUrls": [
         "https://www.youtube.com/watch?v=smFmruQlpDQ&ab_channel=AndriiMurza",
-        "https://www.youtube.com/watch?v=GbKOKiEBIdY&ab_channel=KyryloBondar"
+        "https://www.youtube.com/watch?v=GbKOKiEBIdY&ab_channel=KyryloBondar",
+        "https://www.youtube.com/watch?v=Yszi3f62ua0&ab_channel=EdmontonSymphonyOrchestra"
       ]
     },
     {
-      "id": "work341",
+      "id": "work36",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "«Was für eine Nacht...» für Violine und Orchester",
@@ -603,38 +604,38 @@
     },
 
     {
-      "id": "work36",
+      "id": "work37",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Alte Welt Elegie'",
       "year": "",
-      "description": "Alte Welt Elegie",
+      "description": "",
       "imageUrl": "/images/Старосвітська_елегія.jpg",
       "videoUrl": ""
-    },
-    {
-      "id": "work37",
-      "category": "Werke für Instrumente mit Orchester",
-      "subcategory": "",
-      "title": "'Warmer Regen'",
-      "year": "",
-      "description": "Warmer Regen",
-      "imageUrl": "/images/Теплий_дощ.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=o93MKA5n7IA&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
-      "embedVideo": true
     },
     {
       "id": "work38",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
+      "title": "'Warmer Regen'",
+      "year": "",
+      "description": "",
+      "imageUrl": "/images/Теплий_дощ.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=o93MKA5n7IA&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+    {
+      "id": "work39",
+      "category": "Werke für Instrumente mit Orchester",
+      "subcategory": "",
       "title": "'Du wanderst Tag und Nacht'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/и_гуляєш_дні_і_ночі.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work39",
+      "id": "work40",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Drei Porträts' aus dem Ballett 'Zwei Hasen jagen'",
@@ -649,7 +650,7 @@
       ]
     },
     {
-      "id": "work40",
+      "id": "work41",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
       "title": "'Lehrer und Schüler'. Concertino",
@@ -661,17 +662,17 @@
       "embedVideo": true
     },
     {
-      "id": "work41",
+      "id": "work42",
       "category": "Orchester der Volksinstrumente",
       "subcategory": "",
       "title": "'Vesnianka'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Веснянка.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work411",
+      "id": "work43",
       "category": "Orchester der Volksinstrumente",
       "subcategory": "",
       "title": "«Humoreske»",
@@ -682,59 +683,59 @@
       "embedVideo": true
     },
     {
-      "id": "work42",
+      "id": "work44",
       "category": "Orchester der Volksinstrumente",
       "subcategory": "",
       "title": "'Weg' (e-Moll)",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Дорога_мі-мінор.jpg",
       "videoUrl": ""
-    },
-    {
-      "id": "work43",
-      "category": "Orchester der Volksinstrumente",
-      "subcategory": "",
-      "title": "'Elegie' (e-Moll)",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/Елегія_мі-мінор.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work431",
-      "category": "Orchester der Volksinstrumente",
-      "subcategory": "",
-      "title": "«Schneesturm»",
-      "year": "",
-      "description": "«Schneesturm»",
-      "imageUrl": "/images/Завірюха.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=7DzZ_1mjbJQ&ab_channel=YuriyShevchenko",
-      "embedVideo": true
-    },
-    {
-      "id": "work44",
-      "category": "Orchester der Volksinstrumente",
-      "subcategory": "",
-      "title": "'Der verliebte Bandurist' für Bandura",
-      "year": "",
-      "description": "Der verliebte Bandurist' für Bandura",
-      "imageUrl": "/images/Закоханий_бандурист.jpg",
-      "videoUrl": "https://www.youtube.com/watch?v=IsgVAAeoEX8&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
-      "embedVideo": true
     },
     {
       "id": "work45",
       "category": "Orchester der Volksinstrumente",
       "subcategory": "",
+      "title": "'Elegie' (e-Moll)",
+      "year": "",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
+      "imageUrl": "/images/Елегія_мі-мінор.jpg",
+      "videoUrl": ""
+    },
+    {
+      "id": "work46",
+      "category": "Orchester der Volksinstrumente",
+      "subcategory": "",
+      "title": "«Schneesturm»",
+      "year": "",
+      "description": "",
+      "imageUrl": "/images/Завірюха.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=7DzZ_1mjbJQ&ab_channel=YuriyShevchenko",
+      "embedVideo": true
+    },
+    {
+      "id": "work47",
+      "category": "Orchester der Volksinstrumente",
+      "subcategory": "",
+      "title": "'Der verliebte Bandurist' für Bandura",
+      "year": "",
+      "description": "",
+      "imageUrl": "/images/Закоханий_бандурист.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=IsgVAAeoEX8&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true
+    },
+    {
+      "id": "work48",
+      "category": "Orchester der Volksinstrumente",
+      "subcategory": "",
       "title": "'Paraphrase über ein ukrainisches Thema'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Парафраз_на_укр_тему.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work451",
+      "id": "work49",
       "category": "Orchester der Volksinstrumente",
       "subcategory": "",
       "title": "«Lied»",
@@ -745,37 +746,27 @@
       "embedVideo": true
     },
     {
-      "id": "work46",
+      "id": "work50",
       "category": "Orchester der Volksinstrumente",
       "subcategory": "",
       "title": "'Stück' für Akkordeon",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/П'єса_для_баяна.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work47",
+      "id": "work51",
       "category": "Orchester der Volksinstrumente",
       "subcategory": "",
       "title": "'Tanz' für Akkordeon",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Танок_для_баяна.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work66",
-      "category": "Vokalkompositionen",
-      "subcategory": "",
-      "title": "'5 Teile' aus der Aufführung 'Wahnsinn der Liebe'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/5_частин_з_вистави_Шаленство_Кохання.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work662",
+      "id": "work52",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "«Stolzes Land der Armen»",
@@ -786,7 +777,7 @@
       "embedVideo": true
     },
     {
-      "id": "work661",
+      "id": "work53",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "«Meine Gedanken, meine Gedanken»",
@@ -797,7 +788,7 @@
       "embedVideo": true
     },
     {
-      "id": "work68",
+      "id": "work54",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'Goldener Mond'",
@@ -814,7 +805,7 @@
       ]
     },
     {
-      "id": "work67",
+      "id": "work55",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'Wir sind keusch und unschuldig'",
@@ -828,7 +819,7 @@
       "embedVideo": true
     },
     {
-      "id": "work675",
+      "id": "work56",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "„In der Sprache einer Mutter“",
@@ -842,7 +833,7 @@
       "embedVideo": true
     },
     {
-      "id": "work671",
+      "id": "work57",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "«Das Lied des Arztes»",
@@ -856,7 +847,7 @@
       "embedVideo": true
     },
     {
-      "id": "work69",
+      "id": "work58",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'Charmante Katrin'",
@@ -870,7 +861,7 @@
       ]
     },
     {
-      "id": "work672",
+      "id": "work59",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "«Erasts Romanze»",
@@ -885,26 +876,26 @@
     },
 
     {
-      "id": "work70",
+      "id": "work60",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'Sonne-Jarylo'. Kantate für Kinderchor",
       "year": "1993",
-      "description": "Музичне дійство для дитячого хору. Вірші Тамари Кокоші",
+      "description": "Ein musikalisches Werk für Kinderchor. Texte von Tamara Kokosha",
       "list": [
-        "Сонце Ярило",
-        "Вітер - Чаклун",
-        "Молитва",
-        "Гроза",
-        "Ніч",
-        "Купало",
-        "Фінал"
+        "Sonne Jarilo",
+        "Der Wind - Zauberer",
+        "Gebet",
+        "Sturm",
+        "Nacht",
+        "Kupalo",
+        "Finale"
       ],
       "imageUrl": "/images/Сонце-Ярило.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work71",
+      "id": "work61",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "'Drei Lieder' auf Gedichte von H. Alekseeva",
@@ -920,7 +911,7 @@
       ]
     },
     {
-      "id": "work716",
+      "id": "work62",
       "category": "Vokalkompositionen",
       "subcategory": "",
       "title": "„Ich kehre nach Petschersk zurück“",
@@ -931,17 +922,17 @@
       "embedVideo": true
     },
     {
-      "id": "work48",
+      "id": "work63",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Bojaryna'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Бояриня.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work49",
+      "id": "work64",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Hamlet'",
@@ -956,7 +947,7 @@
       "embedVideo": true
     },
     {
-      "id": "work50",
+      "id": "work65",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Don Juan'",
@@ -976,7 +967,7 @@
       "embedVideo": true
     },
     {
-      "id": "work51",
+      "id": "work66",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Don Quijote. 1938'",
@@ -997,7 +988,7 @@
       "embedVideo": true
     },
     {
-      "id": "work511",
+      "id": "work67",
       "category": "Musik für Theateraufführungen",
       "subcategory": "2006",
       "title": "«Ach, Musketiere, Musketiere…»",
@@ -1012,7 +1003,7 @@
       "embedVideo": true
     },
     {
-      "id": "work512",
+      "id": "work68",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«Fettes Schwein»",
@@ -1031,17 +1022,7 @@
       "embedVideo": false
     },
     {
-      "id": "work52",
-      "category": "Musik für Theateraufführungen",
-      "subcategory": "",
-      "title": "'Mit Ihnen ist es gefährlich zu tun haben'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
-      "imageUrl": "/images/З_вами_небезпечно_мати_справу.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work53",
+      "id": "work69",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«Winterabend»",
@@ -1052,7 +1033,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work531",
+      "id": "work70",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«Die Distelblume»",
@@ -1069,7 +1050,7 @@
       "embedVideo": true
     },
     {
-      "id": "work54",
+      "id": "work71",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«Waldlied»",
@@ -1083,7 +1064,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work55",
+      "id": "work72",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Napoleon und die Korsin'",
@@ -1100,12 +1081,12 @@
         "Kostüme — David Borowsky, Walentyna Plawun",
         "Choreograf — Alla Rubina"
       ],
-      "imageUrl": "/images/Napoleon_und_die_Korsin.jpg",
+      "imageUrl": "/images/Наполеон_та_корсиканка.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=-pxvkiZKB7M&ab_channel=TeatrLesjaUkrainka",
       "embedVideo": true
     },
     {
-      "id": "work56",
+      "id": "work73",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«Mein spöttisches Glück»",
@@ -1124,7 +1105,7 @@
       "videoUrl": "https://lesyatheatre.com.ua/ukr/plays/nasmeshlivoe_moe_schaste"
     },
     {
-      "id": "work57",
+      "id": "work74",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«Die Frau des Ministers»",
@@ -1145,7 +1126,7 @@
       "embedVideo": false
     },
     {
-      "id": "work59",
+      "id": "work75",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«Pathetische Sonate»",
@@ -1156,7 +1137,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work60",
+      "id": "work76",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Kreuzende Pfade'",
@@ -1172,23 +1153,24 @@
         "Szenografie und Kostüme: Andriy Aleksandrovych"
       ],
       "imageUrl": "/images/Перехресні_стежки.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=YU0UX6novQM&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
+      "embedVideo": true,
       "videoUrls": [
-        "https://www.youtube.com/watch?v=YU0UX6novQM&ab_channel=%D0%AE%D1%80%D1%96%D0%B9%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE",
         "https://www.youtube.com/watch?v=2LWaFq4vuKo&ab_channel=%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D1%96%D0%BC%D0%B5%D0%BD%D1%96%D0%86%D0%B2%D0%B0%D0%BD%D0%B0%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0"
       ]
     },
     {
-      "id": "work61",
+      "id": "work77",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Schnecke und ihr Häuschen'",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
       "imageUrl": "/images/Равлинка_та_її_хатинка.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work62",
+      "id": "work78",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«Rosmersholm»",
@@ -1199,7 +1181,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work622",
+      "id": "work79",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«Satisfaktion»",
@@ -1220,7 +1202,7 @@
       "embedVideo": true
     },
     {
-      "id": "work621",
+      "id": "work80",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«So ist ihr Schicksal»",
@@ -1236,7 +1218,7 @@
       "embedVideo": true
     },
     {
-      "id": "work623",
+      "id": "work81",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«Am Sonntagmorgen grub sie Kräuter…»",
@@ -1254,7 +1236,7 @@
       "embedVideo": false
     },
     {
-      "id": "work63",
+      "id": "work82",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "'Wahnsinn der Liebe'",
@@ -1274,7 +1256,7 @@
       "embedVideo": true
     },
     {
-      "id": "work64",
+      "id": "work83",
       "category": "Musik für Theateraufführungen",
       "subcategory": "1995",
       "title": "'Die Schule des Skandals'",
@@ -1291,7 +1273,7 @@
       "embedVideo": true
     },
     {
-      "id": "work65",
+      "id": "work84",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
       "title": "«Reigen der Liebe»",
@@ -1310,7 +1292,7 @@
       "embedVideo": true
     },
     {
-      "id": "work773",
+      "id": "work85",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Film",
       "title": "«Die Stadt des Erzengels Michael»",
@@ -1324,165 +1306,192 @@
       "embedVideo": true
     },
     {
-      "id": "work72",
+      "id": "work86",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Film",
-      "title": "'Das letzte Herbstblatt' (Kurzfilm)",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "title": "„Das letzte Herbstblatt“ (Kurzfilm)",
+      "year": "2005",
+      "description": [
+        "Ein Melodrama nach der Novelle „Das letzte Blatt“ von O. Henry. Regie führte Wolodymyr Schilko. In dem Film spielen bekannte ukrainische Schauspieler: Oleksiy Vertynskyi, Oleg Drach und die Primaballerina des Nationalen Ukrainischen Operntheaters, Kateryna Kozachenko.",
+        "Der ukrainische Film „Das letzte Herbstblatt“ wurde mit dem zweiten Preis beim Kurzfilmwettbewerb des GAFFERS International Film Festival (Global Art Film Festival – Experience and Repertory Sacramento) in Sacramento, Kalifornien, ausgezeichnet, das vom 3. bis 17. Juni 2006 stattfand."
+      ],
       "imageUrl": "/images/Останній_осінній_листок.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work73",
+      "id": "work87",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Film",
-      "title": "'Wochenendausflug'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "title": "«Wochenendromanze»",
+      "year": "2009",
+      "description": "Melodrama, Komödie",
+      "productionTeam": [
+        "Regisseur: Wolodymyr Schilko",
+        "Drehbuchautor: Andrii Maksymenko",
+        "Kameramann: Serhii Riabets",
+        "Szenenbildnerin: Larysa Schilko"
+      ],
       "imageUrl": "/images/Роман_вихідного_дня.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=vm9_zwBEbg8",
+      "embedVideo": true
     },
     {
-      "id": "work74",
+      "id": "work88",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
-      "subcategory": "Film",
-      "title": "'Löwenzahnblüte'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "subcategory": "Filme",
+      "title": "„Löwenzahnblüte“",
+      "year": "1992",
+      "description": "Drama. Dowschenko Filmstudio",
+      "productionTeam": [
+        "Regisseur: Oleksandr Ihnatusha",
+        "Drehbuchautor: Oleh Martiyan",
+        "Kameramann: Vadym Illienko"
+      ],
       "imageUrl": "/images/Цвітіння_кульбаби.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work75",
+      "id": "work89",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Spring zur Wolke'",
       "year": "1988",
-      "description": "Spring zur Wolke. Kyivnaukfilm (1988)",
+      "description": "Kyivnaukfilm 1988",
       "imageUrl": "/images/Дострибни_до_хмаринки.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=k6BjJGFIlT0&ab_channel=uacartoons",
       "embedVideo": true
     },
     {
-      "id": "work76",
+      "id": "work90",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Der Lachende Topf'",
       "year": "1990",
-      "description": "'Der lachende Topf'. Kyivnaukfilm 1990.",
+      "description": "Kyivnaukfilm 1990",
       "imageUrl": "/images/Горщик-сміхотун.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=DyiWgbv4-Uk&ab_channel=uacartoons",
       "embedVideo": true
     },
     {
-      "id": "work77",
+      "id": "work91",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Der Igel und das Mädchen'",
       "year": "1988",
-      "description": "Der Igel und das Mädchen. Kyivnaukfilm 1988.",
+      "description": "Kyivnaukfilm 1988",
       "imageUrl": "/images/Їжачок_і_дівчинка.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=YlGrbPmClts&ab_channel=%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%D0%B6%D0%B0%D0%BD%D1%80%D0%B0",
       "embedVideo": true
     },
     {
-      "id": "work78",
+      "id": "work92",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Die Geschichte vom Mädchen, das auf Brot trat'",
       "year": "1988",
-      "description": "Die Geschichte vom Mädchen, das auf Brot trat. Kyivnaukfilm, 1988.",
+      "description": "Kyivnaukfilm 1988",
       "imageUrl": "/images/Історія_про_дівчинку_яка_наступила_на_хліб.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=SJoHfnm5cJQ&ab_channel=%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%8C%D0%BA%D0%B0%D0%B0%D0%B3%D0%B5%D0%BD%D1%86%D1%96%D1%8F%D0%9D%D0%B0%D1%88%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82",
       "embedVideo": true
     },
     {
-      "id": "work79",
+      "id": "work93",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Ivasyk-Telesyk'",
       "year": "1989",
-      "description": "'Ivasyk-Telesyk', Kyivnaukfilm, 1989.",
+      "description": "Kyivnaukfilm, 1989",
       "imageUrl": "/images/Івасик-Телесик.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=6bHYDOvel3s&ab_channel=uacartoons",
       "embedVideo": true
     },
     {
-      "id": "work81",
+      "id": "work94",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Das Kätzchen und der Hahn'",
       "year": "1991",
-      "description": "'Das Kätzchen und der Hahn'. Ukranimafilm, 1991.",
+      "description": "Ukranimafilm 1991",
       "imageUrl": "/images/Котик_та_півник.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=cevj0GkKCE8&ab_channel=uacartoons",
       "embedVideo": true
     },
     {
-      "id": "work82",
+      "id": "work95",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Das hinkende Entlein'",
       "year": "1992",
-      "description": "'Das hinkende Entlein'. Ukranimafilm, 1992.",
+      "description": "Ukranimafilm 1992",
       "imageUrl": "/images/Кривенька_качечка.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=LUQaU_rkiMI&ab_channel=uacartoons",
       "embedVideo": true
     },
     {
-      "id": "work83",
+      "id": "work96",
       "category": "Filmmusik und Musik für Zeichentrickfilme",
       "subcategory": "Zeichentrickfilme",
       "title": "'Kleine Fröste'",
       "year": "1986",
-      "description": "'Kleine Fröste'. Kyivnaukfilm, 1986.",
+      "description": "Kyivnaukfilm 1986",
       "imageUrl": "/images/Морозики-морози.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=5_QQG363_Dw&ab_channel=%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0%D0%B6%D0%B0%D0%BD%D1%80%D0%B0",
       "embedVideo": true
     },
     {
-      "id": "work85",
+      "id": "work97",
       "category": "Hörspiele",
       "subcategory": "",
-      "title": "'Giordano Bruno'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "title": "«Giordano Bruno»",
+      "year": "1987",
+      "description": "Anatolii Krym",
+      "productionTeam": ["Moderatorin – Nataliia Kolomiiets"],
       "imageUrl": "/images/Джордано_Бруно.jpg",
-      "videoUrl": ""
+      "videoUrl": "http://www.nrcu.gov.ua/prog.html?id=172&page=33",
+      "audioUrl": "http://www.nrcu.gov.ua/audio_slice/AIR-UR3/20220203/3058944.mp3"
     },
     {
-      "id": "work86",
+      "id": "work98",
       "category": "Hörspiele",
       "subcategory": "",
-      "title": "'Die Verteidigung von Busha'",
+      "title": "«Die Verteidigung von Busch»",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Mykhailo Staryzkyj. Ein Hörspiel basierend auf einer historischen Abenteuer-Romanze.",
+      "productionTeam": ["Moderatorin – Svitlana Hudz-Voitenko"],
       "imageUrl": "/images/Оборона_Буші.jpg",
-      "videoUrl": ""
+      "videoUrl": "http://nrcu.gov.ua/channel.html?channelID=3&progID=627&sliderIndex=27&date=2024-08-04&page=15",
+      "audioUrl": "http://nrcu.gov.ua/audio_slice/AIR-UR3/20220122/3046476.mp3"
     },
     {
-      "id": "work87",
+      "id": "work99",
       "category": "Hörspiele",
       "subcategory": "",
-      "title": "'Auf dem Weg ins Märchen'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "title": "«Auf dem Weg ins Märchen»",
+      "year": "1989",
+      "description": "Oleksandr Oles, Drama",
+      "productionTeam": ["Moderatorin – Olha Lihus"],
       "imageUrl": "/images/По_дорозі_у_казку.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://4read.org/1937-oles-oleksandr-po-doroz-v-kazku.html#google_vignette",
+      "audioUrl": "https://reasd.org/1937/По дорозі в казку.mp3"
     },
     {
-      "id": "work88",
+      "id": "work100",
       "category": "Hörspiele",
       "subcategory": "",
-      "title": "'Schnee in Florenz'",
-      "year": "",
-      "description": "Beschreibung des Werkes...",
+      "title": "«Schnee in Florenz»",
+      "year": "1985",
+      "description": "Lina Kostenko, dramatisches Gedicht",
+      "productionTeam": ["Moderatorin – Nataliia Kolomiiets"],
       "imageUrl": "/images/Сніг_у_Флоренції.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://ukr.radio/schedule/play-archive.html?periodItemID=2187648",
+      "embedVideo": false,
+      "videoUrls": [
+        "https://4read.org/2067-kostenko-lyna-snyg-u-florencyyi.html"
+      ],
+      "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20190320/2187648.mp3"
     },
     {
-      "id": "work89",
+      "id": "work101",
       "category": "Hörspiele",
       "subcategory": "",
       "title": "'Solo für Flöte'",
@@ -1492,17 +1501,18 @@
       "videoUrl": ""
     },
     {
-      "id": "work90",
+      "id": "work102",
       "category": "Hörspiele",
       "subcategory": "",
-      "title": "'Die Wand'",
+      "title": "«Die Mauer»",
       "year": "",
-      "description": "Beschreibung des Werkes...",
+      "description": "Yurii Schtscherbak, Drama. Aufnahme aus dem Fonds des ukrainischen Radios 2013",
       "imageUrl": "/images/Стіна.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://ukr.radio/schedule/play-archive.html?periodItemID=3775709",
+      "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20240303/3775709.mp3"
     },
     {
-      "id": "work91",
+      "id": "work103",
       "category": "Hörspiele",
       "subcategory": "",
       "title": "«Am Sonntagmorgen grub sie Kräuter...»",

@@ -108,7 +108,7 @@
     },
 
     {
-      "id": "work7",
+      "id": "work6",
       "category": "Музично-театральні твори",
       "subcategory": "Балети",
       "title": "«Кобзар». Кантата-Балет",
@@ -123,7 +123,7 @@
       "embedVideo": true
     },
     {
-      "id": "work8",
+      "id": "work7",
       "category": "Музично-театральні твори",
       "subcategory": "Балети",
       "title": "«Катруся»",
@@ -151,7 +151,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work9",
+      "id": "work8",
       "category": "Музично-театральні твори",
       "subcategory": "Балети",
       "title": "«Перун»",
@@ -172,7 +172,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work10",
+      "id": "work9",
       "category": "Музично-театральні твори",
       "subcategory": "Балети",
       "title": "«Пори року». Фольклорна симфонічно-хореографічна сюїта",
@@ -199,7 +199,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work11",
+      "id": "work10",
       "category": "Музично-театральні твори",
       "subcategory": "Балети",
       "title": "«Пригоди Піноккіо» (Буратіно та Чарівна Скрипка)",
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "id": "work12",
+      "id": "work11",
       "category": "Музично-театральні твори",
       "subcategory": "Балети",
       "title": "«Сіндерела»",
@@ -241,7 +241,7 @@
       "embedVideo": false
     },
     {
-      "id": "work13",
+      "id": "work12",
       "category": "Музично-театральні твори",
       "subcategory": "Балети",
       "title": "«Те, що приніс вітер...»",
@@ -251,7 +251,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work6",
+      "id": "work13",
       "category": "Музично-театральні твори",
       "subcategory": "Балети",
       "title": "«Шлях до Гопаку»",
@@ -321,7 +321,7 @@
       "embedVideo": true
     },
     {
-      "id": "work151",
+      "id": "work16",
       "category": "Симфонічний оркестр",
       "subcategory": "",
       "title": "«Кобзар» . Симфонічно-хорові фрески",
@@ -342,7 +342,7 @@
       "embedVideo": true
     },
     {
-      "id": "work16",
+      "id": "work17",
       "category": "Симфонічний оркестр",
       "subcategory": "",
       "title": "«Шумка - Гопак»",
@@ -358,7 +358,7 @@
       "videoUrls": ["https://www.youtube.com/watch?v=gyhKA2LOBHo"]
     },
     {
-      "id": "work17",
+      "id": "work18",
       "category": "Симфонічний оркестр",
       "subcategory": "",
       "title": "«Щедрик»",
@@ -369,7 +369,7 @@
       "embedVideo": true
     },
     {
-      "id": "work31",
+      "id": "work19",
       "category": "Камерний оркестр",
       "subcategory": "",
       "title": "«Каданс»",
@@ -381,7 +381,7 @@
     },
 
     {
-      "id": "work21",
+      "id": "work20",
       "category": "Камерний оркестр",
       "subcategory": "",
       "title": "«Музика Луїзи»",
@@ -391,7 +391,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work22",
+      "id": "work21",
       "category": "Камерний оркестр",
       "subcategory": "",
       "title": "«Пасторальна сюїта»",
@@ -401,7 +401,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work23",
+      "id": "work22",
       "category": "Камерний оркестр",
       "subcategory": "",
       "title": "«Перехресні стежки»",
@@ -421,7 +421,7 @@
       "embedVideo": true
     },
     {
-      "id": "work35",
+      "id": "work23",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«3/4 саундтрек до невідомого фільму»",
@@ -527,7 +527,7 @@
       "embedVideo": true
     },
     {
-      "id": "work301",
+      "id": "work31",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Жовто-блакитна кульбабка»",
@@ -538,7 +538,7 @@
       "embedVideo": false
     },
     {
-      "id": "work19",
+      "id": "work32",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Зоряний хлопчик»",
@@ -549,7 +549,7 @@
     },
 
     {
-      "id": "work32",
+      "id": "work33",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Концертна фантазія»",
@@ -560,7 +560,7 @@
       "embedVideo": true
     },
     {
-      "id": "work33",
+      "id": "work34",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Любовне божевілля»",
@@ -572,7 +572,7 @@
       "embedVideo": true
     },
     {
-      "id": "work34",
+      "id": "work35",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Ми Є!»",
@@ -587,11 +587,12 @@
       "embedVideo": true,
       "videoUrls": [
         "https://www.youtube.com/watch?v=smFmruQlpDQ&ab_channel=AndriiMurza",
-        "https://www.youtube.com/watch?v=GbKOKiEBIdY&ab_channel=KyryloBondar"
+        "https://www.youtube.com/watch?v=GbKOKiEBIdY&ab_channel=KyryloBondar",
+        "https://www.youtube.com/watch?v=Yszi3f62ua0&ab_channel=EdmontonSymphonyOrchestra"
       ]
     },
     {
-      "id": "work341",
+      "id": "work36",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Ніч яка..» для скрипки з оркестром",
@@ -603,7 +604,7 @@
     },
 
     {
-      "id": "work36",
+      "id": "work37",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Старосвітська елегія»",
@@ -613,7 +614,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work37",
+      "id": "work38",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Теплий дощ»",
@@ -624,17 +625,17 @@
       "embedVideo": true
     },
     {
-      "id": "work38",
+      "id": "work39",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Ти гуляєш дні і ночі»",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Ми працюємо над цією сторінкою, слідкуйте за оновленнями!",
       "imageUrl": "/images/и_гуляєш_дні_і_ночі.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work39",
+      "id": "work40",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Три Портрети» з балету «За двома зайцями»",
@@ -649,7 +650,7 @@
       ]
     },
     {
-      "id": "work40",
+      "id": "work41",
       "category": "Твори для інструментів з оркестром",
       "subcategory": "",
       "title": "«Учитель та учень». Концертино",
@@ -661,17 +662,17 @@
       "embedVideo": true
     },
     {
-      "id": "work41",
+      "id": "work42",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
       "title": "«Веснянка»",
       "year": "",
-      "description": "Сторінка в розробці",
+      "description": "Ми працюємо над цією сторінкою, слідкуйте за оновленнями!",
       "imageUrl": "/images/Веснянка.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work411",
+      "id": "work43",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
       "title": "«Гумореска»",
@@ -682,27 +683,27 @@
       "embedVideo": true
     },
     {
-      "id": "work42",
+      "id": "work44",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
       "title": "«Дорога» (мі-мінор)",
       "year": "",
-      "description": "Сторінка в розробці",
+      "description": "Ми працюємо над цією сторінкою, слідкуйте за оновленнями!",
       "imageUrl": "/images/Дорога_мі-мінор.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work43",
+      "id": "work45",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
       "title": "«Елегія» (мі-мінор)",
       "year": "",
-      "description": "Сторінка в розробці",
+      "description": "Ми працюємо над цією сторінкою, слідкуйте за оновленнями!",
       "imageUrl": "/images/Елегія_мі-мінор.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work431",
+      "id": "work46",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
       "title": "«Завірюха»",
@@ -713,7 +714,7 @@
       "embedVideo": true
     },
     {
-      "id": "work44",
+      "id": "work47",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
       "title": "«Закоханий бандурист» для бандури",
@@ -724,17 +725,17 @@
       "embedVideo": true
     },
     {
-      "id": "work45",
+      "id": "work48",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
       "title": "«Парафраз на укр. тему»",
       "year": "",
-      "description": "Сторінка в розробці",
+      "description": "Ми працюємо над цією сторінкою, слідкуйте за оновленнями!",
       "imageUrl": "/images/Парафраз_на_укр_тему.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work451",
+      "id": "work49",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
       "title": "«Пісня»",
@@ -745,28 +746,28 @@
       "embedVideo": true
     },
     {
-      "id": "work46",
+      "id": "work50",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
       "title": "«П'єса» для баяна",
       "year": "",
-      "description": "Сторінка в розробці",
+      "description": "Ми працюємо над цією сторінкою, слідкуйте за оновленнями!",
       "imageUrl": "/images/П«єса_для_баяна.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work47",
+      "id": "work51",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
       "title": "«Танок» для баяна",
       "year": "",
-      "description": "Сторінка в розробці",
+      "description": "Ми працюємо над цією сторінкою, слідкуйте за оновленнями!",
       "imageUrl": "/images/Танок_для_баяна.jpg",
       "videoUrl": ""
     },
 
     {
-      "id": "work662",
+      "id": "work52",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "«Бідних горда сторона»",
@@ -777,7 +778,7 @@
       "embedVideo": true
     },
     {
-      "id": "work661",
+      "id": "work53",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "«Думи мої, думи»",
@@ -788,7 +789,7 @@
       "embedVideo": true
     },
     {
-      "id": "work68",
+      "id": "work54",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "«Місяць золотий»",
@@ -805,7 +806,7 @@
       ]
     },
     {
-      "id": "work67",
+      "id": "work55",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "«Ми – цнотливі і невинні»",
@@ -819,7 +820,7 @@
       "embedVideo": true
     },
     {
-      "id": "work675",
+      "id": "work56",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "«Мовою матері»",
@@ -833,7 +834,7 @@
       "embedVideo": true
     },
     {
-      "id": "work671",
+      "id": "work57",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "«Пісня Лікаря»",
@@ -847,7 +848,7 @@
       "embedVideo": true
     },
     {
-      "id": "work69",
+      "id": "work58",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "«Принадна Катрин»",
@@ -861,7 +862,7 @@
       ]
     },
     {
-      "id": "work672",
+      "id": "work59",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "«Романс Ераста»",
@@ -875,7 +876,7 @@
       "embedVideo": true
     },
     {
-      "id": "work70",
+      "id": "work60",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "«Сонце-Ярило». Кантата для дитячого хору",
@@ -894,7 +895,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work71",
+      "id": "work61",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "«Три пісні» на вірші Г. Алексеєвої",
@@ -910,7 +911,7 @@
       ]
     },
     {
-      "id": "work716",
+      "id": "work62",
       "category": "Вокальні твори",
       "subcategory": "",
       "title": "«Я повертаюсь на Печерськ»",
@@ -922,17 +923,17 @@
       "embedVideo": true
     },
     {
-      "id": "work48",
+      "id": "work63",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Бояриня»",
       "year": "",
-      "description": "Сторінка в розробці",
+      "description": "Ми працюємо над цією сторінкою, слідкуйте за оновленнями!",
       "imageUrl": "/images/Бояриня.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work49",
+      "id": "work64",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Гамлет»",
@@ -947,7 +948,7 @@
       "embedVideo": true
     },
     {
-      "id": "work50",
+      "id": "work65",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Дон Жуан»",
@@ -967,7 +968,7 @@
       "embedVideo": true
     },
     {
-      "id": "work51",
+      "id": "work66",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Дон Кіхот. 1938 рік»",
@@ -988,7 +989,7 @@
       "embedVideo": true
     },
     {
-      "id": "work511",
+      "id": "work67",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Ех, мушкетери, мушкетери…»",
@@ -1003,7 +1004,7 @@
       "embedVideo": true
     },
     {
-      "id": "work512",
+      "id": "work68",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Жирна свиня»",
@@ -1022,17 +1023,7 @@
       "embedVideo": false
     },
     {
-      "id": "work52",
-      "category": "Музика до драматичних вистав",
-      "subcategory": "",
-      "title": "«З вами небезпечно мати справу»",
-      "year": "",
-      "description": "Сторінка в розробці",
-      "imageUrl": "/images/З_вами_небезпечно_мати_справу.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work53",
+      "id": "work69",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Зимовий вечір»",
@@ -1043,13 +1034,13 @@
       "videoUrl": ""
     },
     {
-      "id": "work531",
+      "id": "work70",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Квітка Будяк»",
       "year": "",
       "description": [
-        "П’єса сучасного українського драматурга Наталії Ворожбит.",
+        "П'єса сучасного українського драматурга Наталії Ворожбит.",
         "Написана за мотивами класичного твору Миколи Куліша «Маклена Граса»."
       ],
       "productionTeam": [
@@ -1060,7 +1051,7 @@
       "embedVideo": true
     },
     {
-      "id": "work54",
+      "id": "work71",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Лісова пісня»",
@@ -1077,7 +1068,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work55",
+      "id": "work72",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Наполеон та корсиканк»",
@@ -1099,7 +1090,7 @@
       "embedVideo": true
     },
     {
-      "id": "work56",
+      "id": "work73",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Насмішкувате моє щастя»",
@@ -1119,7 +1110,7 @@
       "embedVideo": false
     },
     {
-      "id": "work57",
+      "id": "work74",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Пані міністерша»",
@@ -1140,7 +1131,7 @@
       "embedVideo": false
     },
     {
-      "id": "work59",
+      "id": "work75",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Патетична соната»",
@@ -1151,7 +1142,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work60",
+      "id": "work76",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Перехресні стежки»",
@@ -1174,17 +1165,17 @@
       ]
     },
     {
-      "id": "work61",
+      "id": "work77",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Равлинка та її хатинка»",
       "year": "",
-      "description": "Сторінка в розробці",
+      "description": "Ми працюємо над цією сторінкою, слідкуйте за оновленнями!",
       "imageUrl": "/images/Равлинка_та_її_хатинка.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work62",
+      "id": "work78",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Росмерсгольм»",
@@ -1195,7 +1186,7 @@
       "videoUrl": ""
     },
     {
-      "id": "work622",
+      "id": "work79",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Сатисфакція»",
@@ -1216,7 +1207,7 @@
       "embedVideo": true
     },
     {
-      "id": "work621",
+      "id": "work80",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Така її доля»",
@@ -1232,7 +1223,7 @@
       "embedVideo": true
     },
     {
-      "id": "work623",
+      "id": "work81",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«У неділю рано зілля копала...»",
@@ -1250,7 +1241,7 @@
       "embedVideo": false
     },
     {
-      "id": "work63",
+      "id": "work82",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Шаленство Кохання»",
@@ -1270,7 +1261,7 @@
       "embedVideo": true
     },
     {
-      "id": "work64",
+      "id": "work83",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Школа скандалу»",
@@ -1287,7 +1278,7 @@
       "embedVideo": true
     },
     {
-      "id": "work65",
+      "id": "work84",
       "category": "Музика до драматичних вистав",
       "subcategory": "",
       "title": "«Хоровод любові»",
@@ -1306,7 +1297,7 @@
       "embedVideo": true
     },
     {
-      "id": "work773",
+      "id": "work85",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Кіно",
       "title": "«Місто Архангела Михаїла»",
@@ -1320,37 +1311,52 @@
       "embedVideo": true
     },
     {
-      "id": "work72",
+      "id": "work86",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Кіно",
       "title": "«Останній осінній листок» (к/м)",
-      "year": "",
-      "description": "Опис твору...",
+      "year": "2005",
+      "description": [
+        "Мелодрама, створена за мотивами новели О'Генрі «Останній лист». Режисер - Володимир Жилко. У фільмі знялися відомі українські артисти: Олексій Вертинський,  Олег Драч і прима-балерина Національного українського оперного театру Катерина Козаченко.",
+        "Українську картину «Останній осінній листок» нагородили Другою премією в конкурсі короткометражних фільмів Міжнародного кінофестивалю GAFFERS (Global Art Film Festival – Experience and Repertory Sacramento) в Сакраменто (штат Каліфорнія), який проходив з 3 по 17 червня 2006 року."
+      ],
       "imageUrl": "/images/Останній_осінній_листок.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work73",
+      "id": "work87",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Кіно",
       "title": "«Роман вихідного дня»",
-      "year": "",
-      "description": "Опис твору...",
+      "year": "2009",
+      "description": "Мелодрама, комедія",
+      "productionTeam": [
+        "Режиссер: Володимир Жилко",
+        "Сценарист: Андрій Максименко",
+        "Оператор: Сергей Рябец",
+        "Художник: Лариса Жилко"
+      ],
       "imageUrl": "/images/Роман_вихідного_дня.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://www.youtube.com/watch?v=vm9_zwBEbg8",
+      "embedVideo": true
     },
     {
-      "id": "work74",
+      "id": "work88",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Кіно",
       "title": "«Цвітіння кульбаби»",
-      "year": "",
-      "description": "Опис твору...",
+      "year": "1992",
+      "description": "Драма. Кіностудія імені Олександра Довженка",
+      "productionTeam": [
+        "Режисер:  Олександр Ігнатуша",
+        "Сценарист  Олег Мартіян",
+        "Оператор: Вадим Іллєнко"
+      ],
       "imageUrl": "/images/Цвітіння_кульбаби.jpg",
       "videoUrl": ""
     },
     {
-      "id": "work75",
+      "id": "work89",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "«Дострибни до хмаринки»",
@@ -1361,7 +1367,7 @@
       "embedVideo": true
     },
     {
-      "id": "work76",
+      "id": "work90",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "«Горщик-сміхотун»",
@@ -1372,7 +1378,7 @@
       "embedVideo": true
     },
     {
-      "id": "work77",
+      "id": "work91",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "«Їжачок і дівчинка»",
@@ -1383,7 +1389,7 @@
       "embedVideo": true
     },
     {
-      "id": "work78",
+      "id": "work92",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "«Історія про дівчинку, яка наступила на хліб»",
@@ -1394,7 +1400,7 @@
       "embedVideo": true
     },
     {
-      "id": "work79",
+      "id": "work93",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "«Івасик-Телесик»",
@@ -1405,7 +1411,7 @@
       "embedVideo": true
     },
     {
-      "id": "work81",
+      "id": "work94",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "«Котик та півник»",
@@ -1416,7 +1422,7 @@
       "embedVideo": true
     },
     {
-      "id": "work82",
+      "id": "work95",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "«Кривенька качечка»",
@@ -1427,7 +1433,7 @@
       "embedVideo": true
     },
     {
-      "id": "work83",
+      "id": "work96",
       "category": "Музика до кіно та мультфільмів",
       "subcategory": "Мультфільми",
       "title": "«Морозики-морози»",
@@ -1438,47 +1444,59 @@
       "embedVideo": true
     },
     {
-      "id": "work85",
+      "id": "work97",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "«Джордано Бруно»",
-      "year": "",
-      "description": "Опис твору...",
+      "year": "1987",
+      "description": "Анатолій Крим",
+      "productionTeam": ["Ведуча – Наталія Коломієць"],
       "imageUrl": "/images/Джордано_Бруно.jpg",
-      "videoUrl": ""
+      "videoUrl": "http://www.nrcu.gov.ua/prog.html?id=172&page=33",
+      "audioUrl": "http://www.nrcu.gov.ua/audio_slice/AIR-UR3/20220203/3058944.mp3"
     },
     {
-      "id": "work86",
+      "id": "work98",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "«Оборона Буші»",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Михайло Старицький. Радіовистава за історико-пригодницькою романтичною повістю. ",
+      "productionTeam": ["Ведуча – Світлана Гудзь-Войтенко"],
       "imageUrl": "/images/Оборона_Буші.jpg",
-      "videoUrl": ""
+      "videoUrl": "http://nrcu.gov.ua/channel.html?channelID=3&progID=627&sliderIndex=27&date=2024-08-04&page=15",
+      "audioUrl": "http://nrcu.gov.ua/audio_slice/AIR-UR3/20220122/3046476.mp3"
     },
     {
-      "id": "work87",
+      "id": "work99",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "«По дорозі у казку»",
-      "year": "",
-      "description": "Опис твору...",
+      "year": "1989",
+      "description": "Олександр Олесь, драма",
+      "productionTeam": ["Ведуча –Ольга Лігус"],
       "imageUrl": "/images/По_дорозі_у_казку.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://4read.org/1937-oles-oleksandr-po-doroz-v-kazku.html#google_vignette",
+      "audioUrl": "https://reasd.org/1937/По дорозі в казку.mp3"
     },
     {
-      "id": "work88",
+      "id": "work100",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "«Сніг у Флоренції»",
-      "year": "",
-      "description": "Опис твору...",
+      "year": "1985",
+      "description": "Ліна  Костенко, драматична поема",
+      "productionTeam": ["Ведуча – Наталія Коломієць"],
       "imageUrl": "/images/Сніг_у_Флоренції.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://ukr.radio/schedule/play-archive.html?periodItemID=2187648",
+      "embedVideo": false,
+      "videoUrls": [
+        "https://4read.org/2067-kostenko-lyna-snyg-u-florencyyi.html"
+      ],
+      "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20190320/2187648.mp3"
     },
     {
-      "id": "work89",
+      "id": "work101",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "«Соло на флейті»",
@@ -1488,17 +1506,18 @@
       "videoUrl": ""
     },
     {
-      "id": "work90",
+      "id": "work102",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "«Стіна»",
       "year": "",
-      "description": "Опис твору...",
+      "description": "Юрій Щербак, драма. Запис з Фонду Українського радіо 2013 року",
       "imageUrl": "/images/Стіна.jpg",
-      "videoUrl": ""
+      "videoUrl": "https://ukr.radio/schedule/play-archive.html?periodItemID=3775709",
+      "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20240303/3775709.mp3"
     },
     {
-      "id": "work91",
+      "id": "work103",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "«У неділю рано зілля копала...»",
