@@ -743,11 +743,16 @@
       "id": "work50",
       "category": "Orchester der Volksinstrumente",
       "subcategory": "",
-      "title": "'Stück' für Akkordeon",
+      "title": "«Stück» für Bajan und Orchester",
       "year": "",
-      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
+      "description": "Radio Kultur",
+      "productionTeam": [
+        "Gespielt vom Orchester für beliebte Volksmusik des ukrainischen Radios",
+        "Moderatorin – Nataliya Popudribko"
+      ],
       "imageUrl": "/images/П'єса_для_баяна.jpg",
-      "videoUrl": ""
+      "videoUrl": "",
+      "audioUrl": "https://dropbox.com/scl/fi/ouu1c4xv9ynor4gqea8bp/.mp3?rlkey=8dg9fg9xn363a0mo1pvv0nw2m&st=idpza72b&dl=1"
     },
     {
       "id": "work51",
@@ -908,7 +913,7 @@
       "id": "work62",
       "category": "Vokalkompositionen",
       "subcategory": "",
-      "title": "„Ich kehre nach Petschersk zurück“",
+      "title": "\"Ich kehre nach Petschersk zurück\"",
       "year": "1996",
       "description": "Gedicht von Mykola Browtschenko. Vorgetragen von Anatolij Chostikojev.",
       "imageUrl": "/images/Печерськ.jpg",
@@ -919,9 +924,9 @@
       "id": "work63",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
-      "title": "«Die Edelfrau»",
+      "title": "\"Die Edelfrau\"",
       "year": "1996",
-      "description": "Die Premiere von «Die Edelfrau» fand 1996 im Nationaltheater Ivan Franko statt.",
+      "description": "Dramatische Dichtung von Lessja Ukrajinka. Die Premiere von «Die Edelfrau» fand 1996 im Nationaltheater Ivan Franko statt.",
       "productionTeam": ["Regisseur — Dmytro Chyrypyuk"],
       "imageUrl": "/images/Бояриня.jpg",
       "videoUrl": ""
@@ -930,7 +935,7 @@
       "id": "work64",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
-      "title": "'Hamlet'",
+      "title": "\"Hamlet\"",
       "year": "2000",
       "description": [
         "Kyiv Molody Theater, 2000",
@@ -945,7 +950,7 @@
       "id": "work65",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
-      "title": "'Don Juan'",
+      "title": "\"Don Juan\"",
       "year": "2012",
       "description": [
         "Komödie-Mythos. Kiewer Junges Theater.",
@@ -965,7 +970,7 @@
       "id": "work66",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
-      "title": "'Don Quijote. 1938'",
+      "title": "\"Don Quijote. 1938\"",
       "year": "2006",
       "description": [
         "'Don Quijote. 1938'. Die Premiere fand 2006 im Lesja-Ukrainka-Theater statt.",
@@ -986,7 +991,7 @@
       "id": "work67",
       "category": "Musik für Theateraufführungen",
       "subcategory": "2006",
-      "title": "«Ach, Musketiere, Musketiere…»",
+      "title": "\"Ach, Musketiere, Musketiere…\"",
       "year": "",
       "description": [
         "Musical in zwei Akten. Nationaltheater Ivan Franko.",

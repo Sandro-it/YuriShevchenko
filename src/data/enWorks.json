@@ -741,11 +741,16 @@
       "id": "work50",
       "category": "Orchestra of Folk Instruments",
       "subcategory": "",
-      "title": "'Piece' for Bayan",
+      "title": "«Piece» for Bayan and Orchestra",
       "year": "",
-      "description": "We’re Working on This Page, Stay Tuned!",
+      "description": "Radio Culture",
+      "productionTeam": [
+        "Performed by - the Orchestra of Popular Folk Music of Ukrainian Radio",
+        "Host – Nataliya Popudribko"
+      ],
       "imageUrl": "/images/П'єса_для_баяна.jpg",
-      "videoUrl": ""
+      "videoUrl": "",
+      "audioUrl": "https://dropbox.com/scl/fi/ouu1c4xv9ynor4gqea8bp/.mp3?rlkey=8dg9fg9xn363a0mo1pvv0nw2m&st=idpza72b&dl=1"
     },
     {
       "id": "work51",
@@ -918,7 +923,7 @@
       "subcategory": "",
       "title": "«The Noblewoman»",
       "year": "1996",
-      "description": "The premiere of «The Noblewoman» took place at the Ivan Franko National Theater in 1996.",
+      "description": "Dramatic Poem by Lesya Ukrainka. The premiere of «The Noblewoman» took place at the Ivan Franko National Theater in 1996.",
       "productionTeam": ["Director — Dmytro Chyrypyuk"],
       "imageUrl": "/images/Бояриня.jpg",
       "videoUrl": ""

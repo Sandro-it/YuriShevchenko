@@ -743,11 +743,16 @@
       "id": "work50",
       "category": "Оркестр народних інструментів",
       "subcategory": "",
-      "title": "«П'єса» для баяна",
+      "title": "«П'єса» для баяна з оркестром",
       "year": "",
-      "description": "Ми працюємо над цією сторінкою, слідкуйте за оновленнями!",
-      "imageUrl": "/images/П«єса_для_баяна.jpg",
-      "videoUrl": ""
+      "description": "Радіо культура",
+      "productionTeam": [
+        "Виконує - оркестр народної популярної музики українського радіо",
+        "Ведуча – Наталія Попудрібко"
+      ],
+      "imageUrl": "/images/П'єса_для_баяна.jpg",
+      "videoUrl": "",
+      "audioUrl": "https://dropbox.com/scl/fi/ouu1c4xv9ynor4gqea8bp/.mp3?rlkey=8dg9fg9xn363a0mo1pvv0nw2m&st=idpza72b&dl=1"
     },
     {
       "id": "work51",
@@ -759,7 +764,6 @@
       "imageUrl": "/images/Танок_для_баяна.jpg",
       "videoUrl": ""
     },
-
     {
       "id": "work52",
       "category": "Вокальні твори",
@@ -922,7 +926,7 @@
       "subcategory": "",
       "title": "«Бояриня»",
       "year": "1996",
-      "description": "Прем'єра «Боярині»  в Національному театрі імені Івана Франка відбулася в 1996 році.",
+      "description": "Драматична поема Лесі Українки. Прем'єра «Боярині»  в Національному театрі імені Івана Франка відбулася в 1996 році.",
       "productionTeam": ["режисер-постановник — Дмитро Чирипюк"],
       "imageUrl": "/images/Бояриня.jpg",
       "videoUrl": ""
@@ -1526,6 +1530,19 @@
       "videoUrl": "",
       "embedVideo": false,
       "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20200518/2499733.mp3"
+    },
+    {
+      "id": "work104",
+      "category": "Радіовистави",
+      "subcategory": "",
+      "title": "«70 років»",
+      "year": "01.09.2023",
+      "description": "Сьогодні відомому українському композитору Юрію Шевченкові виповнилося б 70 років.",
+      "productionTeam": ["Ведуча – Наталія Попудрібко"],
+      "imageUrl": "/images/Зілля_Аудіо.jpg",
+      "videoUrl": "",
+      "embedVideo": false,
+      "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20230901/3561739.mp3"
     }
   ]
 }
