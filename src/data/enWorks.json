@@ -627,16 +627,6 @@
       "embedVideo": true
     },
     {
-      "id": "work39",
-      "category": "Works for Instruments with Orchestra",
-      "subcategory": "",
-      "title": "'You Walk Day and Night'",
-      "year": "",
-      "description": "We’re Working on This Page, Stay Tuned!",
-      "imageUrl": "/images/и_гуляєш_дні_і_ночі.jpg",
-      "videoUrl": ""
-    },
-    {
       "id": "work40",
       "category": "Works for Instruments with Orchestra",
       "subcategory": "",
@@ -926,9 +916,10 @@
       "id": "work63",
       "category": "Music for Dramatic Performances",
       "subcategory": "",
-      "title": "'Boyarynya'",
-      "year": "",
-      "description": "We’re Working on This Page, Stay Tuned!",
+      "title": "«The Noblewoman»",
+      "year": "1996",
+      "description": "The premiere of «The Noblewoman» took place at the Ivan Franko National Theater in 1996.",
+      "productionTeam": ["Director — Dmytro Chyrypyuk"],
       "imageUrl": "/images/Бояриня.jpg",
       "videoUrl": ""
     },

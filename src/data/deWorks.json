@@ -629,16 +629,6 @@
       "embedVideo": true
     },
     {
-      "id": "work39",
-      "category": "Werke für Instrumente mit Orchester",
-      "subcategory": "",
-      "title": "'Du wanderst Tag und Nacht'",
-      "year": "",
-      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
-      "imageUrl": "/images/и_гуляєш_дні_і_ночі.jpg",
-      "videoUrl": ""
-    },
-    {
       "id": "work40",
       "category": "Werke für Instrumente mit Orchester",
       "subcategory": "",
@@ -929,9 +919,10 @@
       "id": "work63",
       "category": "Musik für Theateraufführungen",
       "subcategory": "",
-      "title": "'Bojaryna'",
-      "year": "",
-      "description": "Wir arbeiten an dieser Seite, bitte bleiben Sie dran!",
+      "title": "«Die Edelfrau»",
+      "year": "1996",
+      "description": "Die Premiere von «Die Edelfrau» fand 1996 im Nationaltheater Ivan Franko statt.",
+      "productionTeam": ["Regisseur — Dmytro Chyrypyuk"],
       "imageUrl": "/images/Бояриня.jpg",
       "videoUrl": ""
     },
