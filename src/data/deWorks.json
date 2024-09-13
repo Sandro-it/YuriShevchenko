@@ -1451,8 +1451,8 @@
       "description": "Anatolii Krym",
       "productionTeam": ["Moderatorin – Nataliia Kolomiiets"],
       "imageUrl": "/images/Джордано_Бруно.jpg",
-      "videoUrl": "http://www.nrcu.gov.ua/prog.html?id=172&page=33",
-      "audioUrl": "http://nrcu.gov.ua/audio_slice/AIR-UR3/20220203/3058944.mp3"
+      "videoUrl": "https://www.nrcu.gov.ua/prog.html?id=172&page=33",
+      "audioUrl": "https://nrcu.gov.ua/audio_slice/AIR-UR3/20220203/3058944.mp3"
     },
     {
       "id": "work98",
@@ -1463,8 +1463,8 @@
       "description": "Mykhailo Staryzkyj. Ein Hörspiel basierend auf einer historischen Abenteuer-Romanze.",
       "productionTeam": ["Moderatorin – Svitlana Hudz-Voitenko"],
       "imageUrl": "/images/Оборона_Буші.jpg",
-      "videoUrl": "http://nrcu.gov.ua/channel.html?channelID=3&progID=627&sliderIndex=27&date=2024-08-04&page=15",
-      "audioUrl": "http://nrcu.gov.ua/audio_slice/AIR-UR3/20220122/3046476.mp3"
+      "videoUrl": "https://nrcu.gov.ua/channel.html?channelID=3&progID=627&sliderIndex=27&date=2024-08-04&page=15",
+      "audioUrl": "https://nrcu.gov.ua/audio_slice/AIR-UR3/20220122/3046476.mp3"
     },
     {
       "id": "work99",
