@@ -1486,9 +1486,10 @@
         "Audioversion des Theaterstücks des Iwan-Franko-Theaters."
       ],
       "productionTeam": ["Moderatorin – Switlana Hudz-Wojtenko"],
-      "imageUrl": "/images/Kräuter_Audio.jpg",
+      "imageUrl": "/images/Зілля_Аудіо.jpg",
       "videoUrl": "",
-      "embedVideo": false
+      "embedVideo": false,
+      "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20200518/2499733.mp3"
     }
   ]
 }

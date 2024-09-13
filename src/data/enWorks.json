@@ -1487,7 +1487,8 @@
       "productionTeam": ["Host – Svitlana Hudz-Voytenko"],
       "imageUrl": "/images/Herbs_Audio.jpg",
       "videoUrl": "",
-      "embedVideo": false
+      "embedVideo": false,
+      "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20200518/2499733.mp3"
     }
   ]
 }
