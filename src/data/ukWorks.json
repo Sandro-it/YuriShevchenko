@@ -495,7 +495,8 @@
       ],
       "imageUrl": "/images/Вокаліз_для_труби_і_струнних.jpg",
       "videoUrl": "https://www.youtube.com/watch?v=oidMzHbH1jc",
-      "embedVideo": true
+      "embedVideo": true,
+      "videoUrls": ["https://youtu.be/ejpw8oeQSDg?feature=shared"]
     },
     {
       "id": "work28",
@@ -1498,16 +1499,6 @@
       "id": "work101",
       "category": "Радіовистави",
       "subcategory": "",
-      "title": "«Соло на флейті»",
-      "year": "",
-      "description": "Опис твору...",
-      "imageUrl": "/images/Соло_на_флейті.jpg",
-      "videoUrl": ""
-    },
-    {
-      "id": "work102",
-      "category": "Радіовистави",
-      "subcategory": "",
       "title": "«Стіна»",
       "year": "",
       "description": "Юрій Щербак, драма. Запис з Фонду Українського радіо 2013 року",
@@ -1516,7 +1507,7 @@
       "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20240303/3775709.mp3"
     },
     {
-      "id": "work103",
+      "id": "work102",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "«У неділю рано зілля копала...»",
@@ -1532,7 +1523,7 @@
       "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20200518/2499733.mp3"
     },
     {
-      "id": "work104",
+      "id": "work103",
       "category": "Радіовистави",
       "subcategory": "",
       "title": "«70 років»",
