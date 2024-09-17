@@ -42,8 +42,8 @@ const EmailModal = ({ isOpen, onClose }) => {
     } else {
       emailjs
         .sendForm(
-          "service_d201y59",
-          "template_8ep8akz",
+          "service_muaxdk6",
+          "template_9sb97t2",
           e.target,
           "n0r__iuFChqjNYKvx"
         )

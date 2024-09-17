@@ -43,14 +43,10 @@ const ContactPage = () => {
     } else {
       emailjs
         .sendForm(
-          "service_d201y59",
-          "template_8ep8akz",
+          "service_muaxdk6",
+          "template_9sb97t2",
           e.target,
           "n0r__iuFChqjNYKvx"
-          // process.env.REACT_APP_EMAIL_SERVICE_ID,
-          // process.env.REACT_APP_EMAIL_TEMPLATE_ID,
-          // e.target,
-          // process.env.REACT_APP_EMAIL_USER_ID
         )
         .then(
           (result) => {
