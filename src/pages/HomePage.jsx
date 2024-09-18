@@ -7,11 +7,11 @@ const HomePage = () => {
   const { t } = useTranslation();
 
   const images = [
-    "/images/ShevaHome1.jpg",
-    "/images/ShevaHome2.jpg",
-    "/images/ShevaHome3.jpg",
-    "/images/ShevaHome4.jpg",
-    "/images/ShevaHome5.jpg",
+    "/images/ShevaHome1-min.jpg",
+    "/images/ShevaHome2-min.jpg",
+    "/images/ShevaHome3-min.jpg",
+    "/images/ShevaHome4-min.jpg",
+    "/images/ShevaHome5-min.jpg",
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
