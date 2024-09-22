@@ -1519,19 +1519,6 @@
       "videoUrl": "",
       "embedVideo": false,
       "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20200518/2499733.mp3"
-    },
-    {
-      "id": "work103",
-      "category": "Radio Plays",
-      "subcategory": "",
-      "title": "\"70 Years\"",
-      "year": "01.09.2023",
-      "description": "Today, the renowned Ukrainian composer Yuri Shevchenko would have turned 70.",
-      "productionTeam": ["Host – Natalia Popudribko"],
-      "imageUrl": "/images/Зілля_Аудіо.jpg",
-      "videoUrl": "",
-      "embedVideo": false,
-      "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20230901/3561739.mp3"
     }
   ]
 }

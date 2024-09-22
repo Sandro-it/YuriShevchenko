@@ -1522,19 +1522,6 @@
       "videoUrl": "",
       "embedVideo": false,
       "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20200518/2499733.mp3"
-    },
-    {
-      "id": "work103",
-      "category": "Hörspiele",
-      "subcategory": "",
-      "title": "\"70 Jahre\"",
-      "year": "01.09.2023",
-      "description": "Heute wäre der bekannte ukrainische Komponist Jurij Schewtschenko 70 Jahre alt geworden.",
-      "productionTeam": ["Moderatorin – Natalia Popudribko"],
-      "imageUrl": "/images/Зілля_Аудіо.jpg",
-      "videoUrl": "",
-      "embedVideo": false,
-      "audioUrl": "https://ukr.radio/audio_slice/AIR-UR3/20230901/3561739.mp3"
     }
   ]
 }
